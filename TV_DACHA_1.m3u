@@ -236,42 +236,27 @@ http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1,Bridge TV
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1,Bridge TV Русский хит
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s78/04.m3u8
 #EXTINF:-1,Fine Living
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s51/04.m3u8
 #EXTINF:-1,Food Network
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1,MCM TOP
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s49/04.m3u8
 #EXTINF:-1,RTG TV
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s80/04.m3u8
 #EXTINF:-1,Здоровье
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1,TV 1000 Action
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s91/04.m3u8
 #EXTINF:-1,Tiji
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1,Доктор
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s76/04.m3u8
 #EXTINF:-1,Загородный
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1,СТС Kids
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s60/04.m3u8
 #EXTINF:-1,Мама
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s77/04.m3u8
@@ -284,9 +269,6 @@ http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTINF:-1,Мульт
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1,НСТ
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:-1,Наука
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s98/04.m3u8
@@ -296,39 +278,18 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1,СТС
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1,Победа
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s47/04.m3u8
 #EXTINF:-1,Рыжий
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1,Сарафан
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s38/04.m3u8
-#EXTINF:-1,ТНТ4
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s100/04.m3u8
 #EXTINF:-1,Техно 24
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1,VIP COMEDY
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s97/04.m3u8
-#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1,H2
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1,6
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s6/04.m3u8
-#EXTINF:-1,7
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s7/04.m3u8
-#EXTINF:-1,13
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s13/04.m3u8
 #EXTINF:-1,Первый канал
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s14/04.m3u8
@@ -365,12 +326,6 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1,ДОМАШНИЙ
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1,SENTANA SPORT+
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1,SENTANA SPORT
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1,Fast BOX
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s79/04.m3u8
@@ -389,9 +344,6 @@ http://ott-cdn.ucom.am/s62/04.m3u8
 #EXTINF:-1,ОХОТНИК И РЫБОЛОВ
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1,ТВЦ
-#EXTGRP:Только Android
-http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1,ПЯТНИЦА
 #EXTGRP:Только Android
 http://ott-cdn.ucom.am/s50/04.m3u8
