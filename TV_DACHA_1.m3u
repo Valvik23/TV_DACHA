@@ -1,27 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Cinema
-#EXTGRP:Кино
+#EXTGRP:КИНО
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1,Bollywood HD
-#EXTGRP:Кино
+#EXTGRP:КИНО
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1,Звезда
-#EXTGRP:Кино
+#EXTGRP:КИНО
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Звезда HD
-#EXTGRP:Кино
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Красная линия
-#EXTGRP:Кино
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1,Крик ТВ
-#EXTGRP:Кино
+#EXTGRP:КИНО
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1,National Geographic Wild HD
 #EXTGRP:Познавательное
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Da Vinci
-#EXTGRP:Познавательное
+#EXTGRP:Детские
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,hdl HD
 #EXTGRP:Познавательное
@@ -39,85 +33,79 @@ http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTGRP:Познавательное
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1,Известия
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Дождь
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1,Россия 24 HD
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Первый канал
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1,Россия 1
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1,РЕН ТВ HD
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1,Рен ТВ
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,РТР Россия
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Липецкое Время
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1,Новое Телевидение
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1,Вместе РФ
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1,Вместе РФ HD
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 #EXTINF:-1,Евроновости
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,Первый канал "Евразия"
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Россия 1 (Калуга)
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1,Союз
 #EXTGRP:Православие
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1,ТНВ Планета
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ACB TV
 #EXTGRP:Музыка
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1,Luxury HD
-#EXTGRP:Познавательное
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,M2O TV
 #EXTGRP:Музыка
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Nano TV
-#EXTGRP:Познавательное
-http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1,Липецкое Время
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1,РБК ТВ
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1,РБК ТВ
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1,РБК ТВ (Уфа)
-#EXTGRP:Общие
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1,Радость Моя
 #EXTGRP:Православие
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1,Рен ТВ
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,Союз
 #EXTGRP:Православие
@@ -149,12 +137,6 @@ https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Смайлик HD
 #EXTGRP:Детские
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1,WOW!TV
-#EXTGRP:Кино
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1,WOW!TV HD
-#EXTGRP:Кино
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,Retro Music Tv
 #EXTGRP:Музыка
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -213,127 +195,121 @@ http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTGRP:Детские
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,Известия ТВ HD
-#EXTGRP:Общие
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1,Kronehit TV HD
 #EXTGRP:Музыка
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1,A1
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:-1,A2
-#EXTGRP:Кино
-http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1,Fine Living
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s51/04.m3u8
 #EXTINF:-1,Food Network
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1,RTG TV
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s80/04.m3u8
 #EXTINF:-1,Здоровье
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s90/04.m3u8
 #EXTINF:-1,Tiji
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s59/04.m3u8
 #EXTINF:-1,Загородный
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1,Рен ТВ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1,Мама
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1,Мир
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s39/04.m3u8
 #EXTINF:-1,Муз ТВ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTINF:-1,Мульт
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1,Наука
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1,Россия 24
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1,СТС
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1,Рыжий
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1,Сарафан
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1,Техно 24
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1,H2
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1,Первый канал
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1,Россия 24
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1,Россия К
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1,НТВ Мир
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1,ТНТ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1,36
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s36/04.m3u8
 #EXTINF:-1,История
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1,Футбол
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1,shanson
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s43/04.m3u8
 #EXTINF:-1,ЭВРИКА
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1,ЗОО ТВ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1,ДОМАШНИЙ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTINF:-1,Fast BOX
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1,Телепутишествия
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1,А HBO
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1,RTG HD
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s63/04.m3u8
 #EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s62/04.m3u8
 #EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1,ПЯТНИЦА
-#EXTGRP:Только Android
+#EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1,Моя Планета
 #EXTGRP:Познавательное
@@ -347,185 +323,26 @@ http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1,Sochi Live HD
 #EXTGRP:Познавательное
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Мосфильм HD
-#EXTGRP:Кино Советское
-http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1,Первый РНК
-#EXTGRP:Кино Советское
+#EXTGRP:КИНО
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1,СССР ТВ (Mars17)
-#EXTGRP:Кино Советское
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Кино 1
-#EXTGRP:Кино Советское
-http://v2.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,Красная Линия
-#EXTGRP:Кино Советское
+#EXTGRP:КИНО
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,Ностальгия
-#EXTGRP:Кино Советское
-http://185.161.224.217/dash/Nostalgiya_SD.ism/playlist.mpd
-#EXTINF:-1,Ностальгия
-#EXTGRP:Кино Советское
-http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
-#EXTINF:-1,Советское Кино HD
-#EXTGRP:Кино Советское
-https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1,Советские комедии HD
-#EXTGRP:Кино Советское
-http://persik.by/stream/2347/472449/10750.m3u8
-#EXTINF:-1,Советские Мультфильмы HD
-#EXTGRP:Кино Советское
-https://strm.yandex.ru/kal/sovmult/sovmult0.m3u8
-#EXTINF:-1,Любимое ТВ HD
-#EXTGRP:Кино Советское
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1,Родное Кино
-#EXTGRP:Кино Советское
-https://s3.idata.uz/dars10/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ретро
-#EXTGRP:Кино Советское
-https://s4.idata.uz/retro/index.m3u8
-#EXTINF:-1,Ретро
-#EXTGRP:Кино Советское
-https://185.74.7.220/retro/index.m3u8
-#EXTINF:-1,KINO 24
-#EXTGRP:Кино Советское
-http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1,Наше Любимое Кино
-#EXTGRP:Кино Советское
-http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
-#EXTINF:-1,Время
-#EXTGRP:Кино Советское
-http://51.68.140.190:8081/tv/vremya/playlist.m3u8
-#EXTINF:-1,Дом Кино
-#EXTGRP:Кино Советское
-http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
-#EXTINF:-1,Дом Кино Премиум
-#EXTGRP:Кино Советское
-http://89.106.234.3/domkino_hd_38_39.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:Кино Советское
-http://89.106.234.3/Cinema_38_39.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:Кино Советское
-http://89.106.234.3/Cinema_34_35.m3u8
-#EXTINF:-1,TV XXI
-#EXTGRP:Кино Советское
-http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
-#EXTINF:-1,TVM Channel
-#EXTGRP:Кино Советское
-https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
 #EXTINF:-1,Звезда HD
-#EXTGRP:Кино Советское
+#EXTGRP:КИНО
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Победа
-#EXTGRP:Кино Советское
-http://89.106.234.3/Pobeda_34_35.m3u8
-#EXTINF:-1,Победа
-#EXTGRP:Кино Советское
-http://89.106.234.3/Pobeda_36_37.m3u8
-#EXTINF:-1,Победа
-#EXTGRP:Кино Советское
-http://176.197.26.198:81/udp/239.255.42.143:1234
-#EXTINF:-1,Sci-Fi (Mars17)
-#EXTGRP:Кино Зарубежное
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,horror (Mars17)
-#EXTGRP:Кино Зарубежное
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,НСТрашное
-#EXTGRP:Кино Зарубежное
-http://51.195.44.53:8081/tv/nst/chunks.m3u8
-#EXTINF:-1,НСТрашное
-#EXTGRP:Кино Зарубежное
-http://51.195.44.53:8081/tv/nst/playlist.m3u8
-#EXTINF:-1,ТВ3 HD
-#EXTGRP:Кино Зарубежное
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1,Еврокино
-#EXTGRP:Кино Зарубежное
-http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
-#EXTINF:-1,Amedia 2
-#EXTGRP:Кино Зарубежное
-http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
-#EXTINF:-1,Film Box
-#EXTGRP:Кино Зарубежное
-http://pro100tv.my1.ru/TV5/filmbox_pr.m3u8
-#EXTINF:-1,Film Box Arthouse
-#EXTGRP:Кино Зарубежное
-http://pro100tv.my1.ru/TV5/filmbox_arthouse_.m3u8
-#EXTINF:-1,Иллюзион +
-#EXTGRP:Кино Зарубежное
-http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
-#EXTINF:-1,TV1000
-#EXTGRP:Кино Зарубежное
-https://s4.idata.uz/TV1000/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1,TV1000
-#EXTGRP:Кино Зарубежное
-https://s4.idata.uz/TV1000/index.m3u8
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Кино Зарубежное
-http://persik.by/stream/2347/472449/10238.m3u8
-#EXTINF:-1,Мужское кино HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,Киномикс HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Kinomix_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Киносемья HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,Кинопремьера HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,Кинохит HD
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/Kinohit_hd_34_35.m3u8
-#EXTINF:-1,ViP Megahit HD
-#EXTGRP:Кино Зарубежное
-http://188.35.9.11:2016
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Кино Зарубежное
-http://188.35.9.11:2015
-#EXTINF:-1,ТНТ
-#EXTGRP:Кино Зарубежное
-http://uiptv.do.am/1ufc/106596187/playlist.m3u8
-#EXTINF:-1,ТНТ4
-#EXTGRP:Кино Зарубежное
-http://51.68.141.106:8081/tv/tnt4/chunks.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:Кино Зарубежное
-http://89.106.234.3/RenTV_38_39.m3u8
-#EXTINF:-1,Мир сериала
-#EXTGRP:Кино Зарубежное
-https://strm.yandex.ru/kal/mirseriala/mirseriala0_43_480p.json/index-v1-a1.m3u8
-#EXTINF:-1,НТВ (+4)
-#EXTGRP:Кино Зарубежное
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1,СТС (+4)
-#EXTGRP:Кино Зарубежное
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
-#EXTINF:-1,ТВ Центр (+4)
-#EXTGRP:Кино Зарубежное
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tvc/playlist.m3u8
-#EXTINF:-1,Че (+4)
-#EXTGRP:Кино Зарубежное
-http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
 #EXTINF:-1,Мир (+4)
-#EXTGRP:Кино Зарубежное
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1,Мир HD
-#EXTGRP:Кино Зарубежное
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир Premium HD
-#EXTGRP:Кино Зарубежное
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
 #EXTINF:-1,Мир 24 HD
-#EXTGRP:Кино Зарубежное
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Крик ТВ
 #EXTGRP:Познавательное
@@ -548,12 +365,6 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT Doc HD
 #EXTGRP:Познавательное
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1,Неизвестная планета
-#EXTGRP:Познавательное
-https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0.m3u8
-#EXTINF:-1,Syria News
-#EXTGRP:Познавательное
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:-1,Кавказ 24
 #EXTGRP:КавказТВ
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
@@ -591,44 +402,26 @@ https://cdn.onarmtv.com/str/2/output.m3u8
 #EXTGRP:КавказТВ
 https://cdn.onarmtv.com/str/9/output.m3u8
 #EXTINF:-1,Первый канал HD
-#EXTGRP:Центральные каналы РФ
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 #EXTINF:-1,Россия 1 HD
-#EXTGRP:Центральные каналы РФ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:Центральные каналы РФ
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 1 (+6)
-#EXTGRP:Центральные каналы РФ
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
 #EXTINF:-1,Россия 24
-#EXTGRP:Центральные каналы РФ
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1,Россия К
-#EXTGRP:Центральные каналы РФ
+#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Кубань 24 Орбита
-#EXTGRP:Русский ЮГ
-https://stream.kuban24.tv:1500/hls/stream.m3u8
-#EXTINF:-1,Сочи 24 HD
-#EXTGRP:Русский ЮГ
-http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:-1,Sochi Live HD
-#EXTGRP:Русский ЮГ
+#EXTGRP:Познавательное
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
-#EXTGRP:Русский ЮГ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
 #EXTINF:-1,43 HD
-#EXTGRP:Русский ЮГ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1,Россия 1 (Сочи)
-#EXTGRP:Русский ЮГ
-http://sochi.camera:8080/cam_255/playlist.m3u8
-#EXTINF:-1,Россия 1 (Сочи)
-#EXTGRP:Русский ЮГ
-http://sochi.camera:8080/cam_255/index.m3u8?token=null
 #EXTINF:-1,Дядя Ваня
 #EXTGRP:Новороссия
 http://hls.goodgame.ru/hls/54105.m3u8
@@ -738,28 +531,28 @@ http://193.238.110.3/2/hls/live.m3u8
 #EXTGRP:КРЫМ
 http://193.238.110.3/3/hls/live.m3u8
 #EXTINF:-1,ТРК Евразия (Орск) +2
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1,Новосибирск (stream)
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
 #EXTINF:-1,Новосибирск
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
 #EXTINF:-1,Омск
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
 #EXTINF:-1,Владивосток
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
 #EXTINF:-1,Калининград
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
 #EXTINF:-1,Краснодар
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
 #EXTINF:-1,Грозный
-#EXTGRP:РФ онлайн
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
 #EXTINF:-1,Актау - Берег Каспия 14 мкрн HD
 #EXTGRP:КАЗАХСТАН
