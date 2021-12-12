@@ -12,25 +12,25 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTGRP:КИНО
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Da Vinci
 #EXTGRP:Детские
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,hdl HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,Travel Guid-TV
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Здоровье ТВ
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,Мособр TV
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1,Мособр TV HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
@@ -111,10 +111,10 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTGRP:Православие
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1,Univer TV
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1,Univer TV HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ HD
 #EXTGRP:Детские
@@ -312,13 +312,13 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTGRP:РАЗНЫЕ Android
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1,Первый РНК
 #EXTGRP:КИНО
@@ -342,22 +342,22 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Царьград
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 #EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,RT News HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1,Кавказ 24
 #EXTGRP:КавказТВ
@@ -408,7 +408,7 @@ https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Sochi Live HD
-#EXTGRP:Познавательное
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
 #EXTGRP:РЕГИОНЫ РОССИИ
@@ -654,25 +654,25 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTGRP:КИНО
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1,National Geographic Wild HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Da Vinci
 #EXTGRP:Детские
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,hdl HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,Travel Guid-TV
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Здоровье ТВ
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,Мособр TV
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1,Мособр TV HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
@@ -750,10 +750,10 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1,Univer TV
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1,Univer TV HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ HD
 #EXTGRP:Детские
@@ -867,7 +867,7 @@ http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1,Наука
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1,Россия 24
 #EXTGRP:РАЗНЫЕ
@@ -882,10 +882,10 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1,Техно 24
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1,H2
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1,Первый канал
 #EXTGRP:РАЗНЫЕ
@@ -915,10 +915,10 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s43/04.m3u8
 #EXTINF:-1,ЭВРИКА
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1,ЗОО ТВ
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1,ДОМАШНИЙ
 #EXTGRP:РАЗНЫЕ
@@ -927,7 +927,7 @@ http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1,Телепутишествия
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1,А HBO
 #EXTGRP:РАЗНЫЕ
@@ -945,13 +945,13 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1,Первый РНК
 #EXTGRP:КИНО
@@ -975,22 +975,22 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Царьград
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 #EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,RT News HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1,Кавказ 24
 #EXTGRP:КавказТВ
@@ -1041,7 +1041,7 @@ https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Sochi Live HD
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
 #EXTGRP:РЕГИОНЫ РОССИИ
@@ -1599,7 +1599,7 @@ http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-14664
 #EXTGRP:КАЗАХСТАН
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1,Аригус 24
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://arigus-online.ru/files/playlist.m3u8
 #EXTINF:-1,Архыз 24
 #EXTGRP:РЕГИОНЫ РОССИИ
@@ -1614,7 +1614,7 @@ http://stream.afontovo.ru/afontovo.m3u8
 #EXTGRP:РАЗНЫЕ
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,Баланс ТВ
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://stream.balance-tv.ru:1936/btv/btvStream_720p/playlist.m3u8
 #EXTINF:-1,БелРос
 #EXTGRP:БЕЛАРУСЬ
@@ -1632,7 +1632,7 @@ http://serv25.vintera.tv:8081/hdmedia/laltrlsu/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
 #EXTINF:-1,Большая Азия
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test.m3u8
 #EXTINF:-1,Бум ТВ
 #EXTGRP:РАЗНЫЕ
@@ -1650,7 +1650,7 @@ http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
 #EXTGRP:РЕГИОНЫ РОССИИ
 http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
 #EXTINF:-1,Горная Страна
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
 #EXTINF:-1,Громадське HD
 #EXTGRP:РАЗНЫЕ
@@ -1785,7 +1785,7 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:ВОКРУГ СВЕТА
+#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Муз
 #EXTGRP:РАЗНЫЕ
