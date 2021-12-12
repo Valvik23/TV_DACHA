@@ -654,25 +654,25 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTGRP:КИНО
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Da Vinci
 #EXTGRP:Детские
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,hdl HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1,Travel Guid-TV
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Здоровье ТВ
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,Мособр TV
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1,Мособр TV HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1,Известия
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
@@ -749,14 +749,11 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,Союз
-#EXTGRP:Православие
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1,Univer TV
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1,Univer TV HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,Смайлик ТВ HD
 #EXTGRP:Детские
@@ -770,12 +767,6 @@ http://iptv-telik.usite.pro/load/0-0-1-125-20
 #EXTINF:-1,Смайлик ТВ HD
 #EXTGRP:Детские
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Радость моя
-#EXTGRP:Православие
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:Православие
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Смайлик HD
 #EXTGRP:Детские
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
@@ -876,7 +867,7 @@ http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1,Наука
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1,Россия 24
 #EXTGRP:РАЗНЫЕ
@@ -891,10 +882,10 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1,Техно 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1,H2
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1,Первый канал
 #EXTGRP:РАЗНЫЕ
@@ -924,10 +915,10 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s43/04.m3u8
 #EXTINF:-1,ЭВРИКА
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1,ЗОО ТВ
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1,ДОМАШНИЙ
 #EXTGRP:РАЗНЫЕ
@@ -936,7 +927,7 @@ http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1,Телепутишествия
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1,А HBO
 #EXTGRP:РАЗНЫЕ
@@ -954,13 +945,13 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1,Первый РНК
 #EXTGRP:КИНО
@@ -984,22 +975,22 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Царьград
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 #EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,RT News HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1,Кавказ 24
 #EXTGRP:КавказТВ
@@ -1050,7 +1041,7 @@ https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Sochi Live HD
-#EXTGRP:Познавательное
+#EXTGRP:ВОКРУГ СВЕТА
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1,СТРК HD
 #EXTGRP:РЕГИОНЫ РОССИИ
@@ -1338,10 +1329,10 @@ http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
 #EXTINF:-1,8 Канал (Красноярск)
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1,8 Канал (Новосибирск)
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
 #EXTINF:-1,ATR
 #EXTGRP:РАЗНЫЕ
@@ -1461,13 +1452,13 @@ http://81.30.182.82:18092/hls/live.m3u8
 #EXTGRP:РАЗНЫЕ
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1,Music Box
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:Музыка
 http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
 #EXTINF:-1,Music Box UA
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:Музыка
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1,Music Vox TV
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:Музыка
 http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
 #EXTINF:-1,Music Vox TV Olds Cool
 #EXTGRP:РАЗНЫЕ
@@ -1569,16 +1560,16 @@ http://tv-topshop.netrack.ru/hls/topshop.m3u8
 #EXTGRP:РАЗНЫЕ
 http://ip.tumar.tv/hls/stream.m3u8
 #EXTINF:-1,UA TV
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:УКРАИНА
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,UA Крым
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:УКРАИНА
 http://95.67.70.106/hls/uakrim_ua_mid/index.m3u8
 #EXTINF:-1,UA Культура
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:УКРАИНА
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1,UA Перший
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:УКРАИНА
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1,Virgin Radio TV
 #EXTGRP:РАЗНЫЕ
@@ -1605,34 +1596,34 @@ http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
 #EXTINF:-1,Алматы TV (KZ)
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:КАЗАХСТАН
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1,Аригус 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://arigus-online.ru/files/playlist.m3u8
 #EXTINF:-1,Архыз 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/playlist.m3u8
 #EXTINF:-1,Астрахань 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1,Афонтово
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://stream.afontovo.ru/afontovo.m3u8
 #EXTINF:-1,БСТ
 #EXTGRP:РАЗНЫЕ
 http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
 #EXTINF:-1,Баланс ТВ
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://stream.balance-tv.ru:1936/btv/btvStream_720p/playlist.m3u8
 #EXTINF:-1,БелРос
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:БЕЛАРУСЬ
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1,Беларусь 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:БЕЛАРУСЬ
 https://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:-1,Белгород 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1,Бойцовский Дух
 #EXTGRP:РАЗНЫЕ
@@ -1641,7 +1632,7 @@ http://serv25.vintera.tv:8081/hdmedia/laltrlsu/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
 #EXTINF:-1,Большая Азия
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test.m3u8
 #EXTINF:-1,Бум ТВ
 #EXTGRP:РАЗНЫЕ
@@ -1656,10 +1647,10 @@ http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
 #EXTINF:-1,Волгоград 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
 #EXTINF:-1,Горная Страна
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
 #EXTINF:-1,Громадське HD
 #EXTGRP:РАЗНЫЕ
@@ -1674,7 +1665,7 @@ http://31.185.0.24:8080/udp/239.195.32.10:1234
 #EXTGRP:РАЗНЫЕ
 http://tvsever.ru:1936/live/adm2/playlist.m3u8
 #EXTINF:-1,Дон 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://cdn-01.bonus-tv.ru:7779/don24/index.m3u8
 #EXTINF:-1,Евразия (KZ)
 #EXTGRP:РАЗНЫЕ
@@ -1683,7 +1674,7 @@ http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
 #EXTINF:-1,Енисей
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://air.enisey.tv/enisey.m3u8
 #EXTINF:-1,Еспресо
 #EXTGRP:РАЗНЫЕ
@@ -1695,7 +1686,7 @@ http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://195.5.108.14:1935/live/itv1/playlist.m3u8
 #EXTINF:-1,Ингушетия ТВ
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
 #EXTINF:-1,Интер
 #EXTGRP:РАЗНЫЕ
@@ -1719,7 +1710,7 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://31.185.0.24:8080/udp/239.195.32.20:1234
 #EXTINF:-1,Катунь 24
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1,Киев
 #EXTGRP:РАЗНЫЕ
@@ -1737,19 +1728,19 @@ http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1,Краснодар ТВ
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1,Крик ТВ
 #EXTGRP:РАЗНЫЕ
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 #EXTINF:-1,Крым 1 HD
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:КРЫМ
 http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
 #EXTINF:-1,Крым 24 HD
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:КРЫМ
 http://vid.techbee.pro:8080/crimea24/index.m3u8
 #EXTINF:-1,Кубань 24 Орбита
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://195.133.144.235:8080/hls/stream.m3u8
 #EXTINF:-1,Курай
 #EXTGRP:РАЗНЫЕ
@@ -1794,7 +1785,7 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTGRP:РАЗНЫЕ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Моя Планета
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:ВОКРУГ СВЕТА
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,Муз
 #EXTGRP:РАЗНЫЕ
@@ -1917,7 +1908,7 @@ http://217.20.164.181/live/rada480p.stream/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1,Радость Моя
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:Православие
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1,Раз ТВ
 #EXTGRP:РАЗНЫЕ
@@ -1992,7 +1983,7 @@ http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTGRP:РАЗНЫЕ
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1,Спас
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:Православие
 http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
 #EXTINF:-1,Страна FM TV
 #EXTGRP:РАЗНЫЕ
@@ -2076,7 +2067,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTGRP:РАЗНЫЕ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1,Югра
-#EXTGRP:РАЗНЫЕ
+#EXTGRP:РЕГИОНЫ РОССИИ
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1,Юмор TV
 #EXTGRP:РАЗНЫЕ
@@ -2108,3 +2099,9 @@ http://37.9.0.201:8888
 #EXTINF:-1,Evil Angel TV (18+)
 #EXTGRP:РАЗНЫЕ
 http://37.9.0.201:8889
+#EXTINF:-1,Союз
+#EXTGRP:Православие
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Три Ангела
+#EXTGRP:Православие
+http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
