@@ -1,105 +1,105 @@
-#EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Cinema.png",Cinema
+#EXTM3U
+#EXTINF:-1 group-title="Кино",Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD
+#EXTINF:-1 group-title="Кино",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Звезда.png",Звезда
+#EXTINF:-1 group-title="Кино",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Звезда.png",Звезда HD
+#EXTINF:-1 group-title="Кино",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Красная линия.png",Красная линия
+#EXTINF:-1 group-title="Кино",Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Крик тв.png",Крик ТВ
+#EXTINF:-1 group-title="Кино",Крик ТВ
 http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/National Geographic Channel.png",National Geographic Wild HD
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Da Vinci Learning.png",Da Vinci
+#EXTINF:-1 group-title="Познавательные",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/HDL (HD Life).png",hdl HD
+#EXTINF:-1 group-title="Познавательные",hdl HD
 https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Russian Travel Guide.png",Travel Guid-TV
+#EXTINF:-1 group-title="Познавательные",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Russian Travel Guide.png",Travel Guide TV
+#EXTINF:-1 group-title="Познавательные",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Здоровье.png",Здоровье ТВ
+#EXTINF:-1 group-title="Познавательные",Здоровье ТВ
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Космос ТВ.png",Мособр TV
+#EXTINF:-1 group-title="Познавательные",Мособр TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Недвижимость.png",Мособр TV HD
+#EXTINF:-1 group-title="Познавательные",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Известия.png",Известия
+#EXTINF:-1 group-title="Общие",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Дождь.png",Дождь
+#EXTINF:-1 group-title="Общие",Дождь
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24 HD
+#EXTINF:-1 group-title="Общие",Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
+#EXTINF:-1 group-title="Общие",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Россия 1.png",Россия 1
+#EXTINF:-1 group-title="Общие",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РЕН ТВ HD.png",РЕН ТВ HD
+#EXTINF:-1 group-title="Общие",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
+#EXTINF:-1 group-title="Общие",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РТР Россия.png",РТР Россия
+#EXTINF:-1 group-title="Общие",РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Липецкое время.png",Липецкое Время
+#EXTINF:-1 group-title="Общие",Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Новое телевидение.png",Новое Телевидение
+#EXTINF:-1 group-title="Общие",Новое Телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Вместе РФ.png",Вместе РФ
+#EXTINF:-1 group-title="Общие",Вместе РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Вместе РФ.png",Вместе РФ HD
+#EXTINF:-1 group-title="Общие",Вместе РФ HD
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Евроновости.png",Евроновости
+#EXTINF:-1 group-title="Общие",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Первый канал (Беларусь).png",Первый канал "Евразия"
+#EXTINF:-1 group-title="Общие",Первый канал "Евразия"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РТР Россия.png",РТР Россия
+#EXTINF:-1 group-title="Общие",РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Россия 1 HD.png",Россия 1 (Калуга)
+#EXTINF:-1 group-title="Общие",Россия 1 (Калуга)
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="Православие" tvg-logo="../Channel/Logo/Союз.png",Союз
+#EXTINF:-1 group-title="Православие",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/ТНВ Татарстан.png",ТНВ Планета
+#EXTINF:-1 group-title="Общие",ТНВ Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/ACB TV.png",ACB TV
+#EXTINF:-1 group-title="Музыка",ACB TV
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Luxury HD.png",Luxury HD
+#EXTINF:-1 group-title="Познавательные",Luxury HD
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="Музыка",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Nano TV.png",Nano TV
+#EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Липецкое время.png",Липецкое Время
+#EXTINF:-1 group-title="Общие",Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РБК.png",РБК ТВ
+#EXTINF:-1 group-title="Общие",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РБК.png",РБК ТВ
+#EXTINF:-1 group-title="Общие",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РБК.png",РБК ТВ (Уфа)
+#EXTINF:-1 group-title="Общие",РБК ТВ (Уфа)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Православие" tvg-logo="../Channel/Logo/Радость моя.png",Радость Моя
+#EXTINF:-1 group-title="Православие",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
+#EXTINF:-1 group-title="Общие",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="Православие" tvg-logo="../Channel/Logo/Союз.png",Союз
+#EXTINF:-1 group-title="Православие",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Univer TV.png",Univer TV
+#EXTINF:-1 group-title="Познавательные",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Univer TV_.png",Univer TV HD
+#EXTINF:-1 group-title="Познавательные",Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Lale.png",Lale
+#EXTINF:-1 group-title="Детские",Lale
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon HD
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
 http://iptv-telik.usite.pro/load/0-0-1-125-20
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="Православие" tvg-logo="../Channel/Logo/Радость моя.png",Радость моя
+#EXTINF:-1 group-title="Православие",Радость моя
 https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Православие" tvg-logo="../Channel/Logo/Радость моя.png",Радость Моя
+#EXTINF:-1 group-title="Православие",Радость Моя
 https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик HD
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
@@ -107,159 +107,159 @@ http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1 group-title="Кино",WOW!TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Retro Music Television.png",Retro Music Tv
+#EXTINF:-1 group-title="Музыка",Retro Music Tv
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный HD.png",Первый Музыкальный BY
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный Russian.png",Первый Музыкальный BY [FHD]
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный Russian.png",Первый Музыкальный RU BY
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Кинопоказ 1HD.png",1HD Music TV
+#EXTINF:-1 group-title="Музыка",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/ACB TV.png",ACB TV
+#EXTINF:-1 group-title="Музыка",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="../Channel/Logo/Первый музыкальный Russian.png",Первый Музыкальный RU HD BY
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/НТВ+ 3D.png",НТВ+ Спорт
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Астрахань 24.png",Астрахань.Ru Sport
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Астрахань 24.png",Астрахань.Ru Sport HD
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/НТВ+ 3D.png",НТВ+ Спорт
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Asia RED ON.png",Red Bull TV
+#EXTINF:-1 group-title="Спорт",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/National Geographic.png",Al Kass Спортs 1 HD
+#EXTINF:-1 group-title="Спорт",Al Kass Спортs 1 HD
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/GlobalStar.png",Alsace 20
+#EXTINF:-1 group-title="Спорт",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Larry King.png",Arryadia Спорт
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Larry King.png",Arryadia Спорт HD
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/HBO Signature.png",Turkmen Спорт
+#EXTINF:-1 group-title="Спорт",Turkmen Спорт
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Известия HD.png",Известия ТВ HD
+#EXTINF:-1 group-title="Общие",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Luxury HD.png",Luxury HD
+#EXTINF:-1 group-title="Познавательные",Luxury HD
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="Музыка",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/A1.png",A1
+#EXTINF:-1 group-title="Кино",A1
 http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/A2.png",A2
+#EXTINF:-1 group-title="Кино",A2
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Bridge TV.png",Bridge TV
+#EXTINF:-1 group-title="Только Android",Bridge TV
 http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/BRIDGE TV Русский хит.png",Bridge TV Русский хит
+#EXTINF:-1 group-title="Только Android",Bridge TV Русский хит
 http://ott-cdn.ucom.am/s78/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Fine Living.png",Fine Living
+#EXTINF:-1 group-title="Только Android",Fine Living
 http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Food Network.png",Food Network
+#EXTINF:-1 group-title="Только Android",Food Network
 http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/MCM TOP.png",MCM TOP
+#EXTINF:-1 group-title="Только Android",MCM TOP
 http://ott-cdn.ucom.am/s49/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/RTG TV.png",RTG TV
+#EXTINF:-1 group-title="Только Android",RTG TV
 http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Здоровье.png",Здоровье
+#EXTINF:-1 group-title="Только Android",Здоровье
 http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/TV 1000 Action.png",TV 1000 Action
+#EXTINF:-1 group-title="Только Android",TV 1000 Action
 http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Tiji.png",Tiji
+#EXTINF:-1 group-title="Только Android",Tiji
 http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Доктор.png",Доктор
+#EXTINF:-1 group-title="Только Android",Доктор
 http://ott-cdn.ucom.am/s76/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Загородный.png",Загородный
+#EXTINF:-1 group-title="Только Android",Загородный
 http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/РЕН ТВ.png",Рен ТВ
+#EXTINF:-1 group-title="Только Android",Рен ТВ
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/СТС Kids.png",СТС Kids
+#EXTINF:-1 group-title="Только Android",СТС Kids
 http://ott-cdn.ucom.am/s60/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Мама.png",Мама
+#EXTINF:-1 group-title="Только Android",Мама
 http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Мир.png",Мир
+#EXTINF:-1 group-title="Только Android",Мир
 http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/МУЗ ТВ.png",Муз ТВ
+#EXTINF:-1 group-title="Только Android",Муз ТВ
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Мульт.png",Мульт
+#EXTINF:-1 group-title="Только Android",Мульт
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/НСТ.png",НСТ
+#EXTINF:-1 group-title="Только Android",НСТ
 http://ott-cdn.ucom.am/s87/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Наука.png",Наука
+#EXTINF:-1 group-title="Только Android",Наука
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
+#EXTINF:-1 group-title="Только Android",Россия 24
 http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/СТС.png",СТС
+#EXTINF:-1 group-title="Только Android",СТС
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Победа.png",Победа
+#EXTINF:-1 group-title="Только Android",Победа
 http://ott-cdn.ucom.am/s47/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Рыжий.png",Рыжий
+#EXTINF:-1 group-title="Только Android",Рыжий
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Сарафан.png",Сарафан
+#EXTINF:-1 group-title="Только Android",Сарафан
 http://ott-cdn.ucom.am/s38/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/ТНТ4.png",ТНТ4
+#EXTINF:-1 group-title="Только Android",ТНТ4
 http://ott-cdn.ucom.am/s100/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Техно 24.png",Техно 24
+#EXTINF:-1 group-title="Только Android",Техно 24
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/VIP Comedy.png",VIP COMEDY
+#EXTINF:-1 group-title="Только Android",VIP COMEDY
 http://ott-cdn.ucom.am/s97/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Приключения HD.png",ПРИКЛЮЧЕНИЯ HD
+#EXTINF:-1 group-title="Только Android",ПРИКЛЮЧЕНИЯ HD
 http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/H2.png",H2
+#EXTINF:-1 group-title="Только Android",H2
 http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/TV6.png",6
+#EXTINF:-1 group-title="Только Android",6
 http://ott-cdn.ucom.am/s6/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/78.png",7
+#EXTINF:-1 group-title="Только Android",7
 http://ott-cdn.ucom.am/s7/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/4iptv13.png",13
+#EXTINF:-1 group-title="Только Android",13
 http://ott-cdn.ucom.am/s13/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Первый канал.png",Первый канал
+#EXTINF:-1 group-title="Только Android",Первый канал
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Россия 24.png",Россия 24
+#EXTINF:-1 group-title="Только Android",Россия 24
 http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Россия К.png",Россия К
+#EXTINF:-1 group-title="Только Android",Россия К
 http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/НТВ Мир.png",НТВ Мир
+#EXTINF:-1 group-title="Только Android",НТВ Мир
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/ТНТ.png",ТНТ
+#EXTINF:-1 group-title="Только Android",ТНТ
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/360°.png",36
+#EXTINF:-1 group-title="Только Android",36
 http://ott-cdn.ucom.am/s36/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/История.png",История
+#EXTINF:-1 group-title="Только Android",История
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Футбол.png",Футбол
+#EXTINF:-1 group-title="Только Android",Футбол
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Shant TV.png",shanson
+#EXTINF:-1 group-title="Только Android",shanson
 http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Эврика HD.png",ЭВРИКА
+#EXTINF:-1 group-title="Только Android",ЭВРИКА
 http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Зоо ТВ.png",ЗОО ТВ
+#EXTINF:-1 group-title="Только Android",ЗОО ТВ
 http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Домашний.png",ДОМАШНИЙ
+#EXTINF:-1 group-title="Только Android",ДОМАШНИЙ
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Sexto Senso.png",SENTANA SPORT+
+#EXTINF:-1 group-title="Только Android",SENTANA SPORT+
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Sexto Senso.png",SENTANA SPORT
+#EXTINF:-1 group-title="Только Android",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/fast and fun box hd.png",Fast BOX
+#EXTINF:-1 group-title="Только Android",Fast BOX
 http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Телепутешествия.png",Телепутишествия
+#EXTINF:-1 group-title="Только Android",Телепутишествия
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Еда HD.png",А HBO
+#EXTINF:-1 group-title="Только Android",А HBO
 http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/RTG HD.png",RTG HD
+#EXTINF:-1 group-title="Только Android",RTG HD
 http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Охотник и Рыболов HD.png",ОХОТНИК И РЫБОЛОВ HD
+#EXTINF:-1 group-title="Только Android",ОХОТНИК И РЫБОЛОВ HD
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Охотник и рыболов.png",ОХОТНИК И РЫБОЛОВ
+#EXTINF:-1 group-title="Только Android",ОХОТНИК И РЫБОЛОВ
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/ТВЦ.png",ТВЦ
+#EXTINF:-1 group-title="Только Android",ТВЦ
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1 group-title="Только Android" tvg-logo="../Channel/Logo/Пятница.png",ПЯТНИЦА
+#EXTINF:-1 group-title="Только Android",ПЯТНИЦА
 http://ott-cdn.ucom.am/s50/04.m3u8
