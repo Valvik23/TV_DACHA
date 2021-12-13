@@ -25,8 +25,6 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Горная Страна
-http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Здоровье ТВ
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Большая Азия
