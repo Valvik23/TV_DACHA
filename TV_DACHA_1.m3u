@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Техно 24
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",H2
 http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Наука
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",ЭВРИКА
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",National Geographic Wild HD
@@ -27,16 +27,10 @@ http://ott-cdn.ucom.am/s71/04.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Здоровье ТВ
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Большая Азия
-http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Мособр TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Баланс ТВ
-http://stream.balance-tv.ru:1936/btv/btvStream_720p/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Аригус 24
-http://arigus-online.ru/files/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Univer TV HD
@@ -47,26 +41,24 @@ https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Brics TV HD (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT News HD
-https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT Doc HD
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT Doc HD
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Спас
 http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1
