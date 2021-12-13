@@ -1,5071 +1,979 @@
 #EXTM3U
-#EXTINF:-1,Da Vinci
-#EXTGRP:Детские
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Союз
-#EXTGRP:Православие
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,ТНВ Планета
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Первый РНК
-#EXTGRP:КИНО
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1,Sochi Live HD
-#EXTGRP:Познавательное
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Россия 1
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Союз
-#EXTGRP:Православие
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Красная Линия
-#EXTGRP:КИНО
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,СТРК HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
-#EXTINF:-1,РТР Россия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:Православие
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Lale
-#EXTGRP:Детские
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Звезда HD
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,43 HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Россия 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:Детские
-http://iptv-telik.usite.pro/load/0-0-1-125-20
-#EXTINF:-1,Радость моя
-#EXTGRP:Православие
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Известия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Первый канал "Евразия"
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:Православие
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:Познавательное
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:КИНО
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:Познавательное
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,Россия 1 (Калуга)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
-#EXTINF:-1,Смайлик HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1,Известия ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Bollywood HD
-#EXTGRP:КИНО
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,hdl HD
-#EXTGRP:Познавательное
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1,Дождь
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Крик ТВ
-#EXTGRP:КИНО
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1,Travel Guid-TV
-#EXTGRP:Познавательное
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,РЕН ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,РБК ТВ (Уфа)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1,Здоровье ТВ
-#EXTGRP:Познавательное
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,ТРК Евразия (Орск) +2
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1,Мособр TV
-#EXTGRP:Познавательное
-http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,Новосибирск (stream)
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,Мособр TV HD
-#EXTGRP:Познавательное
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1,Новое Телевидение
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Новосибирск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,Вместе РФ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1,Univer TV
-#EXTGRP:Познавательное
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1,Омск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
-#EXTINF:-1,Вместе РФ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1,Univer TV HD
-#EXTGRP:Познавательное
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,Владивосток
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Калининград
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1,Царьград
-#EXTGRP:Познавательное
-https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1,Краснодар
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:Познавательное
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1,Грозный
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:Познавательное
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1,Мир (+4)
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1,RT News HD
-#EXTGRP:Познавательное
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1,Мир HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,Мир Premium HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:Познавательное
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1,Мир 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Первый канал HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1,M2O TV
-#EXTGRP:Музыка
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Retro Music Tv
-#EXTGRP:Музыка
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный BY
-#EXTGRP:Музыка
-http://rtmp.one.by:1200
-#EXTINF:-1,Первый Музыкальный BY [FHD]
-#EXTGRP:Музыка
-http://rtmp.one.by:1300
-#EXTINF:-1,Первый Музыкальный RU BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2200
-#EXTINF:-1,1HD Music TV
-#EXTGRP:Музыка
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1,М2
-#EXTGRP:Музыка
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,Первый Музыкальный RU HD BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2300
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Red Bull TV
-#EXTGRP:Спорт
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Al Kass Спортs 1 HD
-#EXTGRP:Спорт
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,Alsace 20
-#EXTGRP:Спорт
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Arryadia Спорт
-#EXTGRP:Спорт
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Arryadia Спорт HD
-#EXTGRP:Спорт
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Turkmen Спорт
-#EXTGRP:Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1,Kronehit TV HD
-#EXTGRP:Музыка
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1,Fine Living
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1,Food Network
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1,RTG TV
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1,Здоровье
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1,Tiji
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1,Загородный
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1,Мама
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1,Мир
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1,Муз ТВ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1,Мульт
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1,Наука
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1,СТС
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1,Рыжий
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1,Сарафан
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s38/04.m3u8
-#EXTINF:-1,Техно 24
-#EXTGRP:РАЗНЫЕ Android
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Техно 24
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1,H2
-#EXTGRP:РАЗНЫЕ Android
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",H2
 http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1,НТВ Мир
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,36
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s36/04.m3u8
-#EXTINF:-1,История
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1,Футбол
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1,shanson
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1,ЭВРИКА
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1,ЗОО ТВ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1,ДОМАШНИЙ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1,Fast BOX
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1,Телепутишествия
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1,А HBO
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1,RTG HD
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1,ПЯТНИЦА
-#EXTGRP:РАЗНЫЕ Android
-http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1,Кавказ 24
-#EXTGRP:КавказТВ
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1,РГВК Дагестан
-#EXTGRP:КавказТВ
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1,НТРК Ингушетия
-#EXTGRP:КавказТВ
-https://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/chunklist.m3u8?hls_proxy_host=pub2.rtmp.s01.l.ntk
-#EXTINF:-1,Armenia TV HD
-#EXTGRP:КавказТВ
-https://cdn.onarmtv.com/str/3/output.m3u8
-#EXTINF:-1,Armenia 1 TV HD
-#EXTGRP:КавказТВ
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1,Armenia 1 TV
-#EXTGRP:КавказТВ
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1,Armenia Premium 1 TV
-#EXTGRP:КавказТВ
-https://cdn.onarmtv.com/str/7/output.m3u8
-#EXTINF:-1,ARMNewsTV
-#EXTGRP:КавказТВ
-https://cdn.onarmtv.com/str/10/output.m3u8
-#EXTINF:-1,LiveNews
-#EXTGRP:КавказТВ
-https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/85a5e4ef3511f6c9a27f46abac1d8634--itadvice--itadvice_1080--chunklist.m3u8
-#EXTINF:-1,H1 TV
-#EXTGRP:КавказТВ
-https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1,H2 TV
-#EXTGRP:КавказТВ
-https://cdn.onarmtv.com/str/2/output.m3u8
-#EXTINF:-1,Шогакат ТВ
-#EXTGRP:КавказТВ
-https://cdn.onarmtv.com/str/9/output.m3u8
-#EXTINF:-1,Дядя Ваня
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/54105.m3u8
-#EXTINF:-1,Антимайдан HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/6147_720.m3u8
-#EXTINF:-1,Народная дипломатия HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1,Республиканский 1
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1,Новороссия HD
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,Юнион
-#EXTGRP:Новороссия
-http://dprtv.phoenix-dnr.ru/union
-#EXTINF:-1,Оплот
-#EXTGRP:Новороссия
-http://31.133.57.158/hls/1234.m3u8
-#EXTINF:-1,Оплот 2
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1,Беларусь 24
-#EXTGRP:БЕЛАРУСЬ
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1,Беларусь 4 (Витебск)
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26258/belarus4
-#EXTINF:-1,Беларусь 5
-#EXTGRP:БЕЛАРУСЬ
-https://95-213-224-179.livesports24.online/belarusss5.m3u8
-#EXTINF:-1,Наше ТВ Витебск
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26259/nashe
-#EXTINF:-1,БелРос
-#EXTGRP:БЕЛАРУСЬ
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Варяг
-#EXTGRP:БЕЛАРУСЬ
-http://87.252.229.252:8081/varag
-#EXTINF:-1,Витебск ТВ
-#EXTGRP:БЕЛАРУСЬ
-https://flu.vtv.by/tvt-non-by/index.m3u8
-#EXTINF:-1,ОНТ (Беларусь)
-#EXTGRP:БЕЛАРУСЬ
-http://persik.by/stream/8460/291680/10258.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://tv2.onenet.by:80/STV/mono.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://93.125.121.50:8080/STV/index.m3u8
-#EXTINF:-1,8 канал (Витебск) HD
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:24433/art
-#EXTINF:-1,Брест 7 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1028
-#EXTINF:-1,Брест 9 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1029
-#EXTINF:-1,Крым 1 HD
-#EXTGRP:КРЫМ
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,Крым 24 HD
-#EXTGRP:КРЫМ
-http://live.1tvcrimea.ru:8080/switcher.m3u8
-#EXTINF:-1,Крым 24
-#EXTGRP:КРЫМ
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1,Миллет
-#EXTGRP:КРЫМ
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1,8 канал (Крым)
-#EXTGRP:КРЫМ
-http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1,НТС (Севастополь)
-#EXTGRP:КРЫМ
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1,ИКС
-#EXTGRP:КРЫМ
-http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:-1,ИТВ Крым
-#EXTGRP:КРЫМ
-http://iptv.media-ix.com:11375/itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Артек Горный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/4/hls/live.m3u8
-#EXTINF:-1,Артек Кипарисный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/9/hls/live.m3u8
-#EXTINF:-1,Артек Лесной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/5/hls/live.m3u8
-#EXTINF:-1,Артек Озерный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/8/hls/live.m3u8
-#EXTINF:-1,Артек Речной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/6/hls/live.m3u8
-#EXTINF:-1,Артек Хрустальный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/2/hls/live.m3u8
-#EXTINF:-1,Артек Янтарный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/3/hls/live.m3u8
-#EXTINF:-1,Актау - Берег Каспия 14 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy14/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 15 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy15/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 4 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy4/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 5 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy5/index.m3u8
-#EXTINF:-1,Актау - Верхние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/yntymak/index.m3u8
-#EXTINF:-1,Актау - ДрамТеатр HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/dramteatr/index.m3u8
-#EXTINF:-1,Актау - Нижние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/downtown/index.m3u8
-#EXTINF:-1,Интер
-#EXTGRP:УКРАИНА
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,112 Усраина HD
-#EXTGRP:УКРАИНА
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1,24 Усраина HD
-#EXTGRP:УКРАИНА
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1,7 канал HD (Одесса)
-#EXTGRP:УКРАИНА
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1,Правда (НЕ!) ТУТ Хуев
-#EXTGRP:УКРАИНА
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Прямий HD
-#EXTGRP:УКРАИНА
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,НТА Львов
-#EXTGRP:УКРАИНА
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:-1,ATR
-#EXTGRP:УКРАИНА
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,(НЕ!) Настоящее время
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Deutsche Welle
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,Fox News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://f.ok2.se:8000/martin1/martin123/363
-#EXTINF:-1,Big News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://live.chdrstatic.com/cbn/primary/2.m3u8
-#EXTINF:-1,France 24
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Bloomberg
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1,abc NEWS
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,CBN News
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8
-#EXTINF:-1,UCTV - University of California
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1,USA - Folly Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://169.47.9.197:1935/live/fb.stream/playlist.m3u8
-#EXTINF:-1,USA - Manasquan HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/playlist.m3u8
-#EXTINF:-1,USA - Wrightsville Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
-#EXTINF:-1,Хельсинки
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
-#EXTINF:-1,Париж
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
-#EXTINF:-1,Италия
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://51.254.113.157:8081/caorle/webcam-vescovado/chunks.m3u8
-#EXTINF:-1,Первый российский национальный канал
-#EXTGRP:Новые каналы
-TVSources &id='pervyj rossijskij naczional`nyj kanal_d0'
-#EXTINF:-1,.black
-#EXTGRP:Новые каналы
-TVSources &id='.black_00'
-#EXTINF:-1,Мир сериала
-#EXTGRP:Фильмы
-TVSources &id='mir seriala_d0'
-#EXTINF:-1,Shopping live
-#EXTGRP:Магазин
-TVSources &id='shopping live_00'
-#EXTINF:-1,Мужское кино
-#EXTGRP:Фильмы
-TVSources &id='muzhskoe kino_d0'
-#EXTINF:-1,KHL Prime
-#EXTGRP:Новые каналы
-TVSources &id='khl prime_00'
-#EXTINF:-1,Звезда
-#EXTGRP:Общественные
-TVSources &id='zvezda_d0'
-#EXTINF:-1,ViP Serial
-#EXTGRP:Новые каналы
-TVSources &id='vip serial_00'
-#EXTINF:-1,Радио Romantika
-#EXTGRP:Новые каналы
-TVSources &id='radio romantika_00'
-#EXTINF:-1,SHOT TV
-#EXTGRP:Эротика
-TVSources &id='shot tv_00'
-#EXTINF:-1,Мультиландия
-#EXTGRP:Новые каналы
-TVSources &id='mul`tilandiya_d0'
-#EXTINF:-1,Ключ
-#EXTGRP:Новые каналы
-TVSources &id='klyuch_d0'
-#EXTINF:-1,Мосфильм. Золотая коллекция
-#EXTGRP:Новые каналы
-TVSources &id='mosfil`m. zolotaya kollekcziya_d0'
-#EXTINF:-1,О!
-#EXTGRP:Детские
-TVSources &id='o!_d0'
-#EXTINF:-1,Восток ТВ
-#EXTGRP:Музыка
-TVSources &id='vostok tv_d0'
-#EXTINF:-1,Museum HD
-#EXTGRP:Новые каналы
-TVSources &id='museum hd_00'
-#EXTINF:-1,Bollywood HD
-#EXTGRP:Фильмы
-TVSources &id='bollywood hd_00'
-#EXTINF:-1,Amedia Hit
-#EXTGRP:Фильмы
-TVSources &id='amedia hit_00'
-#EXTINF:-1,Детское радио
-#EXTGRP:Новые каналы
-TVSources &id='detskoe radio_d0'
-#EXTINF:-1,Дом кино
-#EXTGRP:Фильмы
-TVSources &id='dom kino_d0'
-#EXTINF:-1,LIVE 3
-#EXTGRP:Новые каналы
-TVSources &id='live 3_00'
-#EXTINF:-1,КВН ТВ
-#EXTGRP:Развлекательные
-TVSources &id='kvn tv_d0'
-#EXTINF:-1,Relax FM
-#EXTGRP:Новые каналы
-TVSources &id='relax fm_00'
-#EXTINF:-1,Кинохит
-#EXTGRP:Фильмы
-TVSources &id='kinokhit_d0'
-#EXTINF:-1,БелРос
-#EXTGRP:Общественные
-TVSources &id='belros_d0'
-#EXTINF:-1,Здоровое ТВ
-#EXTGRP:Познавательные
-TVSources &id='zdorovoe tv_d0'
-#EXTINF:-1,Россия 1
-#EXTGRP:Общественные
-TVSources &id='rossiya 1_d0'
-#EXTINF:-1,Star Cinema HD
-#EXTGRP:Новые каналы
-TVSources &id='star cinema hd_00'
-#EXTINF:-1,A2
-#EXTGRP:Фильмы
-TVSources &id='a2_00'
-#EXTINF:-1,Радио Disney
-#EXTGRP:Новые каналы
-TVSources &id='radio disney_00'
-#EXTINF:-1,История
-#EXTGRP:Познавательные
-TVSources &id='istoriya_d0'
-#EXTINF:-1,Ля минор
-#EXTGRP:Музыка
-TVSources &id='lya minor_d0'
-#EXTINF:-1,LIVE 1
-#EXTGRP:Новые каналы
-TVSources &id='live 1_00'
-#EXTINF:-1,Т24
-#EXTGRP:Новые каналы
-TVSources &id='t24_00'
-#EXTINF:-1,Детский Мир
-#EXTGRP:Детские
-TVSources &id='detskij mir_d0'
-#EXTINF:-1,TV1000
-#EXTGRP:Фильмы
-TVSources &id='tv1000_00'
-#EXTINF:-1,КИНО ТВ HD
-#EXTGRP:Фильмы
-TVSources &id='kino tv hd_d0'
-#EXTINF:-1,Viasat Sport HD
-#EXTGRP:Спорт
-TVSources &id='viasat sport hd_00'
-#EXTINF:-1,Загородная жизнь HD
-#EXTGRP:Новые каналы
-TVSources &id='zagorodnaya zhizn` hd_d0'
-#EXTINF:-1,2х2
-#EXTGRP:Развлекательные
-TVSources &id='2kh2_00'
-#EXTINF:-1,LIVE 4
-#EXTGRP:Новые каналы
-TVSources &id='live 4_00'
-#EXTINF:-1,360° Новости
-#EXTGRP:Новостные
-TVSources &id='360176 novosti_d0'
-#EXTINF:-1,Комедия
-#EXTGRP:Фильмы
-TVSources &id='komediya_d0'
-#EXTINF:-1,Пятница!
-#EXTGRP:Развлекательные
-TVSources &id='pyatnicza!_d0'
-#EXTINF:-1,Победа HD
-#EXTGRP:Новые каналы
-TVSources &id='pobeda hd_d0'
-#EXTINF:-1,Первый канал
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal_d0'
-#EXTINF:-1,Shant Music HD
-#EXTGRP:Музыка
-TVSources &id='shant music hd_00'
-#EXTINF:-1,MTV Live HD
-#EXTGRP:Музыка
-TVSources &id='mtv live hd_00'
-#EXTINF:-1,Доктор
-#EXTGRP:Познавательные
-TVSources &id='doktor_d0'
-#EXTINF:-1,Матч! Боец
-#EXTGRP:Спорт
-TVSources &id='match! boecz_d0'
-#EXTINF:-1,Киномикс
-#EXTGRP:Фильмы
-TVSources &id='kinomiks_d0'
-#EXTINF:-1,Star Family
-#EXTGRP:Фильмы
-TVSources &id='star family_00'
-#EXTINF:-1,English Club HD
-#EXTGRP:Новые каналы
-TVSources &id='english club hd_00'
-#EXTINF:-1,HISTORY2 HD
-#EXTGRP:Новые каналы
-TVSources &id='history2 hd_00'
-#EXTINF:-1,Exxxotica
-#EXTGRP:Новые каналы
-TVSources &id='exxxotica_00'
-#EXTINF:-1,Disney Channel
-#EXTGRP:Детские
-TVSources &id='disney channel_00'
-#EXTINF:-1,Бобёр
-#EXTGRP:Познавательные
-TVSources &id='bobyor_d0'
-#EXTINF:-1,CNN International
-#EXTGRP:Новостные
-TVSources &id='cnn international_00'
-#EXTINF:-1,Охота и рыбалка
-#EXTGRP:Мужские
-TVSources &id='okhota i rybalka_d0'
-#EXTINF:-1,TLC HD
-#EXTGRP:Познавательные
-TVSources &id='tlc hd_00'
-#EXTINF:-1,Малыш ТВ
-#EXTGRP:Новые каналы
-TVSources &id='malysh tv_d0'
-#EXTINF:-1,Shant Premium HD
-#EXTGRP:Армянские
-TVSources &id='shant premium hd_00'
-#EXTINF:-1,СПАС
-#EXTGRP:Религиозные
-TVSources &id='spas_d0'
-#EXTINF:-1,Russian Extreme Ultra HD
-#EXTGRP:Ultra HD каналы
-TVSources &id='russian extreme ultra hd_00'
-#EXTINF:-1,Союз
-#EXTGRP:Религиозные
-TVSources &id='soyuz_d0'
-#EXTINF:-1,Кинокомедия
-#EXTGRP:Фильмы
-TVSources &id='kinokomediya_d0'
-#EXTINF:-1,TV5Monde Europe HD
-#EXTGRP:Европейские
-TVSources &id='tv5monde europe hd_00'
-#EXTINF:-1,СТС Love
-#EXTGRP:Фильмы
-TVSources &id='sts love_00'
-#EXTINF:-1,Tiji
-#EXTGRP:Детские
-TVSources &id='tiji_00'
-#EXTINF:-1,TV1000 Action
-#EXTGRP:Фильмы
-TVSources &id='tv1000 action_00'
-#EXTINF:-1,Киносемья
-#EXTGRP:Фильмы
-TVSources &id='kinosem`ya_d0'
-#EXTINF:-1,Travel Channel
-#EXTGRP:Познавательные
-TVSources &id='travel channel_00'
-#EXTINF:-1,Comedy Radio
-#EXTGRP:Новые каналы
-TVSources &id='comedy radio_00'
-#EXTINF:-1,ТВ 3
-#EXTGRP:Развлекательные
-TVSources &id='tv 3_d0'
-#EXTINF:-1,Animal Planet HD
-#EXTGRP:Познавательные
-TVSources &id='animal planet hd_00'
-#EXTINF:-1,Nat Geo Wild
-#EXTGRP:Познавательные
-TVSources &id='nat geo wild_00'
-#EXTINF:-1,Baby TV
-#EXTGRP:Детские
-TVSources &id='baby tv_00'
-#EXTINF:-1,Zooпарк
-#EXTGRP:Познавательные
-TVSources &id='zoopark_d0'
-#EXTINF:-1,Жар птица
-#EXTGRP:Музыка
-TVSources &id='zhar pticza_d0'
-#EXTINF:-1,Travel+ Adventure
-#EXTGRP:Познавательные
-TVSources &id='travel+ adventure_00'
-#EXTINF:-1,ВМЕСТЕ-РФ
-#EXTGRP:Информационные
-TVSources &id='vmeste rf_d0'
-#EXTINF:-1,Amedia Premium
-#EXTGRP:Фильмы
-TVSources &id='amedia premium_00'
-#EXTINF:-1,Карусель
-#EXTGRP:Детские
-TVSources &id='karusel`_d0'
-#EXTINF:-1,СТС
-#EXTGRP:Общественные
-TVSources &id='sts_d0'
-#EXTINF:-1,Радость моя
-#EXTGRP:Детские
-TVSources &id='radost` moya_d0'
-#EXTINF:-1,Дом Кино ПРЕМИУМ
-#EXTGRP:Новые каналы
-TVSources &id='dom kino premium_d0'
-#EXTINF:-1,Da Vinci Learning
-#EXTGRP:Познавательные
-TVSources &id='da vinci learning_00'
-#EXTINF:-1,Babes TV HD
-#EXTGRP:Эротика
-TVSources &id='babes tv hd_00'
-#EXTINF:-1,Родное кино
-#EXTGRP:Фильмы
-TVSources &id='rodnoe kino_d0'
-#EXTINF:-1,BRIDGE ШЛЯГЕР
-#EXTGRP:Новые каналы
-TVSources &id='bridge shlyager_00'
-#EXTINF:-1,LIVE 2
-#EXTGRP:Новые каналы
-TVSources &id='live 2_00'
-#EXTINF:-1,Eurosport Gold
-#EXTGRP:Спорт
-TVSources &id='eurosport gold_00'
-#EXTINF:-1,Brazzers TV Europe
-#EXTGRP:Эротика
-TVSources &id='brazzers tv europe_00'
-#EXTINF:-1,Наше любимое кино
-#EXTGRP:Фильмы
-TVSources &id='nashe lyubimoe kino_d0'
-#EXTINF:-1,Kazakh TV
-#EXTGRP:Новые каналы
-TVSources &id='kazakh tv_00'
-#EXTINF:-1,Юмор FM
-#EXTGRP:Новые каналы
-TVSources &id='yumor fm_d0'
-#EXTINF:-1,Ani
-#EXTGRP:Познавательные
-TVSources &id='ani_00'
-#EXTINF:-1,ЛДПР ТВ
-#EXTGRP:Общественные
-TVSources &id='ldpr tv_d0'
-#EXTINF:-1,Ностальгия
-#EXTGRP:Общественные
-TVSources &id='nostal`giya_d0'
-#EXTINF:-1,Моя планета
-#EXTGRP:Познавательные
-TVSources &id='moya planeta_d0'
-#EXTINF:-1,ТНТ
-#EXTGRP:Общественные
-TVSources &id='tnt_d0'
-#EXTINF:-1,Живи активно HD
-#EXTGRP:Новые каналы
-TVSources &id='zhivi aktivno hd_d0'
-#EXTINF:-1,ОТР
-#EXTGRP:Общественные
-TVSources &id='otr_d0'
-#EXTINF:-1,МУЛЬТ
-#EXTGRP:Детские
-TVSources &id='mul`t_d0'
-#EXTINF:-1,Food Network HD
-#EXTGRP:Познавательные
-TVSources &id='food network hd_00'
-#EXTINF:-1,HGTV HD
-#EXTGRP:Новые каналы
-TVSources &id='hgtv hd_00'
-#EXTINF:-1,Русская ночь
-#EXTGRP:Эротика
-TVSources &id='russkaya noch`_d0'
-#EXTINF:-1,.sci-fi
-#EXTGRP:Новые каналы
-TVSources &id='.sci fi_00'
-#EXTINF:-1,ViP Megahit
-#EXTGRP:Фильмы
-TVSources &id='vip megahit_00'
-#EXTINF:-1,WORLD FASHION CHANNEL HD
-#EXTGRP:Развлекательные
-TVSources &id='world fashion channel hd_00'
-#EXTINF:-1,РЕН ТВ HD
-#EXTGRP:Общественные
-TVSources &id='ren tv hd_d0'
-#EXTINF:-1,Paramount Comedy HD
-#EXTGRP:Фильмы
-TVSources &id='paramount comedy hd_00'
-#EXTINF:-1,Домашний
-#EXTGRP:Общественные
-TVSources &id='domashnij_d0'
-#EXTINF:-1,Точка отрыва
-#EXTGRP:Новые каналы
-TVSources &id='tochka otryva_d0'
-#EXTINF:-1,Настоящее страшное ТВ
-#EXTGRP:Фильмы
-TVSources &id='nastoyashhee strashnoe tv_d0'
-#EXTINF:-1,BRIDGE DELUXE
-#EXTGRP:Новые каналы
-TVSources &id='bridge deluxe_00'
-#EXTINF:-1,Наука
-#EXTGRP:Познавательные
-TVSources &id='nauka_d0'
-#EXTINF:-1,Живи!
-#EXTGRP:Развлекательные
-TVSources &id='zhivi!_d0'
-#EXTINF:-1,Fashion & LifeStyle
-#EXTGRP:Новые каналы
-TVSources &id='fashion & lifestyle_00'
-#EXTINF:-1,КХЛ
-#EXTGRP:Спорт
-TVSources &id='kkhl_d0'
-#EXTINF:-1,Еда
-#EXTGRP:Познавательные
-TVSources &id='eda_d0'
-#EXTINF:-1,ТВЦ
-#EXTGRP:Общественные
-TVSources &id='tvcz_d0'
-#EXTINF:-1,BRIDGE TV HITS
-#EXTGRP:Новые каналы
-TVSources &id='bridge tv hits_00'
-#EXTINF:-1,Россия К
-#EXTGRP:Общественные
-TVSources &id='rossiya k_d0'
-#EXTINF:-1,Мультимузыка
-#EXTGRP:Музыка
-TVSources &id='mul`timuzyka_d0'
-#EXTINF:-1,Shop & Show
-#EXTGRP:Магазин
-TVSources &id='shop & show_00'
-#EXTINF:-1,Ретро ТВ
-#EXTGRP:Общественные
-TVSources &id='retro tv_d0'
-#EXTINF:-1,CGTN Русский
-#EXTGRP:Общественные
-TVSources &id='cgtn russkij_d0'
-#EXTINF:-1,Всё ТВ
-#EXTGRP:Информационные
-TVSources &id='vsyo tv_d0'
-#EXTINF:-1,ПОЕХАЛИ!
-#EXTGRP:Новые каналы
-TVSources &id='poekhali!_d0'
-#EXTINF:-1,Ювелирочка
-#EXTGRP:Магазин
-TVSources &id='yuvelirochka_d0'
-#EXTINF:-1,Europa Plus TV
-#EXTGRP:Музыка
-TVSources &id='europa plus tv_00'
-#EXTINF:-1,Nickelodeon
-#EXTGRP:Детские
-TVSources &id='nickelodeon_00'
-#EXTINF:-1,Deutsche Welle
-#EXTGRP:Новостные
-TVSources &id='deutsche welle_00'
-#EXTINF:-1,Ю
-#EXTGRP:Общественные
-TVSources &id='yu_d0'
-#EXTINF:-1,Эхо TV
-#EXTGRP:Общественные
-TVSources &id='ekho tv_d0'
-#EXTINF:-1,Clubbing TV HD
-#EXTGRP:Новые каналы
-TVSources &id='clubbing tv hd_00'
-#EXTINF:-1,Shant Serial HD
-#EXTGRP:Новые каналы
-TVSources &id='shant serial hd_00'
-#EXTINF:-1,V1 Ego
-#EXTGRP:Новые каналы
-TVSources &id='v1 ego_00'
-#EXTINF:-1,Cinema
-#EXTGRP:Фильмы
-TVSources &id='cinema_00'
-#EXTINF:-1,Иллюзион+
-#EXTGRP:Фильмы
-TVSources &id='illyuzion+_d0'
-#EXTINF:-1,Шант Kids HD
-#EXTGRP:Новые каналы
-TVSources &id='shant kids hd_00'
-#EXTINF:-1,Уникум
-#EXTGRP:Новые каналы
-TVSources &id='unikum_d0'
-#EXTINF:-1,Шансон ТВ
-#EXTGRP:Музыка
-TVSources &id='shanson tv_d0'
-#EXTINF:-1,Шалун HD
-#EXTGRP:Эротика
-TVSources &id='shalun hd_d0'
-#EXTINF:-1,Хабар 24
-#EXTGRP:Новые каналы
-TVSources &id='khabar 24_d0'
-#EXTINF:-1,Авто плюс
-#EXTGRP:Мужские
-TVSources &id='avto plyus_d0'
-#EXTINF:-1,Большая Азия HD
-#EXTGRP:Познавательные
-TVSources &id='bol`shaya aziya hd_d0'
-#EXTINF:-1,Оружие
-#EXTGRP:Мужские
-TVSources &id='oruzhie_d0'
-#EXTINF:-1,Феникс плюс Кино HD
-#EXTGRP:Новые каналы
-TVSources &id='feniks plyus kino hd_d0'
-#EXTINF:-1,Усадьба
-#EXTGRP:Познавательные
-TVSources &id='usad`ba_d0'
-#EXTINF:-1,СТАРТ
-#EXTGRP:Спорт
-TVSources &id='start_d0'
-#EXTINF:-1,#Кто куда
-#EXTGRP:Новые каналы
-TVSources &id='#kto kuda_d0'
-#EXTINF:-1,АВТО24
-#EXTGRP:Мужские
-TVSources &id='avto24_d0'
-#EXTINF:-1,В гостях у сказки
-#EXTGRP:Фильмы
-TVSources &id='v gostyakh u skazki_d0'
-#EXTINF:-1,Радио ENERGY
-#EXTGRP:Новые каналы
-TVSources &id='radio energy_00'
-#EXTINF:-1,Mezzo
-#EXTGRP:Музыка
-TVSources &id='mezzo_00'
-#EXTINF:-1,AIVA
-#EXTGRP:Новые каналы
-TVSources &id='aiva_00'
-#EXTINF:-1,Театр
-#EXTGRP:Фильмы
-TVSources &id='teatr_d0'
-#EXTINF:-1,Тайны Галактики
-#EXTGRP:Познавательные
-TVSources &id='tajny galaktiki_d0'
-#EXTINF:-1,Mezzo Live HD
-#EXTGRP:Музыка
-TVSources &id='mezzo live hd_00'
-#EXTINF:-1,ТНТ MUSIC
-#EXTGRP:Музыка
-TVSources &id='tnt music_00'
-#EXTINF:-1,ТНТ4
-#EXTGRP:Развлекательные
-TVSources &id='tnt4_d0'
-#EXTINF:-1,Тномер
-#EXTGRP:Познавательные
-TVSources &id='tnomer_d0'
-#EXTINF:-1,Матч Премьер
-#EXTGRP:Спорт
-TVSources &id='match prem`er_d0'
-#EXTINF:-1,ТЕЛЕКАФЕ
-#EXTGRP:Познавательные
-TVSources &id='telekafe_d0'
-#EXTINF:-1,FAN HD
-#EXTGRP:Фильмы
-TVSources &id='fan hd_00'
-#EXTINF:-1,Eurosport 1 HD
-#EXTGRP:Спорт
-TVSources &id='eurosport 1 hd_00'
-#EXTINF:-1,Муз ТВ
-#EXTGRP:Музыка
-TVSources &id='muz tv_d0'
-#EXTINF:-1,Беларусь 24
-#EXTGRP:Общественные
-TVSources &id='belarus` 24_d0'
-#EXTINF:-1,360°
-#EXTGRP:Развлекательные
-TVSources &id='360176_00'
-#EXTINF:-1,Просвещение
-#EXTGRP:Познавательные
-TVSources &id='prosveshhenie_d0'
-#EXTINF:-1,Russian Extreme HD
-#EXTGRP:Спорт
-TVSources &id='russian extreme hd_00'
-#EXTINF:-1,Моя Планета HD
-#EXTGRP:Познавательные
-TVSources &id='moya planeta hd_d0'
-#EXTINF:-1,SONG TV HD Russia
-#EXTGRP:Новые каналы
-TVSources &id='song tv hd russia_00'
-#EXTINF:-1,Русский детектив
-#EXTGRP:Фильмы
-TVSources &id='russkij detektiv_d0'
-#EXTINF:-1,Viasat Nature HD
-#EXTGRP:Познавательные
-TVSources &id='viasat nature hd_00'
-#EXTINF:-1,Discovery Channel HD
-#EXTGRP:Познавательные
-TVSources &id='discovery channel hd_00'
-#EXTINF:-1,BRIDGE РУССКИЙ ХИТ
-#EXTGRP:Новые каналы
-TVSources &id='bridge russkij khit_d0'
-#EXTINF:-1,Stingray iConcerts HD
-#EXTGRP:Музыка
-TVSources &id='stingray iconcerts hd_00'
-#EXTINF:-1,Евроновости
-#EXTGRP:Новостные
-TVSources &id='evronovosti_d0'
-#EXTINF:-1,Киносвидание
-#EXTGRP:Фильмы
-TVSources &id='kinosvidanie_d0'
-#EXTINF:-1,History HD
-#EXTGRP:Познавательные
-TVSources &id='history hd_00'
-#EXTINF:-1,Gagsnetwork
-#EXTGRP:Новые каналы
-TVSources &id='gagsnetwork_00'
-#EXTINF:-1,Music Box Russia
-#EXTGRP:Новые каналы
-TVSources &id='music box russia_00'
-#EXTINF:-1,НТВ
-#EXTGRP:Общественные
-TVSources &id='ntv_d0'
-#EXTINF:-1,Дикая рыбалка HD
-#EXTGRP:Новые каналы
-TVSources &id='dikaya rybalka hd_d0'
-#EXTINF:-1,Моторспорт ТВ HD
-#EXTGRP:Новые каналы
-TVSources &id='motorsport tv hd_d0'
-#EXTINF:-1,Пятый канал
-#EXTGRP:Общественные
-TVSources &id='pyatyj kanal_d0'
-#EXTINF:-1,Ратник
-#EXTGRP:Общественные
-TVSources &id='ratnik_d0'
-#EXTINF:-1,Дума ТВ
-#EXTGRP:Новые каналы
-TVSources &id='duma tv_d0'
-#EXTINF:-1,Глазами туриста
-#EXTGRP:Новые каналы
-TVSources &id='glazami turista_d0'
-#EXTINF:-1,RTД
-#EXTGRP:Информационные
-TVSources &id='rtd_00'
-#EXTINF:-1,Viasat Nature/History HD
-#EXTGRP:Познавательные
-TVSources &id='viasat naturehistory hd_00'
-#EXTINF:-1,A1 HD
-#EXTGRP:Фильмы
-TVSources &id='a1 hd_00'
-#EXTINF:-1,Cartoon Network HD
-#EXTGRP:Детские
-TVSources &id='cartoon network hd_00'
-#EXTINF:-1,Известия HD
-#EXTGRP:Новостные
-TVSources &id='izvestiya hd_d0'
-#EXTINF:-1,Nat Geo Wild HD
-#EXTGRP:HD каналы
-TVSources &id='nat geo wild hd_00'
-#EXTINF:-1,ID HD
-#EXTGRP:Новые каналы
-TVSources &id='id hd_00'
-#EXTINF:-1,Наше новое кино
-#EXTGRP:Фильмы
-TVSources &id='nashe novoe kino_d0'
-#EXTINF:-1,РТ ТВ
-#EXTGRP:Новые каналы
-TVSources &id='rt tv_d0'
-#EXTINF:-1,Драйв
-#EXTGRP:Мужские
-TVSources &id='drajv_d0'
-#EXTINF:-1,Авторадио
-#EXTGRP:Новые каналы
-TVSources &id='avtoradio_d0'
-#EXTINF:-1,MTV 00’s
-#EXTGRP:Новые каналы
-TVSources &id='mtv 00128?s_00'
-#EXTINF:-1,Music Box Gold
-#EXTGRP:Новые каналы
-TVSources &id='music box gold_00'
-#EXTINF:-1,NHK World Japan
-#EXTGRP:Познавательные
-TVSources &id='nhk world japan_00'
-#EXTINF:-1,РБК-ТВ HD
-#EXTGRP:Новые каналы
-TVSources &id='rbk tv hd_d0'
-#EXTINF:-1,ID
-#EXTGRP:Новые каналы
-TVSources &id='id_00'
-#EXTINF:-1,Сарафан
-#EXTGRP:Развлекательные
-TVSources &id='sarafan_d0'
-#EXTINF:-1,Дорама
-#EXTGRP:Фильмы
-TVSources &id='dorama_d0'
-#EXTINF:-1,Eurosport Gold HD
-#EXTGRP:Новые каналы
-TVSources &id='eurosport gold hd_00'
-#EXTINF:-1,Русский иллюзион
-#EXTGRP:Фильмы
-TVSources &id='russkij illyuzion_d0'
-#EXTINF:-1,myZen.tv HD
-#EXTGRP:Познавательные
-TVSources &id='myzen.tv hd_00'
-#EXTINF:-1,Nick Jr.
-#EXTGRP:Детские
-TVSources &id='nick jr._00'
-#EXTINF:-1,Viasat Explore HD
-#EXTGRP:Новые каналы
-TVSources &id='viasat explore hd_00'
-#EXTINF:-1,CCTV-4
-#EXTGRP:Новые каналы
-TVSources &id='cctv 4_00'
-#EXTINF:-1,Русский бестселлер
-#EXTGRP:Фильмы
-TVSources &id='russkij bestseller_d0'
-#EXTINF:-1,Калейдоскоп ТВ
-#EXTGRP:Развлекательные
-TVSources &id='kalejdoskop tv_d0'
-#EXTINF:-1,Охотник и рыболов HD
-#EXTGRP:Новые каналы
-TVSources &id='okhotnik i rybolov hd_d0'
-#EXTINF:-1,Живая природа
-#EXTGRP:Новые каналы
-TVSources &id='zhivaya priroda_d0'
-#EXTINF:-1,О2ТВ
-#EXTGRP:Музыка
-TVSources &id='o2tv_d0'
-#EXTINF:-1,BRIDGE CLASSIC
-#EXTGRP:Новые каналы
-TVSources &id='bridge classic_00'
-#EXTINF:-1,РЕН ТВ
-#EXTGRP:Общественные
-TVSources &id='ren tv_d0'
-#EXTINF:-1,Глазами туриста 4K
-#EXTGRP:Новые каналы
-TVSources &id='glazami turista 4k_d0'
-#EXTINF:-1,Gulli Girl
-#EXTGRP:Детские
-TVSources &id='gulli girl_00'
-#EXTINF:-1,Blue Hustler
-#EXTGRP:Эротика
-TVSources &id='blue hustler_00'
-#EXTINF:-1,Совершенно секретно
-#EXTGRP:Познавательные
-TVSources &id='sovershenno sekretno_d0'
-#EXTINF:-1,Boomerang
-#EXTGRP:Детские
-TVSources &id='boomerang_00'
-#EXTINF:-1,National Geographic
-#EXTGRP:Познавательные
-TVSources &id='national geographic_00'
-#EXTINF:-1,Моя стихия
-#EXTGRP:Новые каналы
-TVSources &id='moya stikhiya_d0'
-#EXTINF:-1,Мульт HD
-#EXTGRP:Новые каналы
-TVSources &id='mul`t hd_d0'
-#EXTINF:-1,Анекдот ТВ
-#EXTGRP:Развлекательные
-TVSources &id='anekdot tv_d0'
-#EXTINF:-1,ЗВЕЗДА Плюс
-#EXTGRP:Новые каналы
-TVSources &id='zvezda plyus_d0'
-#EXTINF:-1,Мир 24
-#EXTGRP:Новостные
-TVSources &id='mir 24_d0'
-#EXTINF:-1,.red
-#EXTGRP:Новые каналы
-TVSources &id='.red_00'
-#EXTINF:-1,Paramount Channel HD
-#EXTGRP:Фильмы
-TVSources &id='paramount channel hd_00'
-#EXTINF:-1,Мир
-#EXTGRP:Общественные
-TVSources &id='mir_d0'
-#EXTINF:-1,Матч! Страна
-#EXTGRP:Спорт
-TVSources &id='match! strana_d0'
-#EXTINF:-1,Дикая охота HD
-#EXTGRP:Новые каналы
-TVSources &id='dikaya okhota hd_d0'
-#EXTINF:-1,BRIDGE
-#EXTGRP:Новые каналы
-TVSources &id='bridge_00'
-#EXTINF:-1,SONG TV HD Armenia
-#EXTGRP:Новые каналы
-TVSources &id='song tv hd armenia_00'
-#EXTINF:-1,TV1000 Русское Кино
-#EXTGRP:Фильмы
-TVSources &id='tv1000 russkoe kino_d0'
-#EXTINF:-1,Eurosport 2
-#EXTGRP:Спорт
-TVSources &id='eurosport 2_00'
-#EXTINF:-1,MMA-TV.com
-#EXTGRP:Новые каналы
-TVSources &id='mma tv.com_00'
-#EXTINF:-1,Зал суда
-#EXTGRP:Новые каналы
-TVSources &id='zal suda_d0'
-#EXTINF:-1,TV XXI
-#EXTGRP:Фильмы
-TVSources &id='tv xxi_00'
-#EXTINF:-1,MCM Top
-#EXTGRP:Музыка
-TVSources &id='mcm top_00'
-#EXTINF:-1,Extreme Sports
-#EXTGRP:Спорт
-TVSources &id='extreme sports_00'
-#EXTINF:-1,France 24
-#EXTGRP:Новостные
-TVSources &id='france 24_00'
-#EXTINF:-1,Время
-#EXTGRP:Общественные
-TVSources &id='vremya_d0'
-#EXTINF:-1,Киноужас
-#EXTGRP:Новые каналы
-TVSources &id='kinouzhas_d0'
-#EXTINF:-1,ViP Premiere
-#EXTGRP:Фильмы
-TVSources &id='vip premiere_00'
-#EXTINF:-1,Мама
-#EXTGRP:Детские
-TVSources &id='mama_d0'
-#EXTINF:-1,Музыка Первого
-#EXTGRP:Музыка
-TVSources &id='muzyka pervogo_d0'
-#EXTINF:-1,BOLT HD
-#EXTGRP:Новые каналы
-TVSources &id='bolt hd_00'
-#EXTINF:-1,Киносерия
-#EXTGRP:Фильмы
-TVSources &id='kinoseriya_d0'
-#EXTINF:-1,Eurosport 2 HD
-#EXTGRP:Спорт
-TVSources &id='eurosport 2 hd_00'
-#EXTINF:-1,Диалоги о рыбалке
-#EXTGRP:Новые каналы
-TVSources &id='dialogi o rybalke_d0'
-#EXTINF:-1,Россия 24
-#EXTGRP:Новостные
-TVSources &id='rossiya 24_d0'
-#EXTINF:-1,V1 Fem
-#EXTGRP:Новые каналы
-TVSources &id='v1 fem_00'
-#EXTINF:-1,Живая планета
-#EXTGRP:Познавательные
-TVSources &id='zhivaya planeta_d0'
-#EXTINF:-1,ЖАРА HD
-#EXTGRP:Новые каналы
-TVSources &id='zhara hd_d0'
-#EXTINF:-1,OCEAN-TV
-#EXTGRP:Познавательные
-TVSources &id='ocean tv_00'
-#EXTINF:-1,O-la-la
-#EXTGRP:Эротика
-TVSources &id='o la la_00'
-#EXTINF:-1,Дикий
-#EXTGRP:Познавательные
-TVSources &id='dikij_d0'
-#EXTINF:-1,Кухня ТВ
-#EXTGRP:Познавательные
-TVSources &id='kukhnya tv_d0'
-#EXTINF:-1,CGTN
-#EXTGRP:Новостные
-TVSources &id='cgtn_00'
-#EXTINF:-1,ViP Comedy
-#EXTGRP:Фильмы
-TVSources &id='vip comedy_00'
-#EXTINF:-1,Leomax24
-#EXTGRP:Новые каналы
-TVSources &id='leomax24_00'
-#EXTINF:-1,Viasat History HD
-#EXTGRP:Познавательные
-TVSources &id='viasat history hd_00'
-#EXTINF:-1,Zee TV
-#EXTGRP:Фильмы
-TVSources &id='zee tv_00'
-#EXTINF:-1,Viasat Sport
-#EXTGRP:Спорт
-TVSources &id='viasat sport_00'
-#EXTINF:-1,Русский роман HD
-#EXTGRP:Новые каналы
-TVSources &id='russkij roman hd_d0'
-#EXTINF:-1,Матч ТВ
-#EXTGRP:Спорт
-TVSources &id='match tv_d0'
-#EXTINF:-1,JimJam
-#EXTGRP:Детские
-TVSources &id='jimjam_00'
-#EXTINF:-1,BBC World News
-#EXTGRP:Новостные
-TVSources &id='bbc world news_00'
-#EXTINF:-1,Миллет
-#EXTGRP:Познавательные
-TVSources &id='millet_d0'
-#EXTINF:-1,Инфо 24
-#EXTGRP:Новые каналы
-TVSources &id='info 24_d0'
-#EXTINF:-1,BRIDGE TV DELUXE HD
-#EXTGRP:HD каналы
-TVSources &id='bridge tv deluxe hd_00'
-#EXTINF:-1,Ветта 24
-#EXTGRP:Новые каналы
-TVSources &id='vetta 24_d0'
-#EXTINF:-1,Пятый
-#EXTGRP:Новые каналы
-TVSources &id='pyatyj_d0'
-#EXTINF:-1,Надежда
-#EXTGRP:Религиозные
-TVSources &id='nadezhda_d0'
-#EXTINF:-1,ДОН 24
-#EXTGRP:Региональные
-TVSources &id='don 24_d0'
-#EXTINF:-1,Катунь 24 (Барнаул)
-#EXTGRP:Новые каналы
-TVSources &id='katun` 24 (barnaul)_d0'
-#EXTINF:-1,ОТС HD
-#EXTGRP:HD каналы
-TVSources &id='ots hd_d0'
-#EXTINF:-1,SONGTV Russia
-#EXTGRP:Новые каналы
-TVSources &id='songtv russia_00'
-#EXTINF:-1,СТРК
-#EXTGRP:Фильмы
-TVSources &id='strk_d0'
-#EXTINF:-1,ACB TV
-#EXTGRP:Региональные
-TVSources &id='acb tv_00'
-#EXTINF:-1,Playboy TV
-#EXTGRP:Эротика
-TVSources &id='playboy tv_00'
-#EXTINF:-1,НТВ Стиль
-#EXTGRP:Познавательные
-TVSources &id='ntv stil`_d0'
-#EXTINF:-1,Большая Азия
-#EXTGRP:Познавательные
-TVSources &id='bol`shaya aziya_d0'
-#EXTINF:-1,Министерство идей
-#EXTGRP:Информационные
-TVSources &id='ministerstvo idej_d0'
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:HD каналы
-TVSources &id='amedia premium hd_00'
-#EXTINF:-1,Timeless DIZI Channel
-#EXTGRP:Новые каналы
-TVSources &id='timeless dizi channel_00'
-#EXTINF:-1,Футбол
-#EXTGRP:Спорт
-TVSources &id='futbol_d0'
-#EXTINF:-1,NANO
-#EXTGRP:Новые каналы
-TVSources &id='nano_00'
-#EXTINF:-1,Открытый Мир
-#EXTGRP:Новые каналы
-TVSources &id='otkrytyj mir_d0'
-#EXTINF:-1,Известия
-#EXTGRP:Новостные
-TVSources &id='izvestiya_d0'
-#EXTINF:-1,Футбол HD
-#EXTGRP:HD каналы
-TVSources &id='futbol hd_d0'
-#EXTINF:-1,Продвижение
-#EXTGRP:Развлекательные
-TVSources &id='prodvizhenie_d0'
-#EXTINF:-1,MTV HD
-#EXTGRP:HD каналы
-TVSources &id='mtv hd_00'
-#EXTINF:-1,Сделано в Кузбассе HD
-#EXTGRP:HD каналы
-TVSources &id='sdelano v kuzbasse hd_d0'
-#EXTINF:-1,Санкт-Петербург
-#EXTGRP:Общественные
-TVSources &id='sankt peterburg_d0'
-#EXTINF:-1,8 канал (Красноярск)
-#EXTGRP:Региональные
-TVSources &id='8 kanal (krasnoyarsk)_d0'
-#EXTINF:-1,Мамонтенок
-#EXTGRP:Новые каналы
-TVSources &id='mamontenok_d0'
-#EXTINF:-1,Про Жизнь
-#EXTGRP:Новые каналы
-TVSources &id='pro zhizn`_d0'
-#EXTINF:-1,Липецкое время (Липецк)
-#EXTGRP:Новые каналы
-TVSources &id='lipeczkoe vremya (lipeczk)_d0'
-#EXTINF:-1,Erox HD
-#EXTGRP:Эротика
-TVSources &id='erox hd_00'
-#EXTINF:-1,12 канал (Омск)
-#EXTGRP:Новые каналы
-TVSources &id='12 kanal (omsk)_d0'
-#EXTINF:-1,Тивиком (Улан-Удэ)
-#EXTGRP:Новые каналы
-TVSources &id='tivikom (ulan ude)_d0'
-#EXTINF:-1,ГТРК Кузбасс
-#EXTGRP:Новые каналы
-TVSources &id='gtrk kuzbass_d0'
-#EXTINF:-1,Победа
-#EXTGRP:Новые каналы
-TVSources &id='pobeda_d0'
-#EXTINF:-1,Домашний - ТВК6
-#EXTGRP:Региональные
-TVSources &id='domashnij tvk6_d0'
-#EXTINF:-1,НТВ Сериал
-#EXTGRP:Фильмы
-TVSources &id='ntv serial_d0'
-#EXTINF:-1,Мир 24 HD
-#EXTGRP:HD каналы
-TVSources &id='mir 24 hd_00'
-#EXTINF:-1,Luxury
-#EXTGRP:Новые каналы
-TVSources &id='luxury_00'
-#EXTINF:-1,ТНВ-Планета
-#EXTGRP:Общественные
-TVSources &id='tnv planeta_d0'
-#EXTINF:-1,FOX Life HD
-#EXTGRP:HD каналы
-TVSources &id='fox life hd_00'
-#EXTINF:-1,MTV Russia
-#EXTGRP:Музыка
-TVSources &id='mtv russia_00'
-#EXTINF:-1,11 канал (Пенза)
-#EXTGRP:Новые каналы
-TVSources &id='11 kanal (penza)_d0'
-#EXTINF:-1,Барс
-#EXTGRP:Новые каналы
-TVSources &id='bars_d0'
-#EXTINF:-1,Filmbox Arthouse
-#EXTGRP:Фильмы
-TVSources &id='filmbox arthouse_00'
-#EXTINF:-1,Babes TV
-#EXTGRP:Новые каналы
-TVSources &id='babes tv_00'
-#EXTINF:-1,Эфир (Казань)
-#EXTGRP:Новые каналы
-TVSources &id='efir (kazan`)_d0'
-#EXTINF:-1,СТС Kids HD
-#EXTGRP:HD каналы
-TVSources &id='sts kids hd_00'
-#EXTINF:-1,Новосибирские новости HD
-#EXTGRP:HD каналы
-TVSources &id='novosibirskie novosti hd_d0'
-#EXTINF:-1,Лен ТВ24
-#EXTGRP:Новые каналы
-TVSources &id='len tv24_d0'
-#EXTINF:-1,Алмазный край (Якутск)
-#EXTGRP:Новые каналы
-TVSources &id='almaznyj kraj (yakutsk)_d0'
-#EXTINF:-1,SOCHI LIVE
-#EXTGRP:Новые каналы
-TVSources &id='sochi live_00'
-#EXTINF:-1,ЗабТВ
-#EXTGRP:Новые каналы
-TVSources &id='zabtv_d0'
-#EXTINF:-1,Waves
-#EXTGRP:Новые каналы
-TVSources &id='waves_00'
-#EXTINF:-1,Салям
-#EXTGRP:Новые каналы
-TVSources &id='salyam_d0'
-#EXTINF:-1,Самотлор
-#EXTGRP:Новые каналы
-TVSources &id='samotlor_d0'
-#EXTINF:-1,БСТ
-#EXTGRP:Общественные
-TVSources &id='bst_d0'
-#EXTINF:-1,KINO 24
-#EXTGRP:Новые каналы
-TVSources &id='kino 24_00'
-#EXTINF:-1,49 канал
-#EXTGRP:Региональные
-TVSources &id='49 kanal_d0'
-#EXTINF:-1,Первый вегетарианский
-#EXTGRP:Познавательные
-TVSources &id='pervyj vegetarianskij_d0'
-#EXTINF:-1,Успех
-#EXTGRP:Познавательные
-TVSources &id='uspekh_d0'
-#EXTINF:-1,National Geographic HD
-#EXTGRP:HD каналы
-TVSources &id='national geographic hd_00'
-#EXTINF:-1,РБК
-#EXTGRP:Новостные
-TVSources &id='rbk_d0'
-#EXTINF:-1,Советское кино
-#EXTGRP:Новые каналы
-TVSources &id='sovetskoe kino_d0'
-#EXTINF:-1,Брянская Губерния
-#EXTGRP:Региональные
-TVSources &id='bryanskaya guberniya_d0'
-#EXTINF:-1,Первый крымский
-#EXTGRP:Региональные
-TVSources &id='pervyj krymskij_d0'
-#EXTINF:-1,Fishy Fishy
-#EXTGRP:Новые каналы
-TVSources &id='fishy fishy_00'
-#EXTINF:-1,Fireplace
-#EXTGRP:Новые каналы
-TVSources &id='fireplace_00'
-#EXTINF:-1,Мордовия 24
-#EXTGRP:Новые каналы
-TVSources &id='mordoviya 24_d0'
-#EXTINF:-1,Классика Кино
-#EXTGRP:Фильмы
-TVSources &id='klassika kino_d0'
-#EXTINF:-1,Крым 24
-#EXTGRP:Новые каналы
-TVSources &id='krym 24_d0'
-#EXTINF:-1,Якутия 24 (Якутск)
-#EXTGRP:Новые каналы
-TVSources &id='yakutiya 24 (yakutsk)_d0'
-#EXTINF:-1,ТМТ Майдан
-#EXTGRP:Новые каналы
-TVSources &id='tmt majdan_d0'
-#EXTINF:-1,НТС (Севастополь)
-#EXTGRP:Новые каналы
-TVSources &id='nts (sevastopol`)_d0'
-#EXTINF:-1,Москва 24
-#EXTGRP:Общественные
-TVSources &id='moskva 24_d0'
-#EXTINF:-1,Канал 12
-#EXTGRP:Новые каналы
-TVSources &id='kanal 12_d0'
-#EXTINF:-1,FOX HD
-#EXTGRP:HD каналы
-TVSources &id='fox hd_00'
-#EXTINF:-1,Мультимания
-#EXTGRP:Детские
-TVSources &id='mul`timaniya_d0'
-#EXTINF:-1,Юрган (Сыктывкар)
-#EXTGRP:Новые каналы
-TVSources &id='yurgan (syktyvkar)_d0'
-#EXTINF:-1,МатурТВ
-#EXTGRP:Новые каналы
-TVSources &id='maturtv_d0'
-#EXTINF:-1,ТМ-КВАНТ
-#EXTGRP:Новые каналы
-TVSources &id='tm kvant_d0'
-#EXTINF:-1,86 Канал (Сургут)
-#EXTGRP:Новые каналы
-TVSources &id='86 kanal (surgut)_d0'
-#EXTINF:-1,С1
-#EXTGRP:Новые каналы
-TVSources &id='s1_d0'
-#EXTINF:-1,Архыз24
-#EXTGRP:Новые каналы
-TVSources &id='arkhyz24_d0'
-#EXTINF:-1,FILMBOX
-#EXTGRP:Новые каналы
-TVSources &id='filmbox_00'
-#EXTINF:-1,Сказки Зайки
-#EXTGRP:Новые каналы
-TVSources &id='skazki zajki_d0'
-#EXTINF:-1,Московский образовательный интернет-телеканал
-#EXTGRP:Новые каналы
-TVSources &id='moskovskij obrazovatel`nyj internet telekanal_d0'
-#EXTINF:-1,Наша Тема HD
-#EXTGRP:HD каналы
-TVSources &id='nasha tema hd_d0'
-#EXTINF:-1,Смайлик ТВ
-#EXTGRP:Детские
-TVSources &id='smajlik tv_d0'
-#EXTINF:-1,DOCUBOX
-#EXTGRP:Новые каналы
-TVSources &id='docubox_00'
-#EXTINF:-1,Саха (Якутск)
-#EXTGRP:Новые каналы
-TVSources &id='sakha (yakutsk)_d0'
-#EXTINF:-1,КРИК-ТВ
-#EXTGRP:Новостные
-TVSources &id='krik tv_d0'
-#EXTINF:-1,Енисей
-#EXTGRP:Региональные
-TVSources &id='enisej_d0'
-#EXTINF:-1,НТВ Право
-#EXTGRP:Познавательные
-TVSources &id='ntv pravo_d0'
-#EXTINF:-1,43 канал
-#EXTGRP:Общественные
-TVSources &id='43 kanal_d0'
-#EXTINF:-1,Точка ТВ
-#EXTGRP:Познавательные
-TVSources &id='tochka tv_d0'
-#EXTINF:-1,Russian Extreme
-#EXTGRP:Спорт
-TVSources &id='russian extreme_00'
-#EXTINF:-1,TRAVEL GUIDE-TV
-#EXTGRP:Новые каналы
-TVSources &id='travel guide tv_00'
-#EXTINF:-1,Galaxy TV
-#EXTGRP:Познавательные
-TVSources &id='galaxy tv_00'
-#EXTINF:-1,Загородная жизнь
-#EXTGRP:Познавательные
-TVSources &id='zagorodnaya zhizn`_d0'
-#EXTINF:-1,Global Star TV
-#EXTGRP:Развлекательные
-TVSources &id='global star tv_00'
-#EXTINF:-1,СТС Мир
-#EXTGRP:Региональные
-TVSources &id='sts mir_d0'
-#EXTINF:-1,Кубань 24 Орбита
-#EXTGRP:Региональные
-TVSources &id='kuban` 24 orbita_d0'
-#EXTINF:-1,Euronews
-#EXTGRP:Новостные
-TVSources &id='euronews_00'
-#EXTINF:-1,Три ангела
-#EXTGRP:Новые каналы
-TVSources &id='tri angela_d0'
-#EXTINF:-1,Советские мультфильмы
-#EXTGRP:Новые каналы
-TVSources &id='sovetskie mul`tfil`my_d0'
-#EXTINF:-1,Туапсе24
-#EXTGRP:Новые каналы
-TVSources &id='tuapse24_d0'
-#EXTINF:-1,ПРО БИЗНЕС
-#EXTGRP:Новые каналы
-TVSources &id='pro biznes_d0'
-#EXTINF:-1,Евпатория ТВ
-#EXTGRP:Новые каналы
-TVSources &id='evpatoriya tv_d0'
-#EXTINF:-1,1HD
-#EXTGRP:HD каналы
-TVSources &id='1hd_00'
-#EXTINF:-1,ЕГЭ ТВ
-#EXTGRP:Образовательные
-TVSources &id='ege tv_d0'
-#EXTINF:-1,Новое телевидение
-#EXTGRP:Развлекательные
-TVSources &id='novoe televidenie_d0'
-#EXTINF:-1,Ариг Ус
-#EXTGRP:Новые каналы
-TVSources &id='arig us_d0'
-#EXTINF:-1,Russia Today
-#EXTGRP:Информационные
-TVSources &id='russia today_00'
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:HD каналы
-TVSources &id='nickelodeon hd_00'
-#EXTINF:-1,8 канал
-#EXTGRP:Общественные
-TVSources &id='8 kanal_d0'
-#EXTINF:-1,Про100ТВ
-#EXTGRP:Новые каналы
-TVSources &id='pro100tv_d0'
-#EXTINF:-1,Дождь
-#EXTGRP:Общественные
-TVSources &id='dozhd`_d0'
-#EXTINF:-1,Вся Уфа (Уфа)
-#EXTGRP:Новые каналы
-TVSources &id='vsya ufa (ufa)_d0'
-#EXTINF:-1,SONGTV Armenia
-#EXTGRP:Новые каналы
-TVSources &id='songtv armenia_00'
-#EXTINF:-1,Матч ТВ HD
-#EXTGRP:HD каналы
-TVSources &id='match tv hd_d0'
-#EXTINF:-1,Мир Premium HD
-#EXTGRP:HD каналы
-TVSources &id='mir premium hd_00'
-#EXTINF:-1,Первый канал (+2)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+2)_d0'
-#EXTINF:-1,СТС (+2)
-#EXTGRP:Общественные
-TVSources &id='sts (+2)_00'
-#EXTINF:-1,ТНТ (+2)
-#EXTGRP:Общественные
-TVSources &id='tnt (+2)_00'
-#EXTINF:-1,Неизвестная планета
-#EXTGRP:Познавательные
-TVSources &id='neizvestnaya planeta_d0'
-#EXTINF:-1,Матч! Футбол 1
-#EXTGRP:Спорт
-TVSources &id='match! futbol 1_d0'
-#EXTINF:-1,Центральное телевидение"
-#EXTGRP:Новые каналы
-TVSources &id='czentral`noe televidenie_d0'
-#EXTINF:-1,BRIDGE TV РУССКИЙ ХИТ
-#EXTGRP:Музыка
-TVSources &id='bridge tv russkij khit_00'
-#EXTINF:-1,Кинопремьера HD
-#EXTGRP:HD каналы
-TVSources &id='kinoprem`era hd_d0'
-#EXTINF:-1,Матч! Игра HD
-#EXTGRP:HD каналы
-TVSources &id='match! igra hd_d0'
-#EXTINF:-1,ТНТ HD
-#EXTGRP:HD каналы
-TVSources &id='tnt hd_d0'
-#EXTINF:-1,ТВ 3 (+6)
-#EXTGRP:Развлекательные
-TVSources &id='tv 3 (+6)_00'
-#EXTINF:-1,Первый канал HD
-#EXTGRP:HD каналы
-TVSources &id='pervyj kanal hd_d0'
-#EXTINF:-1,Супер
-#EXTGRP:Фильмы
-TVSources &id='super_d0'
-#EXTINF:-1,Матч! Футбол 3
-#EXTGRP:Спорт
-TVSources &id='match! futbol 3_d0'
-#EXTINF:-1,Россия 1 (+6)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 (+6)_00'
-#EXTINF:-1,Патриот
-#EXTGRP:Новые каналы
-TVSources &id='patriot_d0'
-#EXTINF:-1,ОТВ 24
-#EXTGRP:Новые каналы
-TVSources &id='otv 24_d0'
-#EXTINF:-1,НТВ HD
-#EXTGRP:HD каналы
-TVSources &id='ntv hd_d0'
-#EXTINF:-1,RUSSIAN MUSICBOX HD
-#EXTGRP:HD каналы
-TVSources &id='russian musicbox hd_00'
-#EXTINF:-1,Матч! Футбол 2 HD
-#EXTGRP:HD каналы
-TVSources &id='match! futbol 2 hd_d0'
-#EXTINF:-1,BRIDGE TV CLASSIC
-#EXTGRP:Музыка
-TVSources &id='bridge tv classic_00'
-#EXTINF:-1,ТНТ (+6)
-#EXTGRP:Общественные
-TVSources &id='tnt (+6)_00'
-#EXTINF:-1,Матч! Футбол 1 HD
-#EXTGRP:HD каналы
-TVSources &id='match! futbol 1 hd_d0'
-#EXTINF:-1,КХЛ HD
-#EXTGRP:HD каналы
-TVSources &id='kkhl hd_d0'
-#EXTINF:-1,НТВ (+2)
-#EXTGRP:Общественные
-TVSources &id='ntv (+2)_00'
-#EXTINF:-1,M-1 Global
-#EXTGRP:Спорт
-TVSources &id='m 1 global_00'
-#EXTINF:-1,RTД HD
-#EXTGRP:HD каналы
-TVSources &id='rtd hd_00'
-#EXTINF:-1,Disney Канал
-#EXTGRP:Новые каналы
-TVSources &id='disney kanal_00'
-#EXTINF:-1,ТНТ (+4)
-#EXTGRP:Общественные
-TVSources &id='tnt (+4)_00'
-#EXTINF:-1,РЕН ТВ (+4)
-#EXTGRP:Общественные
-TVSources &id='ren tv (+4)_00'
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:HD каналы
-TVSources &id='rossiya 1 hd_d0'
-#EXTINF:-1,Карусель (+2)
-#EXTGRP:Детские
-TVSources &id='karusel` (+2)_d0'
-#EXTINF:-1,RUSSIAN MUSICBOX
-#EXTGRP:Музыка
-TVSources &id='russian musicbox_00'
-#EXTINF:-1,HD Media
-#EXTGRP:HD каналы
-TVSources &id='hd media_00'
-#EXTINF:-1,КиноМеню HD
-#EXTGRP:HD каналы
-TVSources &id='kinomenyu hd_d0'
-#EXTINF:-1,Шаян
-#EXTGRP:Новые каналы
-TVSources &id='shayan_d0'
-#EXTINF:-1,НТВ (+4)
-#EXTGRP:Общественные
-TVSources &id='ntv (+4)_00'
-#EXTINF:-1,НТВ (+6)
-#EXTGRP:Общественные
-TVSources &id='ntv (+6)_00'
-#EXTINF:-1,Наш дом
-#EXTGRP:Познавательные
-TVSources &id='nash dom_d0'
-#EXTINF:-1,Россия 1 (+4)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 (+4)_00'
-#EXTINF:-1,Терра Инкогнита
-#EXTGRP:Новые каналы
-TVSources &id='terra inkognita_d0'
-#EXTINF:-1,ТВ 3 (+2)
-#EXTGRP:Развлекательные
-TVSources &id='tv 3 (+2)_00'
-#EXTINF:-1,РЕН ТВ (+6)
-#EXTGRP:Общественные
-TVSources &id='ren tv (+6)_00'
-#EXTINF:-1,BRIDGE TV
-#EXTGRP:Музыка
-TVSources &id='bridge tv_00'
-#EXTINF:-1,Юмор Box
-#EXTGRP:Развлекательные
-TVSources &id='yumor box_d0'
-#EXTINF:-1,Russia Today HD
-#EXTGRP:HD каналы
-TVSources &id='russia today hd_00'
-#EXTINF:-1,Индийское кино
-#EXTGRP:Фильмы
-TVSources &id='indijskoe kino_d0'
-#EXTINF:-1,Матч! Арена HD
-#EXTGRP:HD каналы
-TVSources &id='match! arena hd_d0'
-#EXTINF:-1,Карусель (+4)
-#EXTGRP:Детские
-TVSources &id='karusel` (+4)_d0'
-#EXTINF:-1,Joy Cook
-#EXTGRP:Новые каналы
-TVSources &id='joy cook_00'
-#EXTINF:-1,Матч! Арена
-#EXTGRP:Спорт
-TVSources &id='match! arena_d0'
-#EXTINF:-1,Матч Премьер HD
-#EXTGRP:HD каналы
-TVSources &id='match prem`er hd_d0'
-#EXTINF:-1,Матч! Футбол 3 HD
-#EXTGRP:HD каналы
-TVSources &id='match! futbol 3 hd_d0'
-#EXTINF:-1,ТВ 3 (+4)
-#EXTGRP:Развлекательные
-TVSources &id='tv 3 (+4)_00'
-#EXTINF:-1,Матч! Футбол 2
-#EXTGRP:Спорт
-TVSources &id='match! futbol 2_d0'
-#EXTINF:-1,Бокс ТВ
-#EXTGRP:Спорт
-TVSources &id='boks tv_d0'
-#EXTINF:-1,Россия 1 (+2)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 (+2)_00'
-#EXTINF:-1,Карусель (+6)
-#EXTGRP:Детские
-TVSources &id='karusel` (+6)_d0'
-#EXTINF:-1,РЕН ТВ (+2)
-#EXTGRP:Общественные
-TVSources &id='ren tv (+2)_00'
-#EXTINF:-1,MUSICBOX
-#EXTGRP:Музыка
-TVSources &id='musicbox_00'
-#EXTINF:-1,Матч! Игра
-#EXTGRP:Спорт
-TVSources &id='match! igra_d0'
-#EXTINF:-1,Пятница! (+4)
-#EXTGRP:Развлекательные
-TVSources &id='pyatnicza! (+4)_d0'
-#EXTINF:-1,Пятница! (+6)
-#EXTGRP:Развлекательные
-TVSources &id='pyatnicza! (+6)_d0'
-#EXTINF:-1,Пятница! (+2)
-#EXTGRP:Развлекательные
-TVSources &id='pyatnicza! (+2)_d0'
-#EXTINF:-1,Прибой
-#EXTGRP:Новые каналы
-TVSources &id='priboj_d0'
-#EXTINF:-1,Первый канал (+4)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+4)_d0'
-#EXTINF:-1,СТС (+6)
-#EXTGRP:Общественные
-TVSources &id='sts (+6)_00'
-#EXTINF:-1,СТС (+4)
-#EXTGRP:Общественные
-TVSources &id='sts (+4)_00'
-#EXTINF:-1,Первый канал (+6)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+6)_d0'
-#EXTINF:-1,СТБ
-#EXTGRP:Общественные
-TVSources &id='stb_d0'
-#EXTINF:-1,TLC
-#EXTGRP:Познавательные
-TVSources &id='tlc_00'
-#EXTINF:-1,Украиiна
-#EXTGRP:Украинские
-TVSources &id='ukraiina_d0'
-#EXTINF:-1,Viasat Explore
-#EXTGRP:Познавательные
-TVSources &id='viasat explore_00'
-#EXTINF:-1,BBC News
-#EXTGRP:Иностранные
-TVSources &id='bbc news_00'
-#EXTINF:-1,Hollywood HD
-#EXTGRP:HD каналы
-TVSources &id='hollywood hd_00'
-#EXTINF:-1,Зоо ТВ
-#EXTGRP:Познавательные
-TVSources &id='zoo tv_d0'
-#EXTINF:-1,Дом кино премиум HD
-#EXTGRP:HD каналы
-TVSources &id='dom kino premium hd_d0'
-#EXTINF:-1,UAПерший
-#EXTGRP:Украинские
-TVSources &id='uapershij_d0'
-#EXTINF:-1,Комедийное
-#EXTGRP:Фильмы
-TVSources &id='komedijnoe_d0'
-#EXTINF:-1,К1
-#EXTGRP:Украинские
-TVSources &id='k1_d0'
-#EXTINF:-1,ОЦЕ
-#EXTGRP:Украинские
-TVSources &id='ocze_d0'
-#EXTINF:-1,Sport 1 (Украина)
-#EXTGRP:Спорт
-TVSources &id='sport 1 (ukraina)_00'
-#EXTINF:-1,Интер
-#EXTGRP:Украинские
-TVSources &id='inter_d0'
-#EXTINF:-1,Lale
-#EXTGRP:Украинские
-TVSources &id='lale_00'
-#EXTINF:-1,Outdoor
-#EXTGRP:Познавательные
-TVSources &id='outdoor_00'
-#EXTINF:-1,Малятко TV
-#EXTGRP:Украинские
-TVSources &id='malyatko tv_d0'
-#EXTINF:-1,Bollywood
-#EXTGRP:Фильмы
-TVSources &id='bollywood_00'
-#EXTINF:-1,Sony Turbo
-#EXTGRP:Фильмы
-TVSources &id='sony turbo_00'
-#EXTINF:-1,Малыш
-#EXTGRP:Детские
-TVSources &id='malysh_d0'
-#EXTINF:-1,Paramount Comedy
-#EXTGRP:Фильмы
-TVSources &id='paramount comedy_00'
-#EXTINF:-1,Hollywood
-#EXTGRP:Фильмы
-TVSources &id='hollywood_00'
-#EXTINF:-1,Жара
-#EXTGRP:Музыка
-TVSources &id='zhara_d0'
-#EXTINF:-1,Zoom тв
-#EXTGRP:Украинские
-TVSources &id='zoom tv_00'
-#EXTINF:-1,Премиальное HD
-#EXTGRP:HD каналы
-TVSources &id='premial`noe hd_d0'
-#EXTINF:-1,Bloomberg
-#EXTGRP:Новостные
-TVSources &id='bloomberg_00'
-#EXTINF:-1,ICTV
-#EXTGRP:Украинские
-TVSources &id='ictv_00'
-#EXTINF:-1,Наше крутое
-#EXTGRP:Фильмы
-TVSources &id='nashe krutoe_d0'
-#EXTINF:-1,Setanta Sports 2 HD
-#EXTGRP:HD каналы
-TVSources &id='setanta sports 2 hd_00'
-#EXTINF:-1,Шокирующее
-#EXTGRP:Фильмы
-TVSources &id='shokiruyushhee_d0'
-#EXTINF:-1,Discovery Science
-#EXTGRP:Познавательные
-TVSources &id='discovery science_00'
-#EXTINF:-1,Viasat Nature
-#EXTGRP:Познавательные
-TVSources &id='viasat nature_00'
-#EXTINF:-1,Улыбка ребенка
-#EXTGRP:Детские
-TVSources &id='ulybka rebenka_d0'
-#EXTINF:-1,Sony Sci-Fi
-#EXTGRP:Фильмы
-TVSources &id='sony sci fi_00'
-#EXTINF:-1,Тлум HD
-#EXTGRP:HD каналы
-TVSources &id='tlum hd_d0'
-#EXTINF:-1,Fine Living Network
-#EXTGRP:Познавательные
-TVSources &id='fine living network_00'
-#EXTINF:-1,Мега ТВ
-#EXTGRP:Украинские
-TVSources &id='mega tv_d0'
-#EXTINF:-1,Трофей
-#EXTGRP:Спорт
-TVSources &id='trofej_d0'
-#EXTINF:-1,НТВ Мир
-#EXTGRP:Общественные
-TVSources &id='ntv mir_d0'
-#EXTINF:-1,Техно 24
-#EXTGRP:Познавательные
-TVSources &id='tekhno 24_d0'
-#EXTINF:-1,Теленовелла
-#EXTGRP:Фильмы
-TVSources &id='telenovella_d0'
-#EXTINF:-1,Детский
-#EXTGRP:Детские
-TVSources &id='detskij_d0'
-#EXTINF:-1,Sport 2 (Украина)
-#EXTGRP:Спорт
-TVSources &id='sport 2 (ukraina)_00'
-#EXTINF:-1,FightBox
-#EXTGRP:Спорт
-TVSources &id='fightbox_00'
-#EXTINF:-1,ТДК
-#EXTGRP:Развлекательные
-TVSources &id='tdk_d0'
-#EXTINF:-1,Страшное HD
-#EXTGRP:HD каналы
-TVSources &id='strashnoe hd_d0'
-#EXTINF:-1,ТЕТ
-#EXTGRP:Украинские
-TVSources &id='tet_d0'
-#EXTINF:-1,М2
-#EXTGRP:Музыка
-TVSources &id='m2_d0'
-#EXTINF:-1,1+1
-#EXTGRP:Украинские
-TVSources &id='1+1_00'
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:HD каналы
-TVSources &id='ostrosyuzhetnoe hd_d0'
-#EXTINF:-1,UA Перший
-#EXTGRP:Украинские
-TVSources &id='ua pershij_d0'
-#EXTINF:-1,VH1 European
-#EXTGRP:Музыка
-TVSources &id='vh1 european_00'
-#EXTINF:-1,Animal Planet
-#EXTGRP:Познавательные
-TVSources &id='animal planet_00'
-#EXTINF:-1,ПлюсПлюс
-#EXTGRP:Детские
-TVSources &id='plyusplyus_d0'
-#EXTINF:-1,РТР Планета
-#EXTGRP:Общественные
-TVSources &id='rtr planeta_d0'
-#EXTINF:-1,A1
-#EXTGRP:Фильмы
-TVSources &id='a1_00'
-#EXTINF:-1,RTG
-#EXTGRP:Познавательные
-TVSources &id='rtg_00'
-#EXTINF:-1,History
-#EXTGRP:Познавательные
-TVSources &id='history_00'
-#EXTINF:-1,Рыжий
-#EXTGRP:Детские
-TVSources &id='ryzhij_d0'
-#EXTINF:-1,Сила
-#EXTGRP:Спорт
-TVSources &id='sila_d0'
-#EXTINF:-1,Русский роман
-#EXTGRP:Фильмы
-TVSources &id='russkij roman_d0'
-#EXTINF:-1,НЛО ТВ
-#EXTGRP:Украинские
-TVSources &id='nlo tv_d0'
-#EXTINF:-1,Пiксель
-#EXTGRP:Украинские
-TVSources &id='piksel`_d0'
-#EXTINF:-1,Eurosport 1
-#EXTGRP:Спорт
-TVSources &id='eurosport 1_00'
-#EXTINF:-1,Еда Премиум
-#EXTGRP:Познавательные
-TVSources &id='eda premium_d0'
-#EXTINF:-1,Super Tennis HD
-#EXTGRP:HD каналы
-TVSources &id='super tennis hd_00'
-#EXTINF:-1,КИНО ТВ
-#EXTGRP:Фильмы
-TVSources &id='kino tv_d0'
-#EXTINF:-1,HardLife TV
-#EXTGRP:Музыка
-TVSources &id='hardlife tv_00'
-#EXTINF:-1,Новый канал
-#EXTGRP:Общественные
-TVSources &id='novyj kanal_d0'
-#EXTINF:-1,FOX Life
-#EXTGRP:Фильмы
-TVSources &id='fox life_00'
-#EXTINF:-1,Наш кинороман
-#EXTGRP:Фильмы
-TVSources &id='nash kinoroman_d0'
-#EXTINF:-1,НТВ Хит
-#EXTGRP:Фильмы
-TVSources &id='ntv khit_d0'
-#EXTINF:-1,КАЗспорт
-#EXTGRP:Спорт
-TVSources &id='kazsport_d0'
-#EXTINF:-1,Viasat History
-#EXTGRP:Познавательные
-TVSources &id='viasat history_00'
-#EXTINF:-1,Беларусь 5
-#EXTGRP:Спорт
-TVSources &id='belarus` 5_d0'
-#EXTINF:-1,Мужской
-#EXTGRP:Мужские
-TVSources &id='muzhskoj_d0'
-#EXTINF:-1,Sony Channel
-#EXTGRP:Фильмы
-TVSources &id='sony channel_00'
-#EXTINF:-1,Морской
-#EXTGRP:Познавательные
-TVSources &id='morskoj_d0'
-#EXTINF:-1,HDL
-#EXTGRP:HD каналы
-TVSources &id='hdl_00'
-#EXTINF:-1,Мир баскетбола
-#EXTGRP:Спорт
-TVSources &id='mir basketbola_d0'
-#EXTINF:-1,DTX
-#EXTGRP:Познавательные
-TVSources &id='dtx_00'
-#EXTINF:-1,UFC ТВ
-#EXTGRP:Спорт
-TVSources &id='ufc tv_00'
-#EXTINF:-1,Че!
-#EXTGRP:Развлекательные
-TVSources &id='che!_d0'
-#EXTINF:-1,М1
-#EXTGRP:Музыка
-TVSources &id='m1_d0'
-#EXTINF:-1,Gulli
-#EXTGRP:Детские
-TVSources &id='gulli_00'
-#EXTINF:-1,Конный мир
-#EXTGRP:Спорт
-TVSources &id='konnyj mir_d0'
-#EXTINF:-1,Красная линия
-#EXTGRP:Общественные
-TVSources &id='krasnaya liniya_d0'
-#EXTINF:-1,Xsport
-#EXTGRP:Спорт
-TVSources &id='xsport_00'
-#EXTINF:-1,Охотник и рыболов
-#EXTGRP:Мужские
-TVSources &id='okhotnik i rybolov_d0'
-#EXTINF:-1,365 дней
-#EXTGRP:Познавательные
-TVSources &id='365 dnej_d0'
-#EXTINF:-1,CNN
-#EXTGRP:Новостные
-TVSources &id='cnn_00'
-#EXTINF:-1,Setanta Sports Ukraine HD
-#EXTGRP:HD каналы
-TVSources &id='setanta sports ukraine hd_00'
-#EXTINF:-1,Кинопоказ
-#EXTGRP:Фильмы
-TVSources &id='kinopokaz_d0'
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Познавательные
-TVSources &id='discovery channel_00'
-#EXTINF:-1,2+2
-#EXTGRP:Украинские
-TVSources &id='2+2_00'
-#EXTINF:-1,QTV
-#EXTGRP:Украинские
-TVSources &id='qtv_00'
-#EXTINF:-1,Setanta Sports 1
-#EXTGRP:Спорт
-TVSources &id='setanta sports 1_00'
-#EXTINF:-1,Super Tennis
-#EXTGRP:Спорт
-TVSources &id='super tennis_00'
-#EXTINF:-1,Еврокино
-#EXTGRP:Фильмы
-TVSources &id='evrokino_d0'
-#EXTINF:-1,К2
-#EXTGRP:Общественные
-TVSources &id='k2_d0'
-#EXTINF:-1,RU TV
-#EXTGRP:Музыка
-TVSources &id='ru tv_00'
-#EXTINF:-1,Spike
-#EXTGRP:Общественные
-TVSources &id='spike_00'
-#EXTINF:-1,FOX
-#EXTGRP:Фильмы
-TVSources &id='fox_00'
-#EXTINF:-1,ID Investigation Discovery
-#EXTGRP:Познавательные
-TVSources &id='id investigation discovery_00'
-#EXTINF:-1,Бигуди
-#EXTGRP:Украинские
-TVSources &id='bigudi_d0'
-#EXTINF:-1,DANGE TV
-#EXTGRP:Музыка
-TVSources &id='dange tv_00'
-#EXTINF:-1,Paramount Channel
-#EXTGRP:Фильмы
-TVSources &id='paramount channel_00'
-#EXTINF:-1,Cartoon Network
-#EXTGRP:Детские
-TVSources &id='cartoon network_00'
-#EXTINF:-1,9 Канал Израиль
-#EXTGRP:Израиль
-TVSources &id='9 kanal izrail`_d0'
-#EXTINF:-1,Старт HD
-#EXTGRP:HD каналы
-TVSources &id='start hd_d0'
-#EXTINF:-1,fm_testv2_avtoradio_drm
-#EXTGRP:Новые каналы
-TVSources &id='fm_testv2_avtoradio_drm_00'
-#EXTINF:-1,RU TV HD
-#EXTGRP:HD каналы
-TVSources &id='ru tv hd_00'
-#EXTINF:-1,Погода Нальчик
-#EXTGRP:Новые каналы
-TVSources &id='pogoda nal`chik_d0'
-#EXTINF:-1,Эхо Москвы
-#EXTGRP:Новые каналы
-TVSources &id='ekho moskvy_d0'
-#EXTINF:-1,Вечерняя Москва
-#EXTGRP:Новые каналы
-TVSources &id='vechernyaya moskva_d0'
-#EXTINF:-1,Загородный
-#EXTGRP:Новые каналы
-TVSources &id='zagorodnyj_d0'
-#EXTINF:-1,HITV HD
-#EXTGRP:HD каналы
-TVSources &id='hitv hd_00'
-#EXTINF:-1,test_nhl_rt_ch1_drm
-#EXTGRP:Новые каналы
-TVSources &id='test_nhl_rt_ch1_drm_00'
-#EXTINF:-1,RTG HD
-#EXTGRP:HD каналы
-TVSources &id='rtg hd_00'
-#EXTINF:-1,Погода Саратов
-#EXTGRP:Новые каналы
-TVSources &id='pogoda saratov_d0'
-#EXTINF:-1,Погода Псков
-#EXTGRP:Новые каналы
-TVSources &id='pogoda pskov_d0'
-#EXTINF:-1,Новое время (Радужный)
-#EXTGRP:Региональные
-TVSources &id='novoe vremya (raduzhnyj)_d0'
-#EXTINF:-1,Первый Ярославский
-#EXTGRP:Региональные
-TVSources &id='pervyj yaroslavskij_d0'
-#EXTINF:-1,Каскад
-#EXTGRP:Региональные
-TVSources &id='kaskad_d0'
-#EXTINF:-1,Пятый канал (+2)
-#EXTGRP:Общественные
-TVSources &id='pyatyj kanal (+2)_d0'
-#EXTINF:-1,Суббота! (+2)
-#EXTGRP:Новые каналы
-TVSources &id='subbota! (+2)_d0'
-#EXTINF:-1,Ноябрьск 24
-#EXTGRP:Региональные
-TVSources &id='noyabr`sk 24_d0'
-#EXTINF:-1,Время Н
-#EXTGRP:Региональные
-TVSources &id='vremya n_d0'
-#EXTINF:-1,АТВ-Медиа
-#EXTGRP:Региональные
-TVSources &id='atv media_d0'
-#EXTINF:-1,Пятый канал (+4)
-#EXTGRP:Общественные
-TVSources &id='pyatyj kanal (+4)_d0'
-#EXTINF:-1,Ямал-Регион
-#EXTGRP:Региональные
-TVSources &id='yamal region_d0'
-#EXTINF:-1,АИСТ
-#EXTGRP:Региональные
-TVSources &id='aist_d0'
-#EXTINF:-1,МЭТР
-#EXTGRP:Региональные
-TVSources &id='metr_d0'
-#EXTINF:-1,ТВ 3 (+7)
-#EXTGRP:Развлекательные
-TVSources &id='tv 3 (+7)_00'
-#EXTINF:-1,Томское время
-#EXTGRP:Региональные
-TVSources &id='tomskoe vremya_d0'
-#EXTINF:-1,Россия К (+2)
-#EXTGRP:Общественные
-TVSources &id='rossiya k (+2)_d0'
-#EXTINF:-1,Муз ТВ (+4)
-#EXTGRP:Музыка
-TVSources &id='muz tv (+4)_00'
-#EXTINF:-1,СТС Love (+7)
-#EXTGRP:Фильмы
-TVSources &id='sts love (+7)_00'
-#EXTINF:-1,Россия К (+7)
-#EXTGRP:Общественные
-TVSources &id='rossiya k (+7)_d0'
-#EXTINF:-1,8 канал (Красноярский край)
-#EXTGRP:Региональные
-TVSources &id='8 kanal (krasnoyarskij kraj)_d0'
-#EXTINF:-1,Югорск ТВ
-#EXTGRP:Региональные
-TVSources &id='yugorsk tv_d0'
-#EXTINF:-1,ЮТВ Чебоксары
-#EXTGRP:Региональные
-TVSources &id='yutv cheboksary_d0'
-#EXTINF:-1,UGRA TRAVEL
-#EXTGRP:Региональные
-TVSources &id='ugra travel_00'
-#EXTINF:-1,Москва. Доверие
-#EXTGRP:Региональные
-TVSources &id='moskva. doverie_d0'
-#EXTINF:-1,Ю (+7)
-#EXTGRP:Общественные
-TVSources &id='yu (+7)_00'
-#EXTINF:-1,Своё ТВ Ставрополь
-#EXTGRP:Региональные
-TVSources &id='svoyo tv stavropol`_d0'
-#EXTINF:-1,ННТВ
-#EXTGRP:Региональные
-TVSources &id='nntv_d0'
-#EXTINF:-1,Мы и город
-#EXTGRP:Региональные
-TVSources &id='my i gorod_d0'
-#EXTINF:-1,Губерния Самара
-#EXTGRP:Региональные
-TVSources &id='guberniya samara_d0'
-#EXTINF:-1,Ю (+2)
-#EXTGRP:Общественные
-TVSources &id='yu (+2)_00'
-#EXTINF:-1,Тюменское время
-#EXTGRP:Региональные
-TVSources &id='tyumenskoe vremya_d0'
-#EXTINF:-1,ТНТ4 (+7)
-#EXTGRP:Развлекательные
-TVSources &id='tnt4 (+7)_00'
-#EXTINF:-1,ТНТ4 (+4)
-#EXTGRP:Развлекательные
-TVSources &id='tnt4 (+4)_00'
-#EXTINF:-1,Вариант V
-#EXTGRP:Региональные
-TVSources &id='variant v_d0'
-#EXTINF:-1,ТК Центр (Красноярск)
-#EXTGRP:Региональные
-TVSources &id='tk czentr (krasnoyarsk)_d0'
-#EXTINF:-1,Ивановское общественное телевидение
-#EXTGRP:Региональные
-TVSources &id='ivanovskoe obshhestvennoe televidenie_d0'
-#EXTINF:-1,Суббота! (+7)
-#EXTGRP:Новые каналы
-TVSources &id='subbota! (+7)_d0'
-#EXTINF:-1,7 канал Красноярск
-#EXTGRP:Региональные
-TVSources &id='7 kanal krasnoyarsk_d0'
-#EXTINF:-1,Экспресс
-#EXTGRP:Региональные
-TVSources &id='ekspress_d0'
-#EXTINF:-1,Шаян ТВ
-#EXTGRP:Региональные
-TVSources &id='shayan tv_d0'
-#EXTINF:-1,НТС-Ирбит (Екатеринбург)
-#EXTGRP:Региональные
-TVSources &id='nts irbit (ekaterinburg)_d0'
-#EXTINF:-1,Толпар ТВ
-#EXTGRP:Региональные
-TVSources &id='tolpar tv_d0'
-#EXTINF:-1,Башкортостан 24
-#EXTGRP:Региональные
-TVSources &id='bashkortostan 24_d0'
-#EXTINF:-1,Амурское областное телевидение
-#EXTGRP:Региональные
-TVSources &id='amurskoe oblastnoe televidenie_d0'
-#EXTINF:-1,Че! (+2)
-#EXTGRP:Развлекательные
-TVSources &id='che! (+2)_00'
-#EXTINF:-1,Хамдан-Калмыкия 24
-#EXTGRP:Региональные
-TVSources &id='khamdan kalmykiya 24_d0'
-#EXTINF:-1,ТНР24
-#EXTGRP:Региональные
-TVSources &id='tnr24_d0'
-#EXTINF:-1,ТВ-Губерния
-#EXTGRP:Региональные
-TVSources &id='tv guberniya_d0'
-#EXTINF:-1,Майдан
-#EXTGRP:Региональные
-TVSources &id='majdan_d0'
-#EXTINF:-1,ТКР Рязань
-#EXTGRP:Региональные
-TVSources &id='tkr ryazan`_d0'
-#EXTINF:-1,Тольятти 24
-#EXTGRP:Региональные
-TVSources &id='tol`yatti 24_d0'
-#EXTINF:-1,Че! (+7)
-#EXTGRP:Развлекательные
-TVSources &id='che! (+7)_00'
-#EXTINF:-1,ТВЦ (+2)
-#EXTGRP:Общественные
-TVSources &id='tvcz (+2)_00'
-#EXTINF:-1,Новый век (Тамбов)
-#EXTGRP:Региональные
-TVSources &id='novyj vek (tambov)_d0'
-#EXTINF:-1,Репортер 73
-#EXTGRP:Региональные
-TVSources &id='reporter 73_d0'
-#EXTINF:-1,Тверской Проспект
-#EXTGRP:Региональные
-TVSources &id='tverskoj prospekt_d0'
-#EXTINF:-1,Импульс
-#EXTGRP:Региональные
-TVSources &id='impul`s_d0'
-#EXTINF:-1,Тивиком
-#EXTGRP:Региональные
-TVSources &id='tivikom_d0'
-#EXTINF:-1,2х2 (+7)
-#EXTGRP:Развлекательные
-TVSources &id='2kh2 (+7)_00'
-#EXTINF:-1,Татарстан-24
-#EXTGRP:Региональные
-TVSources &id='tatarstan 24_d0'
-#EXTINF:-1,РИМ (Каменск-Уральский)
-#EXTGRP:Региональные
-TVSources &id='rim (kamensk ural`skij)_d0'
-#EXTINF:-1,Домашний (+7)
-#EXTGRP:Общественные
-TVSources &id='domashnij (+7)_d0'
-#EXTINF:-1,Карусель (+7)
-#EXTGRP:Детские
-TVSources &id='karusel` (+7)_d0'
-#EXTINF:-1,Лен ТВ 24
-#EXTGRP:Региональные
-TVSources &id='len tv 24_d0'
-#EXTINF:-1,ТНТ4 (+2)
-#EXTGRP:Развлекательные
-TVSources &id='tnt4 (+2)_00'
-#EXTINF:-1,Волгоград-24
-#EXTGRP:Региональные
-TVSources &id='volgograd 24_d0'
-#EXTINF:-1,Наша Сибирь 4K
-#EXTGRP:HD
-TVSources &id='nasha sibir` 4k_d0'
-#EXTINF:-1,Осетия-Ирыстон
-#EXTGRP:Региональные
-TVSources &id='osetiya iryston_d0'
-#EXTINF:-1,ТНВ
-#EXTGRP:Региональные
-TVSources &id='tnv_d0'
-#EXTINF:-1,КТВ-Город
-#EXTGRP:Региональные
-TVSources &id='ktv gorod_d0'
-#EXTINF:-1,Русский Север
-#EXTGRP:Региональные
-TVSources &id='russkij sever_d0'
-#EXTINF:-1,Кузбасс 1
-#EXTGRP:Региональные
-TVSources &id='kuzbass 1_d0'
-#EXTINF:-1,Удмуртия
-#EXTGRP:Региональные
-TVSources &id='udmurtiya_d0'
-#EXTINF:-1,ТВ21+
-#EXTGRP:Региональные
-TVSources &id='tv21+_00'
-#EXTINF:-1,ТВ-Колыма-Плюс
-#EXTGRP:Региональные
-TVSources &id='tv kolyma plyus_d0'
-#EXTINF:-1,НТВ (+7)
-#EXTGRP:Общественные
-TVSources &id='ntv (+7)_00'
-#EXTINF:-1,2х2 (+2)
-#EXTGRP:Развлекательные
-TVSources &id='2kh2 (+2)_00'
-#EXTINF:-1,Домашний (+2)
-#EXTGRP:Общественные
-TVSources &id='domashnij (+2)_d0'
-#EXTINF:-1,2х2 (+4)
-#EXTGRP:Развлекательные
-TVSources &id='2kh2 (+4)_00'
-#EXTINF:-1,ТВ-7
-#EXTGRP:Региональные
-TVSources &id='tv 7_d0'
-#EXTINF:-1,Объектив 59
-#EXTGRP:Региональные
-TVSources &id='ob`ektiv 59_d0'
-#EXTINF:-1,ТВЦ (+7)
-#EXTGRP:Общественные
-TVSources &id='tvcz (+7)_00'
-#EXTINF:-1,Область 45
-#EXTGRP:Региональные
-TVSources &id='oblast` 45_d0'
-#EXTINF:-1,Барс плюс
-#EXTGRP:Региональные
-TVSources &id='bars plyus_d0'
-#EXTINF:-1,ОТВ Екатеринбург
-#EXTGRP:Региональные
-TVSources &id='otv ekaterinburg_d0'
-#EXTINF:-1,ТВЦ (+4)
-#EXTGRP:Общественные
-TVSources &id='tvcz (+4)_00'
-#EXTINF:-1,Мир (+7)
-#EXTGRP:Общественные
-TVSources &id='mir (+7)_00'
-#EXTINF:-1,Юрган
-#EXTGRP:Региональные
-TVSources &id='yurgan_d0'
-#EXTINF:-1,Звезда (+4)
-#EXTGRP:Общественные
-TVSources &id='zvezda (+4)_d0'
-#EXTINF:-1,Че! (+4)
-#EXTGRP:Развлекательные
-TVSources &id='che! (+4)_00'
-#EXTINF:-1,НТС Иркутск
-#EXTGRP:Региональные
-TVSources &id='nts irkutsk_d0'
-#EXTINF:-1,Майкопское Телевидение
-#EXTGRP:Региональные
-TVSources &id='majkopskoe televidenie_d0'
-#EXTINF:-1,Ариг Ус 24
-#EXTGRP:Региональные
-TVSources &id='arig us 24_d0'
-#EXTINF:-1,Губерния 33 HD
-#EXTGRP:HD каналы
-TVSources &id='guberniya 33 hd_d0'
-#EXTINF:-1,Звезда (+7)
-#EXTGRP:Общественные
-TVSources &id='zvezda (+7)_d0'
-#EXTINF:-1,Дзержинск ТВ
-#EXTGRP:Региональные
-TVSources &id='dzerzhinsk tv_d0'
-#EXTINF:-1,ТВ-ИН-Магнитогорск
-#EXTGRP:Региональные
-TVSources &id='tv in magnitogorsk_d0'
-#EXTINF:-1,8 канал (Владивосток)
-#EXTGRP:Региональные
-TVSources &id='8 kanal (vladivostok)_d0'
-#EXTINF:-1,Ю (+4)
-#EXTGRP:Общественные
-TVSources &id='yu (+4)_00'
-#EXTINF:-1,Белгород 24
-#EXTGRP:Региональные
-TVSources &id='belgorod 24_d0'
-#EXTINF:-1,Саратов-24
-#EXTGRP:Региональные
-TVSources &id='saratov 24_d0'
-#EXTINF:-1,Самара-Гис
-#EXTGRP:Региональные
-TVSources &id='samara gis_d0'
-#EXTINF:-1,Суббота! (+4)
-#EXTGRP:Новые каналы
-TVSources &id='subbota! (+4)_d0'
-#EXTINF:-1,Первый канал (+7)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+7)_d0'
-#EXTINF:-1,Югра
-#EXTGRP:Региональные
-TVSources &id='yugra_d0'
-#EXTINF:-1,СТС Love (+2)
-#EXTGRP:Фильмы
-TVSources &id='sts love (+2)_00'
-#EXTINF:-1,Национальное ТВ Чувашии
-#EXTGRP:Региональные
-TVSources &id='naczional`noe tv chuvashii_d0'
-#EXTINF:-1,Самара 24
-#EXTGRP:Региональные
-TVSources &id='samara 24_d0'
-#EXTINF:-1,Love Nature 4K
-#EXTGRP:HD
-TVSources &id='love nature 4k_00'
-#EXTINF:-1,НВК (Саха)
-#EXTGRP:Региональные
-TVSources &id='nvk (sakha)_d0'
-#EXTINF:-1,СТС (+7)
-#EXTGRP:Общественные
-TVSources &id='sts (+7)_00'
-#EXTINF:-1,ОТВ Челябинск HD
-#EXTGRP:HD каналы
-TVSources &id='otv chelyabinsk hd_d0'
-#EXTINF:-1,Волгоград 1
-#EXTGRP:Региональные
-TVSources &id='volgograd 1_d0'
-#EXTINF:-1,Заб.TV 24
-#EXTGRP:Региональные
-TVSources &id='zab.tv 24_00'
-#EXTINF:-1,Волга
-#EXTGRP:Региональные
-TVSources &id='volga_d0'
-#EXTINF:-1,TMTV
-#EXTGRP:Региональные
-TVSources &id='tmtv_00'
-#EXTINF:-1,Первый канал (+1)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+1)_d0'
-#EXTINF:-1,СТВ-Байкал
-#EXTGRP:Региональные
-TVSources &id='stv bajkal_d0'
-#EXTINF:-1,Disney Channel (+4)
-#EXTGRP:Детские
-TVSources &id='disney channel (+4)_00'
-#EXTINF:-1,Домашний (+4)
-#EXTGRP:Общественные
-TVSources &id='domashnij (+4)_d0'
-#EXTINF:-1,Первый канал (-1)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal ( 1)_d0'
-#EXTINF:-1,Информационная служба Югры
-#EXTGRP:Региональные
-TVSources &id='informaczionnaya sluzhba yugry_d0'
-#EXTINF:-1,СТВ (Симбирское телевидение)
-#EXTGRP:Региональные
-TVSources &id='stv (simbirskoe televidenie)_d0'
-#EXTINF:-1,Рыбинск-40
-#EXTGRP:Региональные
-TVSources &id='rybinsk 40_d0'
-#EXTINF:-1,Муз ТВ (+2)
-#EXTGRP:Музыка
-TVSources &id='muz tv (+2)_00'
-#EXTINF:-1,Губерния
-#EXTGRP:Региональные
-TVSources &id='guberniya_d0'
-#EXTINF:-1,Афонтово
-#EXTGRP:Региональные
-TVSources &id='afontovo_d0'
-#EXTINF:-1,Русская линия
-#EXTGRP:Региональные
-TVSources &id='russkaya liniya_d0'
-#EXTINF:-1,Ростов-папа
-#EXTGRP:Региональные
-TVSources &id='rostov papa_d0'
-#EXTINF:-1,СЭТ ТВ
-#EXTGRP:Региональные
-TVSources &id='set tv_d0'
-#EXTINF:-1,Народное телевидение Мордовии
-#EXTGRP:Региональные
-TVSources &id='narodnoe televidenie mordovii_d0'
-#EXTINF:-1,41 Регион
-#EXTGRP:Региональные
-TVSources &id='41 region_d0'
-#EXTINF:-1,Толк
-#EXTGRP:Региональные
-TVSources &id='tolk_d0'
-#EXTINF:-1,Первый Тульский
-#EXTGRP:Региональные
-TVSources &id='pervyj tul`skij_d0'
-#EXTINF:-1,Муравленко 24
-#EXTGRP:Региональные
-TVSources &id='muravlenko 24_d0'
-#EXTINF:-1,Восток 24
-#EXTGRP:Региональные
-TVSources &id='vostok 24_d0'
-#EXTINF:-1,Россия 1 (+1)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 (+1)_00'
-#EXTINF:-1,ВТК «Аргус»
-#EXTGRP:Региональные
-TVSources &id='vtk 171argus187_c2'
-#EXTINF:-1,Ветта 24 Пермь
-#EXTGRP:Региональные
-TVSources &id='vetta 24 perm`_d0'
-#EXTINF:-1,Кабардино-Балкария
-#EXTGRP:Региональные
-TVSources &id='kabardino balkariya_d0'
-#EXTINF:-1,Россия 1 (+7)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 (+7)_00'
-#EXTINF:-1,Пятница! (+7)
-#EXTGRP:Развлекательные
-TVSources &id='pyatnicza! (+7)_d0'
-#EXTINF:-1,ОРТ-Планета (Оренбург)
-#EXTGRP:Региональные
-TVSources &id='ort planeta (orenburg)_d0'
-#EXTINF:-1,ОТВ-Владивосток
-#EXTGRP:Региональные
-TVSources &id='otv vladivostok_d0'
-#EXTINF:-1,Тагил ТВ
-#EXTGRP:Региональные
-TVSources &id='tagil tv_d0'
-#EXTINF:-1,Евразия
-#EXTGRP:Региональные
-TVSources &id='evraziya_d0'
-#EXTINF:-1,РЕН ТВ (+7)
-#EXTGRP:Общественные
-TVSources &id='ren tv (+7)_00'
-#EXTINF:-1,ВОТтв
-#EXTGRP:Региональные
-TVSources &id='vottv_d0'
-#EXTINF:-1,РГВК Дагестан
-#EXTGRP:Региональные
-TVSources &id='rgvk dagestan_d0'
-#EXTINF:-1,Ultra HD Cinema
-#EXTGRP:HD каналы
-TVSources &id='ultra hd cinema_00'
-#EXTINF:-1,ОТВ-Сахалин
-#EXTGRP:Региональные
-TVSources &id='otv sakhalin_d0'
-#EXTINF:-1,8 канал (Новосибирск)
-#EXTGRP:Региональные
-TVSources &id='8 kanal (novosibirsk)_d0'
-#EXTINF:-1,Рифей-ТВ
-#EXTGRP:Региональные
-TVSources &id='rifej tv_d0'
-#EXTINF:-1,Мир Белогорья
-#EXTGRP:Региональные
-TVSources &id='mir belogor`ya_d0'
-#EXTINF:-1,Прима-ТВ
-#EXTGRP:Региональные
-TVSources &id='prima tv_d0'
-#EXTINF:-1,Арктик-ТВ
-#EXTGRP:Региональные
-TVSources &id='arktik tv_d0'
-#EXTINF:-1,Ника-ТВ
-#EXTGRP:Региональные
-TVSources &id='nika tv_d0'
-#EXTINF:-1,Звезда (+2)
-#EXTGRP:Общественные
-TVSources &id='zvezda (+2)_d0'
-#EXTINF:-1,Первый областной
-#EXTGRP:Региональные
-TVSources &id='pervyj oblastnoj_d0'
-#EXTINF:-1,Первый канал (+8)
-#EXTGRP:Общественные
-TVSources &id='pervyj kanal (+8)_d0'
-#EXTINF:-1,Россия К (+4)
-#EXTGRP:Общественные
-TVSources &id='rossiya k (+4)_d0'
-#EXTINF:-1,Eurosport 4k
-#EXTGRP:HD
-TVSources &id='eurosport 4k_00'
-#EXTINF:-1,Первый городской (Омск)
-#EXTGRP:Региональные
-TVSources &id='pervyj gorodskoj (omsk)_d0'
-#EXTINF:-1,Первый городской (Киров)
-#EXTGRP:Региональные
-TVSources &id='pervyj gorodskoj (kirov)_d0'
-#EXTINF:-1,ОТС
-#EXTGRP:Региональные
-TVSources &id='ots_d0'
-#EXTINF:-1,ТНТ (+7)
-#EXTGRP:Общественные
-TVSources &id='tnt (+7)_00'
-#EXTINF:-1,АТВ-Ставрополь
-#EXTGRP:Региональные
-TVSources &id='atv stavropol`_d0'
-#EXTINF:-1,Катунь 24
-#EXTGRP:Региональные
-TVSources &id='katun` 24_d0'
-#EXTINF:-1,Липецкое время
-#EXTGRP:Региональные
-TVSources &id='lipeczkoe vremya_d0'
-#EXTINF:-1,Девятка ТВ
-#EXTGRP:Региональные
-TVSources &id='devyatka tv_d0'
-#EXTINF:-1,Мир (+4)
-#EXTGRP:Общественные
-TVSources &id='mir (+4)_00'
-#EXTINF:-1,Архыз-24
-#EXTGRP:Региональные
-TVSources &id='arkhyz 24_d0'
-#EXTINF:-1,Сампо ТВ 360°
-#EXTGRP:Региональные
-TVSources &id='sampo tv 360176_c2'
-#EXTINF:-1,Disney Channel (+7)
-#EXTGRP:Детские
-TVSources &id='disney channel (+7)_00'
-#EXTINF:-1,Кубань 24
-#EXTGRP:Региональные
-TVSources &id='kuban` 24_d0'
-#EXTINF:-1,Сургут 24
-#EXTGRP:Региональные
-TVSources &id='surgut 24_d0'
-#EXTINF:-1,Arirang
-#EXTGRP:Общественные
-TVSources &id='arirang_00'
-#EXTINF:-1,Суббота!
-#EXTGRP:Развлекательные
-TVSources &id='subbota!_d0'
-#EXTINF:-1,РТС-Абакан
-#EXTGRP:Региональные
-TVSources &id='rts abakan_d0'
-#EXTINF:-1,Регион 29
-#EXTGRP:Региональные
-TVSources &id='region 29_d0'
-#EXTINF:-1,Россия 1 (-1)
-#EXTGRP:Общественные
-TVSources &id='rossiya 1 ( 1)_00'
-#EXTINF:-1,КРАСНОДАР он-лайн
-#EXTGRP:Региональные
-TVSources &id='krasnodar on lajn_d0'
-#EXTINF:-1,Наши города
-#EXTGRP:Региональные
-TVSources &id='nashi goroda_d0'
-#EXTINF:-1,Городской телеканал Ярославль
-#EXTGRP:Региональные
-TVSources &id='gorodskoj telekanal yaroslavl`_d0'
-#EXTINF:-1,Пятый канал (+7)
-#EXTGRP:Общественные
-TVSources &id='pyatyj kanal (+7)_d0'
-#EXTINF:-1,НТК
-#EXTGRP:Украинские
-TVSources &id='ntk_d0'
-#EXTINF:-1,Мир (+2)
-#EXTGRP:Общественные
-TVSources &id='mir (+2)_00'
-#EXTINF:-1,Арктика 24
-#EXTGRP:Региональные
-TVSources &id='arktika 24_d0'
-#EXTINF:-1,Муз ТВ (+7)
-#EXTGRP:Музыка
-TVSources &id='muz tv (+7)_00'
-#EXTINF:-1,С1 Сургут
-#EXTGRP:Региональные
-TVSources &id='s1 surgut_d0'
-#EXTINF:-1,Эфир
-#EXTGRP:Региональные
-TVSources &id='efir_d0'
-#EXTINF:-1,Матур ТВ
-#EXTGRP:Региональные
-TVSources &id='matur tv_d0'
-#EXTINF:-1,Якутия 24
-#EXTGRP:Региональные
-TVSources &id='yakutiya 24_d0'
-#EXTINF:-1,Новгородское областное телевидение
-#EXTGRP:Региональные
-TVSources &id='novgorodskoe oblastnoe televidenie_d0'
-#EXTINF:-1,Селенга-ТВ
-#EXTGRP:Региональные
-TVSources &id='selenga tv_d0'
-#EXTINF:-1,12 канал
-#EXTGRP:Региональные
-TVSources &id='12 kanal_d0'
-#EXTINF:-1,Вести FM
-#EXTGRP:Новостные
-TVSources &id='vesti fm_d0'
-#EXTINF:-1,РТР Россия
-#EXTGRP:Общественные
-TVSources &id='rtr rossiya_d0'
-#EXTINF:-1,Da Vinci
-#EXTGRP:Детские
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Союз
-#EXTGRP:ПРАВОСЛАВИЕ
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,ТНВ Планета
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Первый РНК
-#EXTGRP:КИНО
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1,Sochi Live HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Fine Living
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1,Music Box
-#EXTGRP:Музыка
-http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1,UA TV
-#EXTGRP:УКРАИНА
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1,Алматы TV (KZ)
-#EXTGRP:КАЗАХСТАН
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1,БелРос
-#EXTGRP:БЕЛАРУСЬ
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Крым 1 HD
-#EXTGRP:КРЫМ
-http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Югра
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1,Союз
-#EXTGRP:ПРАВОСЛАВИЕ
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Россия 1
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Союз
-#EXTGRP:ПРАВОСЛАВИЕ
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Красная Линия
-#EXTGRP:КИНО
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,СТРК HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
-#EXTINF:-1,Food Network
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1,Техно 24
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1,Актау - Берег Каспия 14 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy14/index.m3u8
-#EXTINF:-1,8 Канал (Новосибирск)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
-#EXTINF:-1,Music Box UA
-#EXTGRP:Музыка
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1,UA Крым
-#EXTGRP:УКРАИНА
-http://95.67.70.106/hls/uakrim_ua_mid/index.m3u8
-#EXTINF:-1,Беларусь 24
-#EXTGRP:БЕЛАРУСЬ
-https://stream.hoster.by/belarus24/live/playlist.m3u8
-#EXTINF:-1,Крым 24 HD
-#EXTGRP:КРЫМ
-http://vid.techbee.pro:8080/crimea24/index.m3u8
-#EXTINF:-1,Три Ангела
-#EXTGRP:ПРАВОСЛАВИЕ
-http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1,РТР Россия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:ПРАВОСЛАВИЕ
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Lale
-#EXTGRP:Детские
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Звезда HD
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,43 HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1,RTG TV
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1,H2
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1,Беларусь 24
-#EXTGRP:БЕЛАРУСЬ
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1,Крым 1 HD
-#EXTGRP:КРЫМ
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,Актау - Берег Каспия 15 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy15/index.m3u8
-#EXTINF:-1,8 Канал (Красноярск)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1,Music Vox TV
-#EXTGRP:Музыка
-http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
-#EXTINF:-1,UA Культура
-#EXTGRP:УКРАИНА
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1,Спас
-#EXTGRP:ПРАВОСЛАВИЕ
-http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Россия 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:Детские
-http://iptv-telik.usite.pro/load/0-0-1-125-20
-#EXTINF:-1,Радость моя
-#EXTGRP:ПРАВОСЛАВИЕ
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:ПРАВОСЛАВИЕ
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1,Здоровье
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1,Наука
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Наука
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1,Беларусь 4 (Витебск)
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26258/belarus4
-#EXTINF:-1,Крым 24 HD
-#EXTGRP:КРЫМ
-http://live.1tvcrimea.ru:8080/switcher.m3u8
-#EXTINF:-1,Актау - Берег Каспия 4 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy4/index.m3u8
-#EXTINF:-1,UA Перший
-#EXTGRP:УКРАИНА
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-#EXTINF:-1,Краснодар ТВ
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1,Известия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Первый канал "Евразия"
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:ПРАВОСЛАВИЕ
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Моя Планета
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1,M2O TV
-#EXTGRP:Музыка
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Tiji
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1,ЭВРИКА
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",ЭВРИКА
 http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1,Беларусь 5
-#EXTGRP:БЕЛАРУСЬ
-https://95-213-224-179.livesports24.online/belarusss5.m3u8
-#EXTINF:-1,Крым 24
-#EXTGRP:КРЫМ
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1,Актау - Берег Каспия 5 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy5/index.m3u8
-#EXTINF:-1,Интер
-#EXTGRP:УКРАИНА
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,Кубань 24 Орбита
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://195.133.144.235:8080/hls/stream.m3u8
-#EXTINF:-1,Радость Моя
-#EXTGRP:ПРАВОСЛАВИЕ
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:КИНО
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,Россия 1 (Калуга)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
-#EXTINF:-1,Смайлик HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1,Известия ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Союз
-#EXTGRP:ПРАВОСЛАВИЕ
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Retro Music Tv
-#EXTGRP:Музыка
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Загородный
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1,ЗОО ТВ
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",ЗОО ТВ
 http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1,Наше ТВ Витебск
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26259/nashe
-#EXTINF:-1,Миллет
-#EXTGRP:КРЫМ
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1,Актау - Верхние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/yntymak/index.m3u8
-#EXTINF:-1,112 Усраина HD
-#EXTGRP:УКРАИНА
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1,Ингушетия ТВ
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
-#EXTINF:-1,Bollywood HD
-#EXTGRP:КИНО
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,hdl HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",hdl HD
 https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1,Дождь
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный BY
-#EXTGRP:Музыка
-http://rtmp.one.by:1200
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1,Телепутишествия
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Телепутишествия
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1,БелРос
-#EXTGRP:БЕЛАРУСЬ
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,8 канал (Крым)
-#EXTGRP:КРЫМ
-http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1,Актау - ДрамТеатр HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/dramteatr/index.m3u8
-#EXTINF:-1,24 Усраина HD
-#EXTGRP:УКРАИНА
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1,Енисей
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://air.enisey.tv/enisey.m3u8
-#EXTINF:-1,Крик ТВ
-#EXTGRP:КИНО
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1,Travel Guid-TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,РЕН ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,РБК ТВ (Уфа)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1,Первый Музыкальный BY [FHD]
-#EXTGRP:Музыка
-http://rtmp.one.by:1300
-#EXTINF:-1,Мама
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1,Варяг
-#EXTGRP:БЕЛАРУСЬ
-http://87.252.229.252:8081/varag
-#EXTINF:-1,НТС (Севастополь)
-#EXTGRP:КРЫМ
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1,Актау - Нижние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/downtown/index.m3u8
-#EXTINF:-1,7 канал HD (Одесса)
-#EXTGRP:УКРАИНА
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1,Горная Страна
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Горная Страна
 http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
-#EXTINF:-1,Дон 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://cdn-01.bonus-tv.ru:7779/don24/index.m3u8
-#EXTINF:-1,Здоровье ТВ
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Здоровье ТВ
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,ТРК Евразия (Орск) +2
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный RU BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2200
-#EXTINF:-1,Мир
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1,Витебск ТВ
-#EXTGRP:БЕЛАРУСЬ
-https://flu.vtv.by/tvt-non-by/index.m3u8
-#EXTINF:-1,ИКС
-#EXTGRP:КРЫМ
-http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:-1,Правда (НЕ!) ТУТ Хуев
-#EXTGRP:УКРАИНА
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Большая Азия
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Большая Азия
 http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test.m3u8
-#EXTINF:-1,Волгоград 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
-#EXTINF:-1,Мособр TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Мособр TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,Новосибирск (stream)
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,1HD Music TV
-#EXTGRP:Музыка
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Муз ТВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1,ОНТ (Беларусь)
-#EXTGRP:БЕЛАРУСЬ
-http://persik.by/stream/8460/291680/10258.m3u8
-#EXTINF:-1,ИТВ Крым
-#EXTGRP:КРЫМ
-http://iptv.media-ix.com:11375/itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Прямий HD
-#EXTGRP:УКРАИНА
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,Баланс ТВ
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Баланс ТВ
 http://stream.balance-tv.ru:1936/btv/btvStream_720p/playlist.m3u8
-#EXTINF:-1,Катунь 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1,Мособр TV HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Мособр TV HD
 http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1,Новое Телевидение
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Новосибирск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1,Мульт
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://tv2.onenet.by:80/STV/mono.m3u8
-#EXTINF:-1,Артек Горный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/4/hls/live.m3u8
-#EXTINF:-1,НТА Львов
-#EXTGRP:УКРАИНА
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:-1,Аригус 24
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Аригус 24
 http://arigus-online.ru/files/playlist.m3u8
-#EXTINF:-1,Белгород 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1,Вместе РФ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1,Univer TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1,Омск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
-#EXTINF:-1,National Geographic Wild HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,М2
-#EXTGRP:Музыка
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://93.125.121.50:8080/STV/index.m3u8
-#EXTINF:-1,Артек Кипарисный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/9/hls/live.m3u8
-#EXTINF:-1,ATR
-#EXTGRP:УКРАИНА
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,Архыз 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/playlist.m3u8
-#EXTINF:-1,Вместе РФ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1,Univer TV HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,Владивосток
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
-#EXTINF:-1,hdl HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1,Первый Музыкальный RU HD BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2300
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1,8 канал (Витебск) HD
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:24433/art
-#EXTINF:-1,Артек Лесной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/5/hls/live.m3u8
-#EXTINF:-1,Астрахань 24
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Калининград
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1,Travel Guid-TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,Kronehit TV HD
-#EXTGRP:Музыка
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1,СТС
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1,Брест 7 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1028
-#EXTINF:-1,Артек Озерный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/8/hls/live.m3u8
-#EXTINF:-1,Афонтово
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://stream.afontovo.ru/afontovo.m3u8
-#EXTINF:-1,Царьград
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Царьград
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1,Краснодар
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
-#EXTINF:-1,Здоровье ТВ
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Рыжий
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1,Брест 9 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1029
-#EXTINF:-1,Артек Речной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/6/hls/live.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Brics TV HD (RUS)
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1,Грозный
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
-#EXTINF:-1,Мособр TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1,Первый канал "Евразия"
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1,Сарафан
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s38/04.m3u8
-#EXTINF:-1,Артек Хрустальный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/2/hls/live.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Brics TV HD (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1,Мособр TV HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1,Россия 1 (Калуга)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
-#EXTINF:-1,Артек Янтарный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/3/hls/live.m3u8
-#EXTINF:-1,Мир (+4)
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1,RT News HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT News HD
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1,ТНВ Планета
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Univer TV
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1,Мир HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT Doc HD
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Univer TV HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1,Мир Premium HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
+#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",RT Doc HD
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1,РБК ТВ (Уфа)
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Мир 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,СТРК HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
-#EXTINF:-1,Первый канал HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:-1,НТВ Мир
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1,43 HD
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,Царьград
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1,ТРК Евразия (Орск) +2
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1,36
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s36/04.m3u8
-#EXTINF:-1,Brics TV HD (RUS)
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1,Новосибирск (stream)
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,История
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1,Brics TV HD (ENG)
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1,Новосибирск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1,Футбол
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1,RT News HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1,Омск
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
-#EXTINF:-1,shanson
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,Владивосток
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
-#EXTINF:-1,RT Doc HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1,Калининград
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1,Sochi Live HD
-#EXTGRP:ПУТЕШЕСТВИЯ-НАУКА
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,Краснодар
-#EXTGRP:РЕГИОНЫ РОССИИ
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
-#EXTINF:-1,ДОМАШНИЙ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1,Грозный
-#EXTGRP:РЕГИОНЫ РОССИИ
-http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
-#EXTINF:-1,Fast BOX
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1,А HBO
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1,RTG HD
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1,M2O TV
-#EXTGRP:Музыка
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1,ПЯТНИЦА
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1,112
-#EXTGRP:РАЗНЫЕ
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:-1,112 HD
-#EXTGRP:РАЗНЫЕ
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1,12 Канал (Омск)
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:7780/omsk/playlist.m3u8
-#EXTINF:-1,1HD
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-#EXTINF:-1,1Music (Hungary)
-#EXTGRP:РАЗНЫЕ
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,24 канал HD
-#EXTGRP:РАЗНЫЕ
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1,24 канал UA
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1,26 Регион (Ставрополь)
-#EXTGRP:РАЗНЫЕ
-http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
-#EXTINF:-1,34 канал
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
-#EXTINF:-1,360
-#EXTGRP:РАЗНЫЕ
-http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
-#EXTINF:-1,360 (Ярославль)
-#EXTGRP:РАЗНЫЕ
-http://gtk.tv/hls/gtr.m3u8
-#EXTINF:-1,360 Новости
-#EXTGRP:РАЗНЫЕ
-http://now2.eaglecdn.com/stream/360tv_360news/index.m3u8
-#EXTINF:-1,43 HD
-#EXTGRP:РАЗНЫЕ
-http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
-#EXTINF:-1,5 канал UA
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
-#EXTINF:-1,7 канал (KZ)
-#EXTGRP:РАЗНЫЕ
-http://78.40.108.218/7channel/index.m3u8
-#EXTINF:-1,78 HD
-#EXTGRP:РАЗНЫЕ
-http://78.gcdn.co/out_hls/877_13_720n/index.m3u8
-#EXTINF:-1,8 Канал
-#EXTGRP:РАЗНЫЕ
-http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
-#EXTINF:-1,8 Канал (Int.)
-#EXTGRP:РАЗНЫЕ
-http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
-#EXTINF:-1,Retro Music Tv
-#EXTGRP:Музыка
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный BY
-#EXTGRP:Музыка
-http://rtmp.one.by:1200
-#EXTINF:-1,Первый Музыкальный BY [FHD]
-#EXTGRP:Музыка
-http://rtmp.one.by:1300
-#EXTINF:-1,ATR
-#EXTGRP:РАЗНЫЕ
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,Первый Музыкальный RU BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2200
-#EXTINF:-1,Arirang
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
-#EXTINF:-1,1HD Music TV
-#EXTGRP:Музыка
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1,Atameken (KZ)
-#EXTGRP:РАЗНЫЕ
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
-#EXTINF:-1,ACB TV
-#EXTGRP:Музыка
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1,BBC
-#EXTGRP:РАЗНЫЕ
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1,М2
-#EXTGRP:Музыка
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,BIM TV
-#EXTGRP:РАЗНЫЕ
-http://av.bimradio.ru/hls/video2/index.m3u8
-#EXTINF:-1,Первый Музыкальный RU HD BY
-#EXTGRP:Музыка
-http://rtmp.one.by:2300
-#EXTINF:-1,Boutique TV
-#EXTGRP:РАЗНЫЕ
-http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,Bridge TV
-#EXTGRP:РАЗНЫЕ
-http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,CGTN Русский
-#EXTGRP:РАЗНЫЕ
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,CITY TV
-#EXTGRP:РАЗНЫЕ
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Capital TV
-#EXTGRP:РАЗНЫЕ
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
-#EXTINF:-1,Red Bull TV
-#EXTGRP:Спорт
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,DW
-#EXTGRP:РАЗНЫЕ
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Al Kass Спортs 1 HD
-#EXTGRP:Спорт
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,ESKA BEST MUSIC TV
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
-#EXTINF:-1,Alsace 20
-#EXTGRP:Спорт
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,ESKA PARTY TV
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
-#EXTINF:-1,Arryadia Спорт
-#EXTGRP:Спорт
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,ESKA ROCK TV
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/eskarocktv-p/stream1/playlist.m3u8
-#EXTINF:-1,Arryadia Спорт HD
-#EXTGRP:Спорт
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,France 24 (ENG)
-#EXTGRP:РАЗНЫЕ
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Turkmen Спорт
-#EXTGRP:Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1,Fresh TV
-#EXTGRP:РАЗНЫЕ
-http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
-#EXTINF:-1,GamEshow
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/gameshow_edge/index.m3u8
-#EXTINF:-1,Global Star
-#EXTGRP:РАЗНЫЕ
-rtmp://stream.globalstar.tv/live/gs
-#EXTINF:-1,Gold TV (Mold)
-#EXTGRP:РАЗНЫЕ
-http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
-#EXTINF:-1,Kronehit TV HD
-#EXTGRP:Музыка
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1,HD Fashion UA
-#EXTGRP:РАЗНЫЕ
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,HD Media
-#EXTGRP:РАЗНЫЕ
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1,HD Media 3D
-#EXTGRP:РАЗНЫЕ
-http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
-#EXTINF:-1,HITV
-#EXTGRP:РАЗНЫЕ
-http://rosshow.gcdn.co/rosshow_live/hittv/chunklist_b3200000.m3u8
-#EXTINF:-1,HardLife
-#EXTGRP:РАЗНЫЕ
-rtmp://stream.hardlife.tv/live/hl
-#EXTINF:-1,Fine Living
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s51/04.m3u8
-#EXTINF:-1,Heart
-#EXTGRP:РАЗНЫЕ
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
-#EXTINF:-1,Food Network
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1,Heavy Metal TV
-#EXTGRP:РАЗНЫЕ
-http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:-1,Hit Music
-#EXTGRP:РАЗНЫЕ
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,RTG TV
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1,Hit TV
-#EXTGRP:РАЗНЫЕ
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
-#EXTINF:-1,Здоровье
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1,Hope TV
-#EXTGRP:РАЗНЫЕ
-http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,ID Fashion HD
-#EXTGRP:РАЗНЫЕ
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:-1,Tiji
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1,IZ.RU
-#EXTGRP:РАЗНЫЕ
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Kazakh TV
-#EXTGRP:РАЗНЫЕ
-http://kazakhtvru.ultraiptv.com/live_ru/playlist2/index.m3u8
-#EXTINF:-1,Загородный
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1,Kronehit HD
-#EXTGRP:РАЗНЫЕ
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1,LALE
-#EXTGRP:РАЗНЫЕ
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1,Leomax
-#EXTGRP:РАЗНЫЕ
-http://cdn-11.bonus-tv.ru:80/Leomax/playlist.m3u8
-#EXTINF:-1,Мама
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1,Luxury
-#EXTGRP:РАЗНЫЕ
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1,Мир
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s39/04.m3u8
-#EXTINF:-1,M2O TV
-#EXTGRP:РАЗНЫЕ
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1,Муз ТВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1,MTV Mix (Уфа)
-#EXTGRP:РАЗНЫЕ
-http://81.30.182.82:18092/hls/live.m3u8
-#EXTINF:-1,Мульт
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1,Most Video TV HD
-#EXTGRP:РАЗНЫЕ
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,Наука
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1,СТС
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1,Music Vox TV Olds Cool
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
-#EXTINF:-1,Muzzone
-#EXTGRP:РАЗНЫЕ
-http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:-1,Рыжий
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1,NRJ Hits
-#EXTGRP:РАЗНЫЕ
-http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
-#EXTINF:-1,Сарафан
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s38/04.m3u8
-#EXTINF:-1,NRJ TV
-#EXTGRP:РАЗНЫЕ
-http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
-#EXTINF:-1,Nano TV
-#EXTGRP:РАЗНЫЕ
-http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1,Техно 24
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1,Nebiset
-#EXTGRP:РАЗНЫЕ
-http://hls.nebiset.tv/nebiset_2000/index.m3u8
-#EXTINF:-1,NewsOne HD
-#EXTGRP:РАЗНЫЕ
-http://77.120.104.64/hls/newsone-hd/stream.m3u8
-#EXTINF:-1,OTV
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
-#EXTINF:-1,H2
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s2/04.m3u8
-#EXTINF:-1,Ocko
-#EXTGRP:РАЗНЫЕ
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Ocko Expres
-#EXTGRP:РАЗНЫЕ
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Ocko Star
-#EXTGRP:РАЗНЫЕ
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Polo PARTY TV
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1,Public TV
-#EXTGRP:РАЗНЫЕ
-http://cdn-11.bonus-tv.ru:80/publictv/index.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:-1,Publika TV (Mold)
-#EXTGRP:РАЗНЫЕ
-http://livebeta.publika.md/LIVE/P/6810.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1,RADIO MONTE CARLO TV
-#EXTGRP:РАЗНЫЕ
-http://tv.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1,НТВ Мир
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1,RETRO
-#EXTGRP:РАЗНЫЕ
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,RTI HD
-#EXTGRP:РАЗНЫЕ
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1,36
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s36/04.m3u8
-#EXTINF:-1,RU TV
-#EXTGRP:РАЗНЫЕ
-http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
-#EXTINF:-1,История
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1,RU TV HD
-#EXTGRP:РАЗНЫЕ
-http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
-#EXTINF:-1,Футбол
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1,Radio 105 TV
-#EXTGRP:РАЗНЫЕ
-http://tv.105.net/live/105Test1/playlist.m3u8
-#EXTINF:-1,shanson
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1,Radio Bruno
-#EXTGRP:РАЗНЫЕ
-http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
-#EXTINF:-1,ЭВРИКА
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1,Russia Today HD
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/btv/rttv/type/user/devname/LG-SmartTV/devid/LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
-#EXTINF:-1,ЗОО ТВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1,Russia Today Док
-#EXTGRP:РАЗНЫЕ
-http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1,ДОМАШНИЙ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1,Russian Music Box
-#EXTGRP:РАЗНЫЕ
-http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
-#EXTINF:-1,SONG TV AM
-#EXTGRP:РАЗНЫЕ
-http://mtvam.ru/hlsam/playlist.m3u8
-#EXTINF:-1,STARS TV
-#EXTGRP:РАЗНЫЕ
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
-#EXTINF:-1,Fast BOX
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1,Shop 24
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
-#EXTINF:-1,Телепутишествия
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1,Shopping Live
-#EXTGRP:РАЗНЫЕ
-http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1,А HBO
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1,TV Sale
-#EXTGRP:РАЗНЫЕ
-http://58f6388483343.streamlock.net/live/tvsale_1.stream/playlist.m3u8
-#EXTINF:-1,RTG HD
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1,TV1 KG
-#EXTGRP:РАЗНЫЕ
-http://212.2.225.30:1935/live//raketa.stream/playlist.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1,TVM Channel
-#EXTGRP:РАЗНЫЕ
-http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1,TopShop
-#EXTGRP:РАЗНЫЕ
-http://tv-topshop.netrack.ru/hls/topshop.m3u8
-#EXTINF:-1,Tumar TV (KG)
-#EXTGRP:РАЗНЫЕ
-http://ip.tumar.tv/hls/stream.m3u8
-#EXTINF:-1,ПЯТНИЦА
-#EXTGRP:РАЗНЫЕ
-http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1,Virgin Radio TV
-#EXTGRP:РАЗНЫЕ
-http://tv.105.net:1935/live/virgin1/index.m3u8
-#EXTINF:-1,Wawa TV
-#EXTGRP:РАЗНЫЕ
-http://stream.cdn.smcloud.net/wawa-t/wawa_720p/playlist.m3u8
-#EXTINF:-1,World Fashion
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
-#EXTINF:-1,World Fashion RU
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
-#EXTINF:-1,Xite (NL)
-#EXTGRP:РАЗНЫЕ
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
-#EXTINF:-1,Xsport UA
-#EXTGRP:РАЗНЫЕ
-http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
-#EXTINF:-1,Zik HD
-#EXTGRP:РАЗНЫЕ
-http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
-#EXTINF:-1,АСВ ТВ
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
-#EXTINF:-1,БСТ
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
-#EXTINF:-1,Бойцовский Дух
-#EXTGRP:РАЗНЫЕ
-http://serv25.vintera.tv:8081/hdmedia/laltrlsu/playlist.m3u8
-#EXTINF:-1,Бокс ТВ
-#EXTGRP:РАЗНЫЕ
-http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
-#EXTINF:-1,Бум ТВ
-#EXTGRP:РАЗНЫЕ
-http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
-#EXTINF:-1,Ветта 24
-#EXTGRP:РАЗНЫЕ
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1,Витрина ТВ
-#EXTGRP:РАЗНЫЕ
-http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
-#EXTINF:-1,Вместе РФ
-#EXTGRP:РАЗНЫЕ
-http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
-#EXTINF:-1,Громадське HD
-#EXTGRP:РАЗНЫЕ
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:-1,Дисконт ТВ
-#EXTGRP:РАЗНЫЕ
-http://cdn-11.bonus-tv.ru:80/TTC/playlist.m3u8
-#EXTINF:-1,Домашний
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.10:1234
-#EXTINF:-1,Домашний +2 (Сургут)
-#EXTGRP:РАЗНЫЕ
-http://tvsever.ru:1936/live/adm2/playlist.m3u8
-#EXTINF:-1,Евразия (KZ)
-#EXTGRP:РАЗНЫЕ
-http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1,Еко
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1,Еспресо
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
-#EXTINF:-1,ИТВ Крым
-#EXTGRP:РАЗНЫЕ
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1,Интер
-#EXTGRP:РАЗНЫЕ
-http://109.68.40.67/life/inter.m3u8
-#EXTINF:-1,Июнь HD
-#EXTGRP:РАЗНЫЕ
-rtmp://46.172.110.19//june
-#EXTINF:-1,К1
-#EXTGRP:РАЗНЫЕ
-http://109.68.40.67/life/k1.m3u8
-#EXTINF:-1,КРТ
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
-#EXTINF:-1,КТК
-#EXTGRP:РАЗНЫЕ
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1,Калейдоскоп
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
-#EXTINF:-1,Карусель
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.20:1234
-#EXTINF:-1,Киев
-#EXTGRP:РАЗНЫЕ
-http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
-#EXTINF:-1,КиноМеню HD
-#EXTGRP:РАЗНЫЕ
-http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1,Классика Кино
-#EXTGRP:РАЗНЫЕ
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1,Конный Мир SD
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
-#EXTINF:-1,Красная Линия
-#EXTGRP:РАЗНЫЕ
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1,Крик ТВ
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1,Курай
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/bst/kurai/type/user/devname/LG-SmartTV/devid/LG-1469279536/eol/20200101T0000/hash/334a029798def9a4f0cea0d413db75fa0af6a027/playlist.m3u8
-#EXTINF:-1,Липецкое Время
-#EXTGRP:РАЗНЫЕ
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1,Любимое.TV
-#EXTGRP:РАЗНЫЕ
-http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
-#EXTINF:-1,Любимый HD (KG)
-#EXTGRP:РАЗНЫЕ
-http://77.220.204.124:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1,Макси TV
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
-#EXTINF:-1,Малятко TV
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
-#EXTINF:-1,Миллет
-#EXTGRP:РАЗНЫЕ
-http://vid.techbee.pro:8080/millet/index.m3u8
-#EXTINF:-1,Мир
-#EXTGRP:РАЗНЫЕ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир +4
-#EXTGRP:РАЗНЫЕ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1,Мир 24
-#EXTGRP:РАЗНЫЕ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Мир 24 HD
-#EXTGRP:РАЗНЫЕ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24hd/playlist.m3u8
-#EXTINF:-1,Мир HD
-#EXTGRP:РАЗНЫЕ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,Мир Белогорья
-#EXTGRP:РАЗНЫЕ
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1,Москва 24
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Муз
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.54:1234
-#EXTINF:-1,МузСоюз
-#EXTGRP:РАЗНЫЕ
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1,НАШЕ ТВ
-#EXTGRP:РАЗНЫЕ
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-#EXTINF:-1,НТА
-#EXTGRP:РАЗНЫЕ
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1,НТВ
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.7:1234
-#EXTINF:-1,НТВ (Молдова)
-#EXTGRP:РАЗНЫЕ
-http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1,НТН
-#EXTGRP:РАЗНЫЕ
-http://109.68.40.67/life/ntn.m3u8
-#EXTINF:-1,НТС (Севастополь)
-#EXTGRP:РАЗНЫЕ
-http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
-#EXTINF:-1,Надiя
-#EXTGRP:РАЗНЫЕ
-http://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:-1,Настоящее Время
-#EXTGRP:РАЗНЫЕ
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-p.m3u8
-#EXTINF:-1,Неизвестная Планета
-#EXTGRP:РАЗНЫЕ
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1,Новое Радио ТВ
-#EXTGRP:РАЗНЫЕ
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
-#EXTINF:-1,Новое Телевидение HD
-#EXTGRP:РАЗНЫЕ
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Новый Мир
-#EXTGRP:РАЗНЫЕ
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1,О2 ТВ
-#EXTGRP:РАЗНЫЕ
-http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
-#EXTINF:-1,ОНТ BY
-#EXTGRP:РАЗНЫЕ
-http://93.125.31.151:1935/live/ont.stream_ont25/playlist.m3u8
-#EXTINF:-1,ОРТ Планета
-#EXTGRP:РАЗНЫЕ
-http://live-media56.cdnvideo.ru/media56-pub/media56.sdp/playlist.m3u8
-#EXTINF:-1,ОТВ (Екатеринбург)
-#EXTGRP:РАЗНЫЕ
-http://85.12.197.39:8080/hls/stream1.m3u8
-#EXTINF:-1,ОТР
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.19:1234
-#EXTINF:-1,Осетия-Ирыстон
-#EXTGRP:РАЗНЫЕ
-http://now2.eaglecdn.com/stream/irystontv_irystontvstream/index.m3u8
-#EXTINF:-1,Открытый HD
-#EXTGRP:РАЗНЫЕ
-http://77.232.128.68/bks.m3u8
-#EXTINF:-1,Первый
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.1:1234
-#EXTINF:-1,Первый HD
-#EXTGRP:РАЗНЫЕ
-http://37.29.108.2/adlive/211/playlist.m3u8
-#EXTINF:-1,Первый Метео
-#EXTGRP:РАЗНЫЕ
-http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный BY
-#EXTGRP:РАЗНЫЕ
-http://rtmp.one.by:1200
-#EXTINF:-1,Первый Музыкальный HD BY
-#EXTGRP:РАЗНЫЕ
-http://rtmp.one.by:1300
-#EXTINF:-1,Первый Музыкальный RU BY
-#EXTGRP:РАЗНЫЕ
-http://rtmp.one.by:2200
-#EXTINF:-1,Первый Музыкальный RU HD BY
-#EXTGRP:РАЗНЫЕ
-http://rtmp.one.by:2300
-#EXTINF:-1,Первый деловой
-#EXTGRP:РАЗНЫЕ
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
-#EXTINF:-1,Перший Заходний
-#EXTGRP:РАЗНЫЕ
-http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1,Правда ТУТ
-#EXTGRP:РАЗНЫЕ
-http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
-#EXTINF:-1,Продвижение (Омск)
-#EXTGRP:РАЗНЫЕ
-http://cdn-10.bonus-tv.ru:80/prodvizhenie/index.m3u8
-#EXTINF:-1,Просвещение
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
-#EXTINF:-1,Прямой
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
-#EXTINF:-1,Пятница
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.32:1234
-#EXTINF:-1,Пятый канал
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.14:1234
-#EXTINF:-1,РБК
-#EXTGRP:РАЗНЫЕ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1,РГВК Дагестан
-#EXTGRP:РАЗНЫЕ
-http://broadcast.rgvk.tv/test/live.m3u8
-#EXTINF:-1,Рада
-#EXTGRP:РАЗНЫЕ
-http://217.20.164.181/live/rada480p.stream/playlist.m3u8
-#EXTINF:-1,Радио Шансон TV
-#EXTGRP:РАЗНЫЕ
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1,Раз ТВ
-#EXTGRP:РАЗНЫЕ
-http://live-raztv.cdnvideo.ru/raztv/raztv.sdp/playlist.m3u8
-#EXTINF:-1,Ратник ТВ
-#EXTGRP:РАЗНЫЕ
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1,Рен
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.18:1234
-#EXTINF:-1,Россия 1
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия 1 +6 (Чита)
-#EXTGRP:РАЗНЫЕ
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/russia_hd/index.m3u8?token=null
-#EXTINF:-1,Россия 24
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
-#EXTINF:-1,Россия 24 (Томск)
-#EXTGRP:РАЗНЫЕ
-http://live.tvtomsk.ru/hls/RT-24.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия РТР
-#EXTGRP:РАЗНЫЕ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Рубль ТВ
-#EXTGRP:РАЗНЫЕ
-http://live-rubltv.cdnvideo.ru/rubltv/rubltv.sdp/chunklist.m3u8
-#EXTINF:-1,Русский Экстрим (Ретро)
-#EXTGRP:РАЗНЫЕ
-http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
-#EXTINF:-1,Рыжий
-#EXTGRP:РАЗНЫЕ
-http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1,СТВ (Беларусь)
-#EXTGRP:РАЗНЫЕ
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1,СТРК HD
-#EXTGRP:РАЗНЫЕ
-http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
-#EXTINF:-1,СТС
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.8:1234
-#EXTINF:-1,Санкт-Петербург
-#EXTGRP:РАЗНЫЕ
-http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
-#EXTINF:-1,Свое ТВ (Ставрополь)
-#EXTGRP:РАЗНЫЕ
-http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
-#EXTINF:-1,Сказки Зайки
-#EXTGRP:РАЗНЫЕ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-#EXTINF:-1,Скат 24
-#EXTGRP:РАЗНЫЕ
-http://hls.scattv.cdnvideo.ru/scattv2/IP-CDN_Scat24online_hq.sdp/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ
-#EXTGRP:РАЗНЫЕ
-http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Сонце
-#EXTGRP:РАЗНЫЕ
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
-#EXTINF:-1,Союз
-#EXTGRP:РАЗНЫЕ
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,Страна FM TV
-#EXTGRP:РАЗНЫЕ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,ТБН
-#EXTGRP:РАЗНЫЕ
-http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1,ТВ Центр Красноярск HD
-#EXTGRP:РАЗНЫЕ
-http://www.tck.tv/hls_hd/hd.m3u8
-#EXTINF:-1,ТВ3
-#EXTGRP:РАЗНЫЕ
-http://31.185.0.24:8080/udp/239.195.32.15:1234
-#EXTINF:-1,ТВЦ
-#EXTGRP:РАЗНЫЕ
-http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
-#EXTINF:-1,ТДК
-#EXTGRP:РАЗНЫЕ
-http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
-#EXTINF:-1,ТНВ Планета
-#EXTGRP:РАЗНЫЕ
-http://cdn-10.bonus-tv.ru:80/tnv/index.m3u8
-#EXTINF:-1,ТНТ
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
-#EXTINF:-1,ТНТ Music
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
-#EXTINF:-1,ТРЕЙЛЕР ТВ
-#EXTGRP:РАЗНЫЕ
-http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
-#EXTINF:-1,Тамыр
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru:8080/tamyr_edge/index.m3u8
-#EXTINF:-1,Татарстан 24
-#EXTGRP:РАЗНЫЕ
-http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
-#EXTINF:-1,Теледом
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
-#EXTINF:-1,Тивиком (Улан-Удэ)
-#EXTGRP:РАЗНЫЕ
-http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
-#EXTINF:-1,Томское Время
-#EXTGRP:РАЗНЫЕ
-http://live.tomsk-time.ru/hls/live.m3u8
-#EXTINF:-1,Точка ТВ
-#EXTGRP:РАЗНЫЕ
-http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
-#EXTINF:-1,Трейлеры Ovideo
-#EXTGRP:РАЗНЫЕ
-http://cdn-10.bonus-tv.ru:80/ovideo/playlist.m3u8
-#EXTINF:-1,Трофей HD
-#EXTGRP:РАЗНЫЕ
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
-#EXTINF:-1,Тюменское Время
-#EXTGRP:РАЗНЫЕ
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
-#EXTINF:-1,Феникс Плюс Кино
-#EXTGRP:РАЗНЫЕ
-http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
-#EXTINF:-1,Хабар
-#EXTGRP:РАЗНЫЕ
-http://hls-khabar2.cdnvideo.ru/habar/index.m3u8
-#EXTINF:-1,Хамелеон ТВ (KG)
-#EXTGRP:РАЗНЫЕ
-http://77.220.204.63:1935/live/htv.stream/playlist.m3u8
-#EXTINF:-1,ЧГТРК Грозный
-#EXTGRP:РАЗНЫЕ
-http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
-#EXTINF:-1,ЧП Инфо
-#EXTGRP:РАЗНЫЕ
-http://109.68.40.67/life/magnolia.m3u8
-#EXTINF:-1,Че +2 (Сургут)
-#EXTGRP:РАЗНЫЕ
-http://tvsever.ru:1936/live/ach2/playlist.m3u8
-#EXTINF:-1,Шансон ТВ
-#EXTGRP:РАЗНЫЕ
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1,Эхо ТВ
-#EXTGRP:РАЗНЫЕ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1,Юмор TV
-#EXTGRP:РАЗНЫЕ
-http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
-#EXTINF:-1,Юрган
-#EXTGRP:РАЗНЫЕ
-http://urgan.vintera.tv:8081/urgan/urgan/playlist.m3u8
-#EXTINF:-1,Ямал-Регион
-#EXTGRP:РАЗНЫЕ
-http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
-#EXTINF:-1,Jasmin TV (18+)
-#EXTGRP:РАЗНЫЕ
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,Jasmin TV HD (18+)
-#EXTGRP:РАЗНЫЕ
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,VISIT-X TV (18+)
-#EXTGRP:РАЗНЫЕ
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1,Cento X Cento TV (18+)
-#EXTGRP:РАЗНЫЕ
-http://37.9.0.201:8811
-#EXTINF:-1,Dusk (18+)
-#EXTGRP:РАЗНЫЕ
-http://37.9.0.201:8890
-#EXTINF:-1,Passione TV (18+)
-#EXTGRP:РАЗНЫЕ
-http://37.9.0.201:8888
-#EXTINF:-1,Evil Angel TV (18+)
-#EXTGRP:РАЗНЫЕ
-http://37.9.0.201:8889
-#EXTINF:-1,Дядя Ваня
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/54105.m3u8
-#EXTINF:-1,Антимайдан HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/6147_720.m3u8
-#EXTINF:-1,Народная дипломатия HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1,Республиканский 1
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1,Новороссия HD
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,Юнион
-#EXTGRP:Новороссия
-http://dprtv.phoenix-dnr.ru/union
-#EXTINF:-1,Оплот
-#EXTGRP:Новороссия
-http://31.133.57.158/hls/1234.m3u8
-#EXTINF:-1,Оплот 2
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1,Беларусь 24
-#EXTGRP:БЕЛАРУСЬ
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1,Беларусь 4 (Витебск)
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26258/belarus4
-#EXTINF:-1,Беларусь 5
-#EXTGRP:БЕЛАРУСЬ
-https://95-213-224-179.livesports24.online/belarusss5.m3u8
-#EXTINF:-1,Наше ТВ Витебск
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:26259/nashe
-#EXTINF:-1,БелРос
-#EXTGRP:БЕЛАРУСЬ
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Варяг
-#EXTGRP:БЕЛАРУСЬ
-http://87.252.229.252:8081/varag
-#EXTINF:-1,Витебск ТВ
-#EXTGRP:БЕЛАРУСЬ
-https://flu.vtv.by/tvt-non-by/index.m3u8
-#EXTINF:-1,ОНТ (Беларусь)
-#EXTGRP:БЕЛАРУСЬ
-http://persik.by/stream/8460/291680/10258.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://tv2.onenet.by:80/STV/mono.m3u8
-#EXTINF:-1,СТВ Беларусь HD
-#EXTGRP:БЕЛАРУСЬ
-http://93.125.121.50:8080/STV/index.m3u8
-#EXTINF:-1,8 канал (Витебск) HD
-#EXTGRP:БЕЛАРУСЬ
-http://95.46.208.8:24433/art
-#EXTINF:-1,Брест 7 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1028
-#EXTINF:-1,Брест 9 HD
-#EXTGRP:БЕЛАРУСЬ
-http://217.21.34.252:1029
-#EXTINF:-1,Крым 1 HD
-#EXTGRP:КРЫМ
-http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
-#EXTINF:-1,Крым 24 HD
-#EXTGRP:КРЫМ
-http://live.1tvcrimea.ru:8080/switcher.m3u8
-#EXTINF:-1,Крым 24
-#EXTGRP:КРЫМ
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
-#EXTINF:-1,Миллет
-#EXTGRP:КРЫМ
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1,8 канал (Крым)
-#EXTGRP:КРЫМ
-http://176.99.110.252/stream8/playlist.m3u8
-#EXTINF:-1,НТС (Севастополь)
-#EXTGRP:КРЫМ
-http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1,ИКС
-#EXTGRP:КРЫМ
-http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-#EXTINF:-1,ИТВ Крым
-#EXTGRP:КРЫМ
-http://iptv.media-ix.com:11375/itv2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Артек Горный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/4/hls/live.m3u8
-#EXTINF:-1,Артек Кипарисный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/9/hls/live.m3u8
-#EXTINF:-1,Артек Лесной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/5/hls/live.m3u8
-#EXTINF:-1,Артек Озерный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/8/hls/live.m3u8
-#EXTINF:-1,Артек Речной HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/6/hls/live.m3u8
-#EXTINF:-1,Артек Хрустальный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/2/hls/live.m3u8
-#EXTINF:-1,Артек Янтарный HD
-#EXTGRP:КРЫМ
-http://193.238.110.3/3/hls/live.m3u8
-#EXTINF:-1,Актау - Берег Каспия 14 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy14/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 15 мкрн HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy15/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 4 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy4/index.m3u8
-#EXTINF:-1,Актау - Берег Каспия 5 HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/caspy5/index.m3u8
-#EXTINF:-1,Актау - Верхние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/yntymak/index.m3u8
-#EXTINF:-1,Актау - ДрамТеатр HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/dramteatr/index.m3u8
-#EXTINF:-1,Актау - Нижние районы HD
-#EXTGRP:КАЗАХСТАН
-http://cam.x-com.kz:8081/downtown/index.m3u8
-#EXTINF:-1,Интер
-#EXTGRP:УКРАИНА
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1,112 Усраина HD
-#EXTGRP:УКРАИНА
-http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1,24 Усраина HD
-#EXTGRP:УКРАИНА
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1,7 канал HD (Одесса)
-#EXTGRP:УКРАИНА
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1,Правда (НЕ!) ТУТ Хуев
-#EXTGRP:УКРАИНА
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1,Прямий HD
-#EXTGRP:УКРАИНА
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1,НТА Львов
-#EXTGRP:УКРАИНА
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:-1,ATR
-#EXTGRP:УКРАИНА
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1,(НЕ!) Настоящее время
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Deutsche Welle
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,Fox News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://f.ok2.se:8000/martin1/martin123/363
-#EXTINF:-1,Big News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://live.chdrstatic.com/cbn/primary/2.m3u8
-#EXTINF:-1,France 24
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Bloomberg
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1,abc NEWS
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,CBN News
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8
-#EXTINF:-1,UCTV - University of California
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1,USA - Folly Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://169.47.9.197:1935/live/fb.stream/playlist.m3u8
-#EXTINF:-1,USA - Manasquan HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/playlist.m3u8
-#EXTINF:-1,USA - Wrightsville Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
-#EXTINF:-1,Хельсинки
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
-#EXTINF:-1,Париж
-#EXTGRP:ЕВРОПА НОВОСТИ
-https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
-#EXTINF:-1,Италия
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://51.254.113.157:8081/caorle/webcam-vescovado/chunks.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:КИНО
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1,Bollywood HD
-#EXTGRP:КИНО
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1,Звезда
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1,Крик ТВ
-#EXTGRP:КИНО
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1,Da Vinci
-#EXTGRP:Детские
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1,Известия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Дождь
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1,Россия 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1,Первый канал
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Спас
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1,Россия 1
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,РЕН ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,РТР Россия
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РТР Россия
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Новое Телевидение
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1,Вместе РФ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1,Вместе РФ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1,РБК ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1,Рен ТВ
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Lale
-#EXTGRP:Детские
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-#EXTGRP:Детские
-http://iptv-telik.usite.pro/load/0-0-1-125-20
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Смайлик HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,Астрахань.Ru Sport HD
-#EXTGRP:Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1,НТВ+ Спорт
-#EXTGRP:Спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Red Bull TV
-#EXTGRP:Спорт
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,Al Kass Спортs 1 HD
-#EXTGRP:Спорт
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,Alsace 20
-#EXTGRP:Спорт
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Arryadia Спорт
-#EXTGRP:Спорт
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Arryadia Спорт HD
-#EXTGRP:Спорт
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1,Turkmen Спорт
-#EXTGRP:Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:Детские
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1,Известия ТВ HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1,Первый РНК
-#EXTGRP:КИНО
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1,Красная Линия
-#EXTGRP:КИНО
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,Звезда HD
-#EXTGRP:КИНО
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Мир (+4)
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1,Мир HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,Мир Premium HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1,Мир 24 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Кавказ 24
-#EXTGRP:Кавказ ТВ
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
-#EXTINF:-1,РГВК Дагестан
-#EXTGRP:Кавказ ТВ
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1,НТРК Ингушетия
-#EXTGRP:Кавказ ТВ
-https://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/chunklist.m3u8?hls_proxy_host=pub2.rtmp.s01.l.ntk
-#EXTINF:-1,Armenia TV HD
-#EXTGRP:Кавказ ТВ
-https://cdn.onarmtv.com/str/3/output.m3u8
-#EXTINF:-1,Armenia 1 TV HD
-#EXTGRP:Кавказ ТВ
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1,Armenia 1 TV
-#EXTGRP:Кавказ ТВ
-http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1,Armenia Premium 1 TV
-#EXTGRP:Кавказ ТВ
-https://cdn.onarmtv.com/str/7/output.m3u8
-#EXTINF:-1,ARMNewsTV
-#EXTGRP:Кавказ ТВ
-https://cdn.onarmtv.com/str/10/output.m3u8
-#EXTINF:-1,LiveNews
-#EXTGRP:Кавказ ТВ
-https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/85a5e4ef3511f6c9a27f46abac1d8634--itadvice--itadvice_1080--chunklist.m3u8
-#EXTINF:-1,H1 TV
-#EXTGRP:Кавказ ТВ
-https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1,H2 TV
-#EXTGRP:Кавказ ТВ
-https://cdn.onarmtv.com/str/2/output.m3u8
-#EXTINF:-1,Шогакат ТВ
-#EXTGRP:Кавказ ТВ
-https://cdn.onarmtv.com/str/9/output.m3u8
-#EXTINF:-1,Первый канал HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:-1,Россия 1 HD
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1,Россия 24
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1,Россия К
-#EXTGRP:РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Дядя Ваня
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/54105.m3u8
-#EXTINF:-1,Антимайдан HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/6147_720.m3u8
-#EXTINF:-1,Народная дипломатия HD
-#EXTGRP:Новороссия
-http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1,Республиканский 1
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1,Новороссия HD
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,Юнион
-#EXTGRP:Новороссия
-http://dprtv.phoenix-dnr.ru/union
-#EXTINF:-1,Оплот
-#EXTGRP:Новороссия
-http://31.133.57.158/hls/1234.m3u8
-#EXTINF:-1,Оплот 2
-#EXTGRP:Новороссия
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1,(НЕ!) Настоящее время
-#EXTGRP:ЕВРОПА НОВОСТИ
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1,Евроновости
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Дождь
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1,Deutsche Welle
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Детские",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://iptv-telik.usite.pro/load/0-0-1-125-20
+#EXTINF:-1 group-title="Детские",Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",ТНВ Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",8 Канал (Новосибирск)
+http://93.171.230.144:1935/8knsk-mpegts/stream1/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",43 HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",8 Канал (Красноярск)
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Краснодар ТВ
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Первый канал "Евразия"
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Кубань 24 Орбита
+http://195.133.144.235:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Россия 1 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Ингушетия ТВ
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Енисей
+http://air.enisey.tv/enisey.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",РБК ТВ (Уфа)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Дон 24
+http://cdn-01.bonus-tv.ru:7779/don24/index.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",ТРК Евразия (Орск) +2
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Новосибирск (stream)
+https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Катунь 24
+http://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Новосибирск
+https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Омск
+https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Архыз 24
+http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Владивосток
+https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Калининград
+https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Афонтово
+http://stream.afontovo.ru/afontovo.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Грозный
+http://vainahtelecom.ru:1935/rtplive/camera.stream/playlist.m3u8
+#EXTINF:-1 group-title="КИНО",Первый РНК
+http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="КИНО",Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 group-title="КИНО",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="КИНО",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="КИНО",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="КИНО",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="Музыка",Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Музыка",Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыка",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="УКРАИНА",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",UA Крым
+http://95.67.70.106/hls/uakrim_ua_mid/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",UA Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 group-title="УКРАИНА",UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 group-title="УКРАИНА",Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",112 Усраина HD
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",24 Усраина HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="УКРАИНА",7 канал HD (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="УКРАИНА",Правда (НЕ!) ТУТ Хуев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",НТА Львов
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Алматы TV (KZ)
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 14 мкрн HD
+http://cam.x-com.kz:8081/caspy14/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 15 мкрн HD
+http://cam.x-com.kz:8081/caspy15/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 4 HD
+http://cam.x-com.kz:8081/caspy4/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 5 HD
+http://cam.x-com.kz:8081/caspy5/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Верхние районы HD
+http://cam.x-com.kz:8081/yntymak/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - ДрамТеатр HD
+http://cam.x-com.kz:8081/dramteatr/index.m3u8
+#EXTINF:-1 group-title="КАЗАХСТАН",Актау - Нижние районы HD
+http://cam.x-com.kz:8081/downtown/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 24
+https://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 5
+https://95-213-224-179.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Наше ТВ Витебск
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Варяг
+http://87.252.229.252:8081/varag
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Витебск ТВ
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",ОНТ (Беларусь)
+http://persik.by/stream/8460/291680/10258.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",СТВ Беларусь HD
+http://tv2.onenet.by:80/STV/mono.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",СТВ Беларусь HD
+http://93.125.121.50:8080/STV/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ",8 канал (Витебск) HD
+http://95.46.208.8:24433/art
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Брест 7 HD
+http://217.21.34.252:1028
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Брест 9 HD
+http://217.21.34.252:1029
+#EXTINF:-1 group-title="КРЫМ",Крым 1 HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1 group-title="КРЫМ",Крым 24 HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 group-title="КРЫМ",Крым 1 HD
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 group-title="КРЫМ",Крым 24 HD
+http://live.1tvcrimea.ru:8080/switcher.m3u8
+#EXTINF:-1 group-title="КРЫМ",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="КРЫМ",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="КРЫМ",8 канал (Крым)
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 group-title="КРЫМ",НТС (Севастополь)
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="КРЫМ",ИКС
+http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
+#EXTINF:-1 group-title="КРЫМ",ИТВ Крым
+http://iptv.media-ix.com:11375/itv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Горный HD
+http://193.238.110.3/4/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Кипарисный HD
+http://193.238.110.3/9/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Лесной HD
+http://193.238.110.3/5/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Озерный HD
+http://193.238.110.3/8/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Речной HD
+http://193.238.110.3/6/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Хрустальный HD
+http://193.238.110.3/2/hls/live.m3u8
+#EXTINF:-1 group-title="КРЫМ",Артек Янтарный HD
+http://193.238.110.3/3/hls/live.m3u8
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Спорт",Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:-1 group-title="Спорт",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Спорт",Arryadia Спорт HD
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Спорт",Turkmen Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1 group-title="Новороссия",Дядя Ваня
+http://hls.goodgame.ru/hls/54105.m3u8
+#EXTINF:-1 group-title="Новороссия",Антимайдан HD
+http://hls.goodgame.ru/hls/6147_720.m3u8
+#EXTINF:-1 group-title="Новороссия",Народная дипломатия HD
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1 group-title="Новороссия",Республиканский 1
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 group-title="Новороссия",Новороссия HD
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 group-title="Новороссия",Юнион
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:-1 group-title="Новороссия",Оплот
+http://31.133.57.158/hls/1234.m3u8
+#EXTINF:-1 group-title="Новороссия",Оплот 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",(НЕ!) Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Deutsche Welle
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
-#EXTINF:-1,Fox News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Fox News HD
 http://f.ok2.se:8000/martin1/martin123/363
-#EXTINF:-1,Big News HD
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Big News HD
 https://live.chdrstatic.com/cbn/primary/2.m3u8
-#EXTINF:-1,France 24
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Bloomberg
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Bloomberg
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1,abc NEWS
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",abc NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,CBN News
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8
-#EXTINF:-1,UCTV - University of California
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",UCTV - University of California
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1,USA - Folly Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",USA - Folly Beach HD
 http://169.47.9.197:1935/live/fb.stream/playlist.m3u8
-#EXTINF:-1,USA - Manasquan HD
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",USA - Manasquan HD
 http://5a5f765a4fcc2.streamlock.net:1935/live/squan.stream/playlist.m3u8
-#EXTINF:-1,USA - Wrightsville Beach HD
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",USA - Wrightsville Beach HD
 http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
-#EXTINF:-1,Хельсинки
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Хельсинки
 https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
-#EXTINF:-1,Париж
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Париж
 https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
-#EXTINF:-1,Италия
-#EXTGRP:ЕВРОПА НОВОСТИ
+#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Италия
 http://51.254.113.157:8081/caorle/webcam-vescovado/chunks.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",Кавказ 24
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",НТРК Ингушетия
+https://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/chunklist.m3u8?hls_proxy_host=pub2.rtmp.s01.l.ntk
+#EXTINF:-1 group-title="Кавказ ТВ",Armenia TV HD
+https://cdn.onarmtv.com/str/3/output.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",Armenia 1 TV HD
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",Armenia 1 TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",Armenia Premium 1 TV
+https://cdn.onarmtv.com/str/7/output.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",ARMNewsTV
+https://cdn.onarmtv.com/str/10/output.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",LiveNews
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/85a5e4ef3511f6c9a27f46abac1d8634--itadvice--itadvice_1080--chunklist.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",H1 TV
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",H2 TV
+https://cdn.onarmtv.com/str/2/output.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",Шогакат ТВ
+https://cdn.onarmtv.com/str/9/output.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Fine Living
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Здоровье
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Tiji
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Загородный
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рен ТВ
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мама
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Муз ТВ
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мульт
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 24
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",СТС
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рыжий
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый канал
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 24
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия К
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НТВ Мир
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТНТ
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",36
+http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",История
+http://ott-cdn.ucom.am/s40/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Футбол
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",shanson
+http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ДОМАШНИЙ
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Fast BOX
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",А HBO
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RTG HD
+http://ott-cdn.ucom.am/s63/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОХОТНИК И РЫБОЛОВ HD
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОХОТНИК И РЫБОЛОВ
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ПЯТНИЦА
+http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",112
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",112 HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",12 Канал (Омск)
+http://cdn-01.bonus-tv.ru:7780/omsk/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",1HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",1Music (Hungary)
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",24 канал UA
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",26 Регион (Ставрополь)
+http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",34 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",360
+http://now2.eaglecdn.com/stream/360tv_360media/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",360 (Ярославль)
+http://gtk.tv/hls/gtr.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",360 Новости
+http://now2.eaglecdn.com/stream/360tv_360news/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",5 канал UA
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",7 канал (KZ)
+http://78.40.108.218/7channel/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",78 HD
+http://78.gcdn.co/out_hls/877_13_720n/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",8 Канал
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",8 Канал (Int.)
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Arirang
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Atameken (KZ)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",BBC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",BIM TV
+http://av.bimradio.ru/hls/video2/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Boutique TV
+http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Bridge TV
+http://bl.webcaster.pro/media/start/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="РАЗНЫЕ",ESKA BEST MUSIC TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ESKA PARTY TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ESKA ROCK TV
+http://stream.cdn.smcloud.net/eskarocktv-p/stream1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",France 24 (ENG)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",GamEshow
+http://cdn-01.bonus-tv.ru:8080/gameshow_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Global Star
+rtmp://stream.globalstar.tv/live/gs
+#EXTINF:-1 group-title="РАЗНЫЕ",Gold TV (Mold)
+http://goldtv.md:1935/live/GOLDTV1.stream_aac/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",HD Media
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",HITV
+http://rosshow.gcdn.co/rosshow_live/hittv/chunklist_b3200000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",HardLife
+rtmp://stream.hardlife.tv/live/hl
+#EXTINF:-1 group-title="РАЗНЫЕ",Heart
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Heavy Metal TV
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Hit Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Hope TV
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Kazakh TV
+http://kazakhtvru.ultraiptv.com/live_ru/playlist2/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Leomax
+http://cdn-11.bonus-tv.ru:80/Leomax/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",MTV Mix (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Most Video TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Наука
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Music Vox TV Olds Cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Техно 24
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Nebiset
+http://hls.nebiset.tv/nebiset_2000/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",NewsOne HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",H2
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Public TV
+http://cdn-11.bonus-tv.ru:80/publictv/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Publika TV (Mold)
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RADIO MONTE CARLO TV
+http://tv.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RU TV
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",RU TV HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Radio 105 TV
+http://tv.105.net/live/105Test1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Radio Bruno
+http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ЭВРИКА
+http://ott-cdn.ucom.am/s44/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Russia Today HD
+http://cdn-01.bonus-tv.ru/btv/rttv/type/user/devname/LG-SmartTV/devid/LG-1469118640/eol/20200101T0000/hash/d962836f9b6019fd17a5200dac1973a97044ead2/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ЗОО ТВ
+http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Russia Today Док
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Russian Music Box
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",SONG TV AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",STARS TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Shop 24
+http://cdn-01.bonus-tv.ru:8080/shop24_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Телепутишествия
+http://ott-cdn.ucom.am/s71/04.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Shopping Live
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",TV Sale
+http://58f6388483343.streamlock.net/live/tvsale_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",TV1 KG
+http://212.2.225.30:1935/live//raketa.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",TVM Channel
+http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Tumar TV (KG)
+http://ip.tumar.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Virgin Radio TV
+http://tv.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Wawa TV
+http://stream.cdn.smcloud.net/wawa-t/wawa_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",World Fashion
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",World Fashion RU
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Xite (NL)
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Xsport UA
+http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Zik HD
+http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",АСВ ТВ
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",БСТ
+http://cdn-01.bonus-tv.ru:7778/bst/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Бойцовский Дух
+http://serv25.vintera.tv:8081/hdmedia/laltrlsu/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Бокс ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Бум ТВ
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Витрина ТВ
+http://v1.proofix.ru/live-vitrina-tv/stream1-ru/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Вместе РФ
+http://cdn-10.bonus-tv.ru:80/vmesterf/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Громадське HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Дисконт ТВ
+http://cdn-11.bonus-tv.ru:80/TTC/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Домашний
+http://31.185.0.24:8080/udp/239.195.32.10:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Домашний +2 (Сургут)
+http://tvsever.ru:1936/live/adm2/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Евразия (KZ)
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Еко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Звезда
+http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ИТВ Крым
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Интер
+http://109.68.40.67/life/inter.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Июнь HD
+rtmp://46.172.110.19//june
+#EXTINF:-1 group-title="РАЗНЫЕ",К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Калейдоскоп
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Карусель
+http://31.185.0.24:8080/udp/239.195.32.20:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Киев
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Конный Мир SD
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Курай
+http://cdn-01.bonus-tv.ru/bst/kurai/type/user/devname/LG-SmartTV/devid/LG-1469279536/eol/20200101T0000/hash/334a029798def9a4f0cea0d413db75fa0af6a027/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Любимое.TV
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Любимый HD (KG)
+http://77.220.204.124:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Макси TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Миллет
+http://vid.techbee.pro:8080/millet/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24hd/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Муз
+http://31.185.0.24:8080/udp/239.195.32.54:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НАШЕ ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НТВ
+http://31.185.0.24:8080/udp/239.195.32.7:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",НТВ (Молдова)
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НТН
+http://109.68.40.67/life/ntn.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",НТС (Севастополь)
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Настоящее Время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-p.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Неизвестная Планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Новое Телевидение HD
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",О2 ТВ
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОНТ BY
+http://93.125.31.151:1935/live/ont.stream_ont25/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОРТ Планета
+http://live-media56.cdnvideo.ru/media56-pub/media56.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОТВ (Екатеринбург)
+http://85.12.197.39:8080/hls/stream1.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ОТР
+http://31.185.0.24:8080/udp/239.195.32.19:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Осетия-Ирыстон
+http://now2.eaglecdn.com/stream/irystontv_irystontvstream/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Открытый HD
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый
+http://31.185.0.24:8080/udp/239.195.32.1:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый HD
+http://37.29.108.2/adlive/211/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый Метео
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый Музыкальный HD BY
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="РАЗНЫЕ",Первый деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Правда ТУТ
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Продвижение (Омск)
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Прямой
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Пятница
+http://31.185.0.24:8080/udp/239.195.32.32:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Пятый канал
+http://31.185.0.24:8080/udp/239.195.32.14:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",РГВК Дагестан
+http://broadcast.rgvk.tv/test/live.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Радио Шансон TV
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Раз ТВ
+http://live-raztv.cdnvideo.ru/raztv/raztv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ратник ТВ
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рен
+http://31.185.0.24:8080/udp/239.195.32.18:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 1 +6 (Чита)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 1 HD
+http://cdn-01.bonus-tv.ru:8080/russia_hd/index.m3u8?token=null
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия 24 (Томск)
+http://live.tvtomsk.ru/hls/RT-24.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Россия РТР
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рубль ТВ
+http://live-rubltv.cdnvideo.ru/rubltv/rubltv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Русский Экстрим (Ретро)
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Рыжий
+http://62.76.26.81:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",СТВ (Беларусь)
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",СТС
+http://31.185.0.24:8080/udp/239.195.32.8:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",Санкт-Петербург
+http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Свое ТВ (Ставрополь)
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Сказки Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Скат 24
+http://hls.scattv.cdnvideo.ru/scattv2/IP-CDN_Scat24online_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Смайлик ТВ
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Страна FM TV
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТБН
+http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТВ Центр Красноярск HD
+http://www.tck.tv/hls_hd/hd.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТВ3
+http://31.185.0.24:8080/udp/239.195.32.15:1234
+#EXTINF:-1 group-title="РАЗНЫЕ",ТВЦ
+http://tvc.cdnvideo.ru/tvc-p212/smil:tvc.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТДК
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТНВ Планета
+http://cdn-10.bonus-tv.ru:80/tnv/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТНТ
+http://cdn-01.bonus-tv.ru/btv/sm-tnt/type/user/devname/LG-SmartTV/devid/LG-1477141994/eol/20200101T0000/hash/ec3a7b7757181408093b5c1ee40a288028a9ba15/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ТРЕЙЛЕР ТВ
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Тамыр
+http://cdn-01.bonus-tv.ru:8080/tamyr_edge/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Татарстан 24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Теледом
+http://cdn-01.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Тивиком (Улан-Удэ)
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Томское Время
+http://live.tomsk-time.ru/hls/live.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Трейлеры Ovideo
+http://cdn-10.bonus-tv.ru:80/ovideo/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Трофей HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+#EXTINF:-1 group-title="РАЗНЫЕ",Тюменское Время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Феникс Плюс Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Хабар
+http://hls-khabar2.cdnvideo.ru/habar/index.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Хамелеон ТВ (KG)
+http://77.220.204.63:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ЧГТРК Грозный
+http://live2.mediacdn.ru/sr1/grozny/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Че +2 (Сургут)
+http://tvsever.ru:1936/live/ach2/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Юмор TV
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Юрган
+http://urgan.vintera.tv:8081/urgan/urgan/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Ямал-Регион
+http://live-yamalregion.cdnvideo.ru/yamalregion/yamalregion.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Jasmin TV (18+)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="РАЗНЫЕ",Cento X Cento TV (18+)
+http://37.9.0.201:8811
+#EXTINF:-1 group-title="РАЗНЫЕ",Dusk (18+)
+http://37.9.0.201:8890
+#EXTINF:-1 group-title="РАЗНЫЕ",Passione TV (18+)
+http://37.9.0.201:8888
+#EXTINF:-1 group-title="РАЗНЫЕ",Evil Angel TV (18+)
+http://37.9.0.201:8889
