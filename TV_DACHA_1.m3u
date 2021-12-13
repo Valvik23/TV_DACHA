@@ -159,6 +159,42 @@ http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 group-title="КИНО",VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 group-title="КИНО",VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 group-title="КИНО",VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 group-title="КИНО",VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="КИНО",Paradise HD
+http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Paradox HD
+http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Premiere HD
+http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Premium HD
+http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Thriller HD
+http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Victory HD
+http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Киноужас HD
+http://78.58.133.179:28000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кинопремьера HD
+http://78.58.133.179:28000/play/a004/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кинохит
+http://78.58.133.179:28000/play/a075/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киномикс
+http://78.58.133.179:28000/play/a070/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киносемья
+http://78.58.133.179:28000/play/a067/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киносвидание
+http://78.58.133.179:28000/play/a068/index.m3u8
+#EXTINF:-1 group-title="КИНО",Комедия ТВ
+http://78.58.133.179:28000/play/a203/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кино ТВ
+http://78.58.133.179:28000/play/a211/index.m3u8
 #EXTINF:-1 group-title="КИНО",AKUDJI TV HD
 http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 group-title="КИНО",Akudji HD
@@ -185,14 +221,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/var
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 #EXTINF:-1 group-title="КИНО",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 group-title="КИНО",VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="КИНО",VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="КИНО",VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="КИНО",VIP Serial
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 Action HD
@@ -203,18 +231,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV 1000 Action FHD
 http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
-#EXTINF:-1 group-title="КИНО",Paradise HD
-http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Paradox HD
-http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Premiere HD
-http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Premium HD
-http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Thriller HD
-http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Victory HD
-http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",VHS HD
 http://195.154.242.229/VHS_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Киносемья
@@ -539,6 +555,10 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",ATR
 http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="УКРАИНА",ОХОТНИК И РЫБОЛОВ HD
+http://ott-cdn.ucom.am/s62/04.m3u8$OPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+#EXTINF:-1 group-title="УКРАИНА",ОХОТНИК И РЫБОЛОВ
+http://ott-cdn.ucom.am/s55/04.m3u8$OPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 #EXTINF:-1 group-title="КАЗАХСТАН",Алматы TV (KZ)
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 14 мкрн HD
