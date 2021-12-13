@@ -113,8 +113,44 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="КИНО",Amedia Hit HD
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Релакс",Природа
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Животные FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Космос FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Пляжи FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Лес FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Озёра FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Горы FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Реки FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Закат FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Джунгли FHD
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Водопады FHD
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Дождь FHD
+https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
+#EXTINF:-1 group-title="Релакс",Камин HD
+https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 group-title="Релакс",Камин+ HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Релакс",Очаг HD
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Аквариум HD
+https://forumstatic.ru/files/0014/11/1c/61313.m3u8
+#EXTINF:-1 group-title="Релакс",Острова HD
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 group-title="Релакс",Relax 1
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Релакс",Relax 2
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:-1 group-title="КИНО",Serial HD
 http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Кино ТВ FHD
@@ -131,6 +167,8 @@ http://hls.goodgame.ru/hls/5346.m3u8$OPT:http-user-agent=smartlabs
 http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",A2 HD 2
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="КИНО",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",Красная Линия
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1 group-title="КИНО",Звезда
@@ -409,6 +447,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Кавказ 24
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Радио Хит ТВ
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Б-Кінозал
@@ -645,8 +685,6 @@ https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
 https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Италия
 http://51.254.113.157:8081/caorle/webcam-vescovado/chunks.m3u8
-#EXTINF:-1 group-title="Кавказ ТВ",Кавказ 24
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 group-title="Кавказ ТВ",РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 group-title="Кавказ ТВ",НТРК Ингушетия
