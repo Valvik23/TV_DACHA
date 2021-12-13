@@ -19,8 +19,6 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Телепутишествия
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",H2
-http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",Наука
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 group-title="ПУТЕШЕСТВИЯ-НАУКА",ЗОО ТВ
@@ -95,6 +93,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="Детские",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
@@ -103,8 +103,6 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 group-title="Детские",Nickelodeon HD
 http://iptv-telik.usite.pro/load/0-0-1-125-20
-#EXTINF:-1 group-title="Детские",Смайлик HD
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Мособр TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Мособр TV HD
@@ -219,9 +217,9 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",112 Усраина HD
+#EXTINF:-1 group-title="УКРАИНА",112 Украина HD
 http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",24 Усраина HD
+#EXTINF:-1 group-title="УКРАИНА",24 Украина HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="УКРАИНА",7 канал HD (Одесса)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
@@ -379,6 +377,8 @@ https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0.m3u8
 https://strm.yandex.ru/kal/weather_paris/weather_paris0.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Италия
 http://51.254.113.157:8081/caorle/webcam-vescovado/chunks.m3u8
+#EXTINF:-1 group-title="Кавказ ТВ",H2
+http://ott-cdn.ucom.am/s2/04.m3u8
 #EXTINF:-1 group-title="Кавказ ТВ",Кавказ 24
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 group-title="Кавказ ТВ",РГВК Дагестан
