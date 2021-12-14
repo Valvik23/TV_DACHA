@@ -153,10 +153,10 @@ https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:-1 group-title="КИНО",Serial HD
 http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Кино ТВ FHD
-http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 #EXTINF:-1 group-title="КИНО",USSR
 http://195.154.242.229/USSR_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",VHS HD
+http://195.154.242.229/VHS_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 group-title="КИНО",VIP Premiere
@@ -167,6 +167,30 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 group-title="КИНО",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 group-title="КИНО",A2 HD 2
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV 1000 HD
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV 1000 Action FHD
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1 group-title="КИНО",SCI-FI
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 group-title="КИНО",BLACK
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 group-title="КИНО",Amedia Hit HD
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 group-title="КИНО",Fox HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 group-title="КИНО",FOX Life hd
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 group-title="КИНО",Феникс+Кино
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1 group-title="КИНО",Paradise HD
 http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Paradox HD
@@ -179,82 +203,34 @@ http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
 http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Victory HD
 http://195.154.242.229/Victory_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Киноужас HD
-http://78.58.133.179:28000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="КИНО",Кинопремьера HD
-http://78.58.133.179:28000/play/a004/index.m3u8
-#EXTINF:-1 group-title="КИНО",Кинохит
-http://78.58.133.179:28000/play/a075/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киномикс
-http://78.58.133.179:28000/play/a070/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киносемья
-http://78.58.133.179:28000/play/a067/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киносвидание
-http://78.58.133.179:28000/play/a068/index.m3u8
-#EXTINF:-1 group-title="КИНО",Комедия ТВ
-http://78.58.133.179:28000/play/a203/index.m3u8
-#EXTINF:-1 group-title="КИНО",Кино ТВ
-http://78.58.133.179:28000/play/a211/index.m3u8
-#EXTINF:-1 group-title="КИНО",AKUDJI TV HD
-http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНО",Akudji HD
-http://hls.goodgame.ru/hls/5346.m3u8$OPT:http-user-agent=smartlabs
-#EXTINF:-1 group-title="КИНО",РуКино HD
-http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",A2 HD 2
-https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:-1 group-title="КИНО",Amedia Hit HD
-https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",Красная Линия
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="КИНО",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="КИНО",Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",Bollywood HD
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",SC TV FHD
-http://cdnhls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 group-title="КИНО",Ultra REX FullHD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="КИНО",Ultra HD cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 #EXTINF:-1 group-title="КИНО",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?|User-agent=HlsWinkPlayer
-#EXTINF:-1 group-title="КИНО",TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1 group-title="КИНО",TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="КИНО",TV1000 Русское кино HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
-#EXTINF:-1 group-title="КИНО",TV 1000 HD
-http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
-#EXTINF:-1 group-title="КИНО",TV 1000 Action FHD
-http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
-#EXTINF:-1 group-title="КИНО",VHS HD
-http://195.154.242.229/VHS_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Киносемья
-http://31.173.178.110:8004/play/a090/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киносемья HD
-http://80.251.50.18:8004/play/176/index.m3u8
-#EXTINF:-1 group-title="КИНО",Киноужас FHD
-http://80.251.50.18:8004/play/229/index.m3u8
-#EXTINF:-1 group-title="КИНО",КИНОХИТ
-http://185.129.1.242:80/kinoxit/mpegts
-#EXTINF:-1 group-title="КИНО",КИНОХИТ HD
-http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО",AKUDJI TV HD
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="КИНО",Akudji HD
+http://hls.goodgame.ru/hls/5346.m3u8$OPT:http-user-agent=smartlabs
+#EXTINF:-1 group-title="КИНО",РуКино HD
+http://195.154.242.229/RuKino_HD/video.m3u8?token=telegram-premieregroup
+#EXTINF:-1 group-title="КИНО",Кино ТВ FHD
+http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
+#EXTINF:-1 group-title="КИНО",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 group-title="КИНО",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 group-title="КИНО",SC TV FHD
+http://cdnhls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 group-title="КИНО",Кинопоказ
 http://31.134.132.245:8080/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО",Pro100 TV
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 group-title="КИНО",КИНО 24
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="КИНО",Amedia Hit HD
-https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1 group-title="КИНО",Fox HD
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 group-title="КИНО",FOX Life hd
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:-1 group-title="КИНО",FilMax
 http://cdnhls.goodgame.ru/hls/163253.m3u8
 #EXTINF:-1 group-title="КИНО",FilmZone
@@ -263,46 +239,16 @@ http://103.194.169.171:8282/FilmZone_pl__HD_RU/mono.m3u8?token=93a611c10082e5eec
 http://194.213.23.7:3304
 #EXTINF:-1 group-title="КИНО",FlixSnip
 http://145.249.228.229:8000/play/40
-#EXTINF:-1 group-title="КИНО",TV 1000 World Kino HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/54329/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Дом Кино
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/65/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Комедия ТВ
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/11093/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",CineMan
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/53382/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Premiere HD 1
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/33691/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Premiere HD 4
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/52961/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",TV3 Film HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/95174/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Dizi TV
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/53962/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",ХИТ HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/46927/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",TrAsh HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/33428/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Яснае ТВ
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/27397/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",BOLT HD UA
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/27303:Bolt
-#EXTINF:-1 group-title="КИНО",Камеди HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/35481/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",Романтичное HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/39446/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",Твое ТВ
+http://stream-norst.cf/tvoetv.m3u8
+#EXTINF:-1 group-title="КИНО",Твое ТВ HD
+http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КИНО",Blue Crabs TV
 http://stream-norst.cf:8080/crabs/index.m3u8
 #EXTINF:-1 group-title="КИНО",Film Box
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 group-title="КИНО",Киносвидание
 http://94.154.83.88:10000/kinosvidanie
-#EXTINF:-1 group-title="КИНО",STV HD
-http://188.138.130.130:8080
-#EXTINF:-1 group-title="КИНО",Твое ТВ
-http://stream-norst.cf/tvoetv.m3u8
-#EXTINF:-1 group-title="КИНО",Твое ТВ HD
-http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КИНО",СТРК HD
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="КИНО",РУССКИЙ ИЛЛЮЗИОН
@@ -311,14 +257,30 @@ http://86.57.178.105:10823
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="КИНО",ТВ 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="КИНО",SCI-FI
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
-#EXTINF:-1 group-title="КИНО",BLACK
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
 #EXTINF:-1 group-title="КИНО",Сиеста HD
 http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КИНО",Феникс+Кино
-https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:-1 group-title="КИНО",Киноужас HD
+http://78.58.133.179:28000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кинопремьера HD
+http://78.58.133.179:28000/play/a004/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киномикс
+http://78.58.133.179:28000/play/a070/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киносемья
+http://31.173.178.110:8004/play/a090/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киносемья
+http://78.58.133.179:28000/play/a067/index.m3u8
+#EXTINF:-1 group-title="КИНО",Киносвидание
+http://78.58.133.179:28000/play/a068/index.m3u8
+#EXTINF:-1 group-title="КИНО",Комедия ТВ
+http://78.58.133.179:28000/play/a203/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кино ТВ
+http://78.58.133.179:28000/play/a211/index.m3u8
+#EXTINF:-1 group-title="КИНО",Кинохит
+http://78.58.133.179:28000/play/a075/index.m3u8
+#EXTINF:-1 group-title="КИНО",КИНОХИТ
+http://185.129.1.242:80/kinoxit/mpegts
+#EXTINF:-1 group-title="КИНО",КИНОХИТ HD
+http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО",Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",Победа
@@ -329,18 +291,12 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 https://sc.id-tv.kz/bollywood_hd
 #EXTINF:-1 group-title="КИНО",Всё ТВ HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD_HLS/bw5000000/variant.m3u8
-#EXTINF:-1 group-title="КИНО",Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="КИНО",Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1 group-title="КИНО",seriesTV
 http://cdnhls.goodgame.ru/hls/186021.m3u8
 #EXTINF:-1 group-title="КИНО",PZN FHD
 http://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 group-title="КИНО",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="КИНО",НТМ HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="Музыка",Reload Radio Music Power HD
@@ -417,6 +373,14 @@ http://iptv-telik.usite.pro/load/0-0-1-125-20
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="Детские",O!
 https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1
@@ -463,6 +427,10 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",STV HD
+http://188.138.130.130:8080
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Кавказ 24
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Радио Хит ТВ
