@@ -1,8 +1,30 @@
 #EXTM3U
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
+http://91.185.3.218:4000/play/304
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
+http://91.185.3.218:4000/play/323
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Love Nature 4K UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Глазами туриста 4K UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Silence TV WORLD HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Королев ТВ
 http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",T+
 http://213.108.175.226/telplushd/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",A1 HD 2
@@ -15,28 +37,12 @@ http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Вот ТВ HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Explore
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
-http://91.185.3.218:4000/play/304
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
-http://91.185.3.218:4000/play/323
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Наша Сибирь 4K UHD
 http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Глазами туриста 4K UHD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Love Nature 4K UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Поехали!
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Моя Планета
@@ -45,8 +51,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",hdl HD
 https://sc.id-tv.kz/hdl_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Техно 24
@@ -71,8 +75,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Царьград
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Brics TV HD (RUS)
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Brics TV HD (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",RT Doc HD
@@ -87,22 +89,12 @@ http://194.190.78.91:8080/tvextra720b/index.m3u8
 http://46.174.83.66/Morskoi_HD/mpegts
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Реноме
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Кухня ТВ HD
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Конный мир HD
 http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Brics TV HD
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
@@ -197,8 +189,6 @@ http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
 http://195.154.242.229/Paradox_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Premiere HD
 http://195.154.242.229/Premiere_HD/video.m3u8?token=telegram-premieregroup
-#EXTINF:-1 group-title="КИНО",Premium HD
-http://195.154.242.229/Premium_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Thriller HD
 http://195.154.242.229/Thriller_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Victory HD
@@ -297,6 +287,32 @@ http://cdnhls.goodgame.ru/hls/186021.m3u8
 http://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 group-title="КИНО",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="КИНО",Ultra HD Cinema 4K UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="КИНО",ULTRA REX 4K UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="КИНО",Ultra HD Cinema FulHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8$OPT:http-user-agent=OnlineTvAppDroid
+#EXTINF:-1 group-title="КИНО",Шокирующее HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/1666/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",Блокбастер FHD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/61727/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",Dizi TV
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/53962/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",ХИТ HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/46927/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",Про Любовь HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/32849/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",Романтичное HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/39446/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",AMC UA
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/29428/hlsx/pl.m3u8
+#EXTINF:-1 group-title="КИНО",СТРК HD
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1 group-title="Музыка",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыка",musikcolabfm
+http://hls.goodgame.ru:80/hls/163343.m3u8$OPT:http-user-agent=smartlabs
 #EXTINF:-1 group-title="Музыка",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="Музыка",Reload Radio Music Power HD
@@ -331,14 +347,8 @@ https://sc.id-tv.kz/1hd_34_35.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка",musikcolabfm
-http://hls.goodgame.ru:80/hls/163343.m3u8$OPT:http-user-agent=smartlabs
 #EXTINF:-1 group-title="Музыка",ElW
 http://hls.goodgame.ru:80/hls/152922.m3u8$OPT:http-user-agent=smartlabs
-#EXTINF:-1 group-title="Музыка",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка",Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:-1 group-title="Музыка",Страна FM HD
@@ -371,6 +381,14 @@ http://stream.atr.ua/lale//live/index.m3u8
 http://iptv-telik.usite.pro/load/0-0-1-125-20
 #EXTINF:-1 group-title="Детские",Смайлик HD
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="Детские",Disney канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Детские",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Детские",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Детские",Радость моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Детские",O!
 https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
