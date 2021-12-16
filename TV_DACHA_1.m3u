@@ -105,8 +105,6 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="Релакс",Природа
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 #EXTINF:-1 group-title="Релакс",Животные FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 group-title="Релакс",Космос FHD
