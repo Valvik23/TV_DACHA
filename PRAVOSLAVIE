@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="Религия",Alfaomega.tv
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Религия",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1 group-title="Религия",CBN NEWS
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8
+#EXTINF:-1 group-title="Религия",CNL
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 group-title="Религия",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Daystar
+https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master.m3u8
+#EXTINF:-1 group-title="Религия",Hope TV
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религия",HopeTV(EsperanzaESP)
+http://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
+#EXTINF:-1 group-title="Религия",Hope Channel
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
+#EXTINF:-1 group-title="Религия",Hope Channel (Germ)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/257428/4303072782001/master.m3u8
+#EXTINF:-1 group-title="Религия",ILand TV HD (ISR)
+http://146.185.61.140:1935/ILAND/smil:iland.smil/chunklist_b1496000.m3u8
+#EXTINF:-1 group-title="Религия",Impact
+http://206.190.141.27:1935/live/impact.smil/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Life TV SK
+http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="Религия",MTM
+http://media.btbn.tv/mtmtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Вера 24
+http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Религия",ГЛАС
+http://195.138.81.101:8081/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="Религия",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религия",СГДФ 24
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Славянский Мир HD
+http://n1.slavmir.tv:1935/live/Cinegy.stream/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Союз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Религия",Спас
+http://31.148.16.31:8080/udp/224.10.10.203:10000
+#EXTINF:-1 group-title="Религия",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",Три Ангела HD
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="Религия",Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
