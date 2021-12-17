@@ -31,7 +31,7 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Королев ТВ
 http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Первый СССР
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Первый РНК
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",T+
 http://213.108.175.226/telplushd/index.m3u8
@@ -41,8 +41,6 @@ https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Первый РНК
-http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",FOX ABAZA TV
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Вот ТВ HD
@@ -95,12 +93,6 @@ http://83.222.205.10:38080/konnyimir/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
@@ -157,8 +149,14 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1 group-title="КИНО",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 group-title="КИНО",A2 HD 2
+#EXTINF:-1 group-title="КИНО",A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 group-title="КИНО",A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 group-title="КИНО",A2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="КИНО",НСТ
+http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 HD
@@ -209,7 +207,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",Bollywood HD
+#EXTINF:-1 group-title="КИНО",Bollywood
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",SC TV FHD
 http://cdnhls.goodgame.ru/hls/61358.m3u8
@@ -269,12 +267,8 @@ http://78.58.133.179:28000/play/a075/index.m3u8
 http://185.129.1.242:80/kinoxit/mpegts
 #EXTINF:-1 group-title="КИНО",КИНОХИТ HD
 http://31.134.132.245:8080/kinohit_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Cinema
-https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8
-#EXTINF:-1 group-title="КИНО",Bollywood
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",Bollywood HD
 https://sc.id-tv.kz/bollywood_hd
 #EXTINF:-1 group-title="КИНО",Всё ТВ HD
@@ -305,89 +299,95 @@ http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/32849/hlsx/pl.m3u8
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/39446/hlsx/pl.m3u8
 #EXTINF:-1 group-title="КИНО",AMC UA
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/29428/hlsx/pl.m3u8
-#EXTINF:-1 group-title="КИНО",СТРК HD
-http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 group-title="Музыка",Kronehit TV HD
+#EXTINF:-1 group-title="МУЗЫКА",ТНТ Music
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Bridge TV Русский хит
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Kronehit TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка",musikcolabfm
+#EXTINF:-1 group-title="МУЗЫКА",musikcolabfm
 http://hls.goodgame.ru:80/hls/163343.m3u8$OPT:http-user-agent=smartlabs
-#EXTINF:-1 group-title="Музыка",Hit Music Channel
+#EXTINF:-1 group-title="МУЗЫКА",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="Музыка",Reload Radio Music Power HD
+#EXTINF:-1 group-title="МУЗЫКА",Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="Музыка",ACB TV
+#EXTINF:-1 group-title="МУЗЫКА",ACB TV
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыка",M2O TV
+#EXTINF:-1 group-title="МУЗЫКА",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Музыка",Retro Music
+#EXTINF:-1 group-title="МУЗЫКА",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",RETRO MUSIC TV
+#EXTINF:-1 group-title="МУЗЫКА",RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
-#EXTINF:-1 group-title="Музыка",Шансон ТВ
+#EXTINF:-1 group-title="МУЗЫКА",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Жар Птица
+#EXTINF:-1 group-title="МУЗЫКА",Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
+#EXTINF:-1 group-title="МУЗЫКА",Первый Музыкальный BY
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
-http://rtmp.one.by:1200
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY HD
+#EXTINF:-1 group-title="МУЗЫКА",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY Россия
+#EXTINF:-1 group-title="МУЗЫКА",Первый Музыкальный BY Россия
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY Россия HD
+#EXTINF:-1 group-title="МУЗЫКА",Первый Музыкальный BY Россия HD
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="Музыка",1 HD
+#EXTINF:-1 group-title="МУЗЫКА",1 HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
-#EXTINF:-1 group-title="Музыка",1HD Music TV
+#EXTINF:-1 group-title="МУЗЫКА",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыка",ACB TV
+#EXTINF:-1 group-title="МУЗЫКА",ACB TV
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",ElW
+#EXTINF:-1 group-title="МУЗЫКА",ElW
 http://hls.goodgame.ru:80/hls/152922.m3u8$OPT:http-user-agent=smartlabs
-#EXTINF:-1 group-title="Музыка",Sonus FM
+#EXTINF:-1 group-title="МУЗЫКА",Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 group-title="Музыка",Страна FM HD
+#EXTINF:-1 group-title="МУЗЫКА",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Kronehit HD
+#EXTINF:-1 group-title="МУЗЫКА",Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыка",Deejay TV
+#EXTINF:-1 group-title="МУЗЫКА",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Музыка",РORTAL FOXMIX TV
+#EXTINF:-1 group-title="МУЗЫКА",РORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:-1 group-title="Музыка",МузСоюз
+#EXTINF:-1 group-title="МУЗЫКА",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 group-title="Детские",FAN HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",TiJi
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",FAN HD
 http://cdnhls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 group-title="Детские",TV1 Cinemastan HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",TV1 Cinemastan HD
 http://st.kglive.asia/hls/tv1cinema.m3u8
-#EXTINF:-1 group-title="Детские",TV 1000 Русское кино Int
+#EXTINF:-1 group-title="ДЕТСКИЕ",TV 1000 Русское кино Int
 http://74.102.118.117:8812/udp/127.0.0.1:5311
-#EXTINF:-1 group-title="Детские",Народная дипломатия
+#EXTINF:-1 group-title="ДЕТСКИЕ",Народная дипломатия
 http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1 group-title="Детские",СТС Kids HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 group-title="Детские",Da Vinci
+#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
-#EXTINF:-1 group-title="Детские",Смайлик ТВ HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="Детские",Lale
+#EXTINF:-1 group-title="ДЕТСКИЕ",Lale
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="Детские",Nickelodeon HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nickelodeon HD
 http://iptv-telik.usite.pro/load/0-0-1-125-20
-#EXTINF:-1 group-title="Детские",Смайлик HD
+#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик HD
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
-#EXTINF:-1 group-title="Детские",Disney канал
+#EXTINF:-1 group-title="ДЕТСКИЕ",Disney канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские",2x2
+#EXTINF:-1 group-title="ДЕТСКИЕ",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские",Карусель
+#EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Детские",Радость моя
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Детские",O!
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость Моя
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",O!
 https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
@@ -451,7 +451,7 @@ http://188.138.130.130:8080
 http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Радио Хит ТВ
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Б-Кінозал
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Мособр TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
@@ -497,8 +497,6 @@ https://strm.yandex.ru/stream/weather_novosibirsk/weather_novosibirsk0.m3u8
 http://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Новосибирск
 https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0.m3u8
-#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Белгород 24
-http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Омск
 https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Архыз 24
