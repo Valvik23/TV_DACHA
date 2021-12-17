@@ -1,50 +1,30 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Love Nature 4K UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Глазами туриста 4K UHD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Discovery Science HD
-http://31.173.178.110:8004/play/a09r/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Discovery Science FHD
 http://5.17.88.7:52931/udp/235.10.10.140:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Nature
-http://91.185.3.218:4000/play/304
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat History
-http://91.185.3.218:4000/play/323
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Наша Сибирь 4K UHD
-http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Королев ТВ
 http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Первый РНК
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",T+
-http://213.108.175.226/telplushd/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",A1 HD 2
-https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Ники ТВ
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Кухня ТВ HD
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",FOX ABAZA TV
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Вот ТВ HD
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Поехали!
 https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Моя Планета
@@ -59,7 +39,7 @@ https://sc.id-tv.kz/hdl_34_35.m3u8
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",ЭВРИКА
 http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Телепутишествия
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Телепутешествия
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Наука
 http://ott-cdn.ucom.am/s98/04.m3u8
@@ -77,26 +57,38 @@ https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",RT Doc HD
 http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",ТВ Экстра
+http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",ТВ Экстра HD
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",ОНТ
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",ТВ Экстра
-http://194.190.78.91:8080/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Моя Стихия HD
 http://46.174.83.66/Morskoi_HD/mpegts
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Реноме
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Наша Сибирь 4K UHD
+http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Конный мир HD
 http://83.222.205.10:38080/konnyimir/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Love Nature 4K UHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Глазами туриста 4K UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНОЕ",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="Релакс",T+
+http://213.108.175.226/telplushd/index.m3u8
+#EXTINF:-1 group-title="Релакс",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Релакс",Животные FHD
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:-1 group-title="Релакс",Космос FHD
@@ -151,6 +143,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 group-title="КИНО",A1
 http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 group-title="КИНО",A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="КИНО",A2
 http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 group-title="КИНО",A2 HD
