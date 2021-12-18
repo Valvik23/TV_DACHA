@@ -557,20 +557,12 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci
+#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci Kids
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",O!
 https://sc.id-tv.kz/o_34_35.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",FAN HD
-http://cdnhls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Lale
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Disney канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ДЕТСКИЕ",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
@@ -581,6 +573,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Big Buck Bunny HD
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",KINDER TV
+https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Детское Кино
 http://v2.catcast.me/content/38720/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик ТВ HD
@@ -589,8 +583,14 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Народная дипломатия
 http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",KINDER TV
-https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",FAN HD
+http://cdnhls.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Disney канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ДЕТСКИЕ",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Царьград
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
