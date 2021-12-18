@@ -7,7 +7,7 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guide TV _
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science FHD
 http://5.17.88.7:52931/udp/235.10.10.140:1234
@@ -19,9 +19,9 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета _
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета _ _
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",FOX ABAZA TV
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
@@ -125,6 +125,8 @@ https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 http://ott-cdn.ucom.am/s87/04.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TV 1000 Русское кино Int
+http://74.102.118.117:8812/udp/127.0.0.1:5311
 #EXTINF:-1 group-title="КИНО",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV 1000 HD
@@ -147,6 +149,8 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
 #EXTINF:-1 group-title="КИНО",Феникс+Кино
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:-1 group-title="КИНО",TV1 Cinemastan HD
+http://st.kglive.asia/hls/tv1cinema.m3u8
 #EXTINF:-1 group-title="КИНО",Paradise HD
 http://195.154.242.229/Paradise_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",Paradox HD
@@ -549,26 +553,16 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
+#EXTINF:-1 group-title="ДЕТСКИЕ",Детский мир
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт _
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик ТВ HD
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик HD
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",O!
 https://sc.id-tv.kz/o_34_35.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",FAN HD
 http://cdnhls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",TV1 Cinemastan HD
-http://st.kglive.asia/hls/tv1cinema.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",TV 1000 Русское кино Int
-http://74.102.118.117:8812/udp/127.0.0.1:5311
-#EXTINF:-1 group-title="ДЕТСКИЕ",Народная дипломатия
-http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Lale
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Disney канал
@@ -579,7 +573,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя _
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",RETRO Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
@@ -589,6 +583,12 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 https://wowza.peer5.com/live/smil:bbb_abr.smil/playlist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Детское Кино
 http://v2.catcast.me/content/38720/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Народная дипломатия
+http://hls.goodgame.ru/hls/33226.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",KINDER TV
 https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Царьград
