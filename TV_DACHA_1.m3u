@@ -5,6 +5,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guide TV (Запас)
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science FHD
 http://5.17.88.7:52931/udp/235.10.10.140:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
@@ -15,6 +17,8 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета (Запас 2)
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",FOX ABAZA TV
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",HDL HD
@@ -63,10 +67,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nano TV HD
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guide TV (Запас)
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета (Запас 2)
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Космический HD
 http://92.43.140.249/s44/04.m3u8?codec=mpeg4
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NASA TV
@@ -87,6 +87,8 @@ https://sc.id-tv.kz/poehali_34_35.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела HD
@@ -681,8 +683,6 @@ http://dprtv.phoenix-dnr.ru/union
 http://31.133.57.158/hls/1234.m3u8
 #EXTINF:-1 group-title="Новороссия",Оплот 2
 http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",(НЕ!) Настоящее время
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Deutsche Welle
