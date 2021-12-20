@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",DW
-http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ОНТ
@@ -13,6 +11,8 @@ http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science FHD
 http://5.17.88.7:52931/udp/235.10.10.140:1234
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",DW
+http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
@@ -61,16 +61,12 @@ http://83.222.205.10:38080/konnyimir/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Brics TV HD (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nano TV HD
-http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Космический HD
 http://92.43.140.249/s44/04.m3u8?codec=mpeg4
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NASA TV
 https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Реноме
 http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ HD
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Калейдоскоп ТВ
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Поехали!
@@ -87,18 +83,18 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Вот ТВ HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела HD
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",CNL
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1 group-title="КИНО",Serial HD
 http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",USSR
@@ -277,6 +273,8 @@ http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/32849/hlsx/pl.m3u8
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/39446/hlsx/pl.m3u8
 #EXTINF:-1 group-title="КИНО",AMC UA
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/29428/hlsx/pl.m3u8
+#EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",ТНТ4
