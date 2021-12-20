@@ -277,6 +277,10 @@ http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/32849/hlsx/pl.m3u8
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/39446/hlsx/pl.m3u8
 #EXTINF:-1 group-title="КИНО",AMC UA
 http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/29428/hlsx/pl.m3u8
+#EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",Fashion TV (SK)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",КУХНЯ ТВ
@@ -391,6 +395,8 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",O!
 https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",2x2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Big Buck Bunny HD
@@ -401,18 +407,16 @@ https://v2.catcast.tv/content/38144/index.m3u8
 http://v2.catcast.me/content/38720/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",FAN HD
 http://cdnhls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость Моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
-http://78.58.133.179:28000/play/a002/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
+http://78.58.133.179:28000/play/a002/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
 http://78.58.133.179:28000/play/a002/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
@@ -481,10 +485,6 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ International
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",THT Exclusive
@@ -583,8 +583,12 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новое Телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Дон 24
+http://vlg-live01-cdn.tv.ti.ru:80/dtv/id1197_REG_SG--vlg_don24/03/plst.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Ростов-папа HD
 http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Краснодар
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",НТС (Севастополь)
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",43 канал HD - СОЧИ
@@ -641,8 +645,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
 #EXTINF:-1 group-title="РАЗНЫЕ",Univer TV HD
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 group-title="РАЗНЫЕ",Дон 24
-http://vlg-live01-cdn.tv.ti.ru:80/dtv/id1197_REG_SG--vlg_don24/03/plst.m3u8
 #EXTINF:-1 group-title="РАЗНЫЕ",CTБ HD
 http://ott.watch/stream/IFBYIR5OA7/156.m3u8
 #EXTINF:-1 group-title="РАЗНЫЕ",MostVideo TV
@@ -757,21 +759,17 @@ http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",UA TV
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",UA Крым
-http://95.67.70.106/hls/uakrim_ua_mid/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",UA Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1 group-title="УКРАИНА",UA Перший
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Интер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",112 Усраина HD
+#EXTINF:-1 group-title="УКРАИНА",112 Украина HD
 http://app.live.112.events/hls/112hd_mid/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",24 Усраина HD
+#EXTINF:-1 group-title="УКРАИНА",24 Украина HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="УКРАИНА",7 канал HD (Одесса)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="УКРАИНА",Правда (НЕ!) ТУТ Хуев
+#EXTINF:-1 group-title="УКРАИНА",ПРАВДА ТУТ-  Киев
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Прямий HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
@@ -779,10 +777,6 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",ATR
 http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",ОХОТНИК И РЫБОЛОВ HD
-http://ott-cdn.ucom.am/s62/04.m3u8$OPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-#EXTINF:-1 group-title="УКРАИНА",ОХОТНИК И РЫБОЛОВ
-http://ott-cdn.ucom.am/s55/04.m3u8$OPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 #EXTINF:-1 group-title="КАЗАХСТАН",Алматы TV (KZ)
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="КАЗАХСТАН",Актау - Берег Каспия 14 мкрн HD
@@ -809,8 +803,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 group-title="БЕЛАРУСЬ",8 канал (Витебск) HD
 http://95.46.208.8:24433/art
-#EXTINF:-1 group-title="БЕЛАРУСЬ",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 24
 https://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 24
@@ -821,22 +813,6 @@ http://95.46.208.8:26258/belarus4
 https://95-213-224-179.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ",Наше ТВ Витебск
 http://95.46.208.8:26259/nashe
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Варяг
-http://87.252.229.252:8081/varag
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Витебск ТВ
-https://flu.vtv.by/tvt-non-by/index.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",ОНТ (Беларусь)
-http://persik.by/stream/8460/291680/10258.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",СТВ Беларусь HD
-http://tv2.onenet.by:80/STV/mono.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",СТВ Беларусь HD
-http://93.125.121.50:8080/STV/index.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",8 канал (Витебск) HD
-http://95.46.208.8:24433/art
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Брест 7 HD
-http://217.21.34.252:1028
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Брест 9 HD
-http://217.21.34.252:1029
 #EXTINF:-1 group-title="НОВОРОССИЯ",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Дядя Ваня
@@ -849,8 +825,6 @@ http://hls.goodgame.ru/hls/33226.m3u8
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Новороссия HD
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1 group-title="НОВОРОССИЯ",Юнион
-http://dprtv.phoenix-dnr.ru/union
 #EXTINF:-1 group-title="НОВОРОССИЯ",Оплот
 http://31.133.57.158/hls/1234.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Оплот 2
@@ -859,24 +833,14 @@ http://ott.inmart.tv:8081/17/index.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 group-title="КАВКАЗ ТВ",НТРК Ингушетия
 https://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/chunklist.m3u8?hls_proxy_host=pub2.rtmp.s01.l.ntk
-#EXTINF:-1 group-title="КАВКАЗ ТВ",Armenia TV HD
-https://cdn.onarmtv.com/str/3/output.m3u8
 #EXTINF:-1 group-title="КАВКАЗ ТВ",Armenia 1 TV HD
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="КАВКАЗ ТВ",Armenia 1 TV
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="КАВКАЗ ТВ",Armenia Premium 1 TV
-https://cdn.onarmtv.com/str/7/output.m3u8
-#EXTINF:-1 group-title="КАВКАЗ ТВ",ARMNewsTV
-https://cdn.onarmtv.com/str/10/output.m3u8
 #EXTINF:-1 group-title="КАВКАЗ ТВ",LiveNews
 https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/85a5e4ef3511f6c9a27f46abac1d8634--itadvice--itadvice_1080--chunklist.m3u8
 #EXTINF:-1 group-title="КАВКАЗ ТВ",H1 TV
 https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КАВКАЗ ТВ",H2 TV
-https://cdn.onarmtv.com/str/2/output.m3u8
-#EXTINF:-1 group-title="КАВКАЗ ТВ",Шогакат ТВ
-https://cdn.onarmtv.com/str/9/output.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="ЕВРОПА НОВОСТИ",Big News HD
@@ -923,8 +887,6 @@ https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
 https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
 #EXTINF:-1 group-title="ВЕБ-КАМЕРЫ",Калининград
 https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1 group-title="ВЕБ-КАМЕРЫ",Краснодар
-https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
 #EXTINF:-1 group-title="РАДИО",Radio Capital
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио Хит ТВ
