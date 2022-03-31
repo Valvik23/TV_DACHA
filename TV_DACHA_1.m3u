@@ -41,8 +41,6 @@ http://uiptv.do.am/1ufc/000000001/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24
@@ -121,10 +119,6 @@ http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/v
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС Love
@@ -170,17 +164,55 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новое Телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8$OPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Муз Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела HD
-http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",CNL
-http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
-#EXTINF:-1 group-title="ПРАВОСЛАВИЕ",МузСоюз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио Книга
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Радонеж»
+http://icecast.radonezh.cdnvideo.ru:8000/rad128
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Вера»
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Санкт-Петербурга»
+http://radio-spb.rusk.ru:8000/stream
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Спасение»
+http://s2.voscast.com:7584/stream
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Евангелие»
+http://radio-tochka.com:6095/;stream.mp3
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Воскресение»
+http://217.24.181.164:8000/stream.mp3
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Глаголъ»
+http://s4.radioheart.ru:8007/8080
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Благовещение»
+http://radio-blagoveshchenie.ru:10000/stream
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Луг Духовный»
+http://radioveramolitva128mp3.streamr.ru
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Образ»
+http://213.177.106.78:8006/
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «Победа»
+http://source.hostingradio.ru:8010/pobedaradio128-2.mp3
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Азбука «Добротолюбие»
+https://radio.azbyka.ru/dobrotolubie
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Азбука «Жития святых»
+https://radio.azbyka.ru/lives
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Оптина
+http://s02.radio-tochka.com:5070/stream
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Святогорская Лавра
+#http://svlavra.ddns.net:8000/svlavra
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио «The Rudder»
+http://radio.myocn.net:8080/;stream/1
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио Orthodoxia (17:00-22:00)
+https://stream.orthodoxia.pl/stream192.mp3
+#EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио Doxologia
+https://rlive.doxologia.ro/stream.mp3
 #EXTINF:-1 group-title="КИНО",Serial HD
 http://195.154.242.229/Serial_HD/video.m3u8?token=telegram-premieregroup
 #EXTINF:-1 group-title="КИНО",USSR
@@ -371,10 +403,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 http://stream.euroasia.lfstrm.tv/kuhnya/1/index.m3u8
 #EXTINF:-1 group-title="ЮМОР-КУХНЯ-ШОУ",FOOD NETWORK
 http://ott-cdn.ucom.am/s18/04.m3u8
-#EXTINF:-1 group-title="РЕЛАКС",Релакс
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="РЕЛАКС",WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="РЕЛАКС",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="РЕЛАКС",Животные FHD
@@ -407,6 +435,22 @@ https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="РЕЛАКС",Relax 2
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",musikcolabfm
+http://hls.goodgame.ru:80/hls/163343.m3u8$OPT:http-user-agent=smartlabs
+#EXTINF:-1 group-title="МУЗЫКА",RadioGora-Hip Hop
+http://listen.radiogora.ru:8000/hiphop128
+#EXTINF:-1 group-title="МУЗЫКА",GOA
+http://ice2.somafm.com/suburbsofgoa-32-aac
+#EXTINF:-1 group-title="МУЗЫКА",PulseEDM
+http://pulseedm.cdnstream1.com:8124/1373_128
+#EXTINF:-1 group-title="МУЗЫКА",Нашествие
+http://320kbps.radio-nashestvie.ru:9000/9857
+#EXTINF:-1 group-title="МУЗЫКА",Radio Capital
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 group-title="МУЗЫКА",Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",CONTACT music
@@ -423,8 +467,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",ACB TV
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Sonus FM
@@ -463,8 +505,6 @@ http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="МУЗЫКА",Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 group-title="МУЗЫКА",Евроденс 90х
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
@@ -659,7 +699,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Правда ТУТ
 http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="УКРАИНА",Правда ТУТ HD
+#EXTINF:-1 group-title="УКРАИНА",ПРАВДА ТУТ-  Киев
 http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",NewsOne
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
@@ -683,8 +723,6 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="УКРАИНА",7 канал HD (Одесса)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="УКРАИНА",ПРАВДА ТУТ-  Киев
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",Прямий HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="УКРАИНА",НТА Львов
@@ -709,11 +747,11 @@ http://cam.x-com.kz:8081/dramteatr/index.m3u8
 http://cam.x-com.kz:8081/downtown/index.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ",СТВ Беларусь
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 4
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 4 (Витебск)
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="БЕЛАРУСЬ",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Наше ТВ (Витебск)
+#EXTINF:-1 group-title="БЕЛАРУСЬ",Наше ТВ Витебск
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 group-title="БЕЛАРУСЬ",8 канал (Витебск) HD
 http://95.46.208.8:24433/art
@@ -721,13 +759,9 @@ http://95.46.208.8:24433/art
 https://stream.hoster.by/belarus24/live/playlist.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 4 (Витебск)
-http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="БЕЛАРУСЬ",Беларусь 5
 https://95-213-224-179.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ",Наше ТВ Витебск
-http://95.46.208.8:26259/nashe
-#EXTINF:-1 group-title="НОВОРОССИЯ",Первый республиканский
+#EXTINF:-1 group-title="НОВОРОССИЯ",Республиканский 1
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Дядя Ваня
 http://hls.goodgame.ru/hls/54105.m3u8
@@ -735,8 +769,6 @@ http://hls.goodgame.ru/hls/54105.m3u8
 http://hls.goodgame.ru/hls/6147_720.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Народная дипломатия HD
 http://hls.goodgame.ru/hls/33226.m3u8
-#EXTINF:-1 group-title="НОВОРОССИЯ",Республиканский 1
-http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Новороссия HD
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 group-title="НОВОРОССИЯ",Оплот
@@ -801,21 +833,3 @@ https://strm.yandex.ru/kal/weather_omsk/weather_omsk0.m3u8
 https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0.m3u8
 #EXTINF:-1 group-title="ВЕБ-КАМЕРЫ",Калининград
 https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0.m3u8
-#EXTINF:-1 group-title="РАДИО",Radio Capital
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
-#EXTINF:-1 group-title="РАДИО",Радио Хит ТВ
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="РАДИО",Радио Шансон ТВ HD
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="РАДИО",musikcolabfm
-http://hls.goodgame.ru:80/hls/163343.m3u8$OPT:http-user-agent=smartlabs
-#EXTINF:-1 group-title="РАДИО",Нашествие
-http://320kbps.radio-nashestvie.ru:9000/9857
-#EXTINF:-1 group-title="РАДИО",RadioGora-Hip Hop
-http://listen.radiogora.ru:8000/hiphop128
-#EXTINF:-1 group-title="РАДИО",GOA
-http://ice2.somafm.com/suburbsofgoa-32-aac
-#EXTINF:-1 group-title="РАДИО",PulseEDM
-http://pulseedm.cdnstream1.com:8124/1373_128
-#EXTINF:-1 group-title="РАДИО",Радио Книга
-http://bookradio.hostingradio.ru:8069/fm
