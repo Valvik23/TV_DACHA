@@ -1,50 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ОНТ
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science FHD
-http://5.17.88.7:52931/udp/235.10.10.140:1234
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",DW
-http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",FOX ABAZA TV
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",HDL HD
-https://sc.id-tv.kz/hdl_34_35.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Техно 24
-http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЭВРИКА
-http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия
-http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука
-http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗОО ТВ
-http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Здоровье ТВ
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Univer TV
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RT Doc HD
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВ Экстра
@@ -53,36 +21,154 @@ http://194.190.78.91:8080/tvextra720b/index.m3u8
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Стихия HD
 http://46.174.83.66/Morskoi_HD/mpegts
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Конный мир HD
-http://83.222.205.10:38080/konnyimir/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Brics TV HD (ENG)
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Космический HD
-http://92.43.140.249/s44/04.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NASA TV
-https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Реноме
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Калейдоскоп ТВ
-http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Поехали!
-https://sc.id-tv.kz/poehali_34_35.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Конный мир HD
+http://83.222.205.10:38080/konnyimir/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Калейдоскоп ТВ
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь 4K UHD
 http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4K UHD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста 4K UHD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_GLAZAMITURISTA4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Вот ТВ HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК 1
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МТВ
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятница HD
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",HTM HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",TEO TV HD
+http://teotv.ru:1935/live/site/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВР 24
+https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Север HD
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Canal 2 HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/48329/hlsx/pl.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Canal 3 HD
+http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/26285/hlsx/pl.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТРК
+http://sochi-strk.ru:2015/STRK/mpegts
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",43 Канал
+http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",С1 HD
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",С86 HD
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый Тульский
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый Ярославский
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый городской (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый городской (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС Love
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Оплoт HD
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Оплoт 2 HD
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Царьград
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="ПРАВОСЛАВИЕ",Три Ангела
@@ -411,176 +497,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?versio
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
-http://78.58.133.179:28000/play/a002/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
-http://78.58.133.179:28000/play/a002/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал HD
-http://uiptv.do.am/1ufc/000000001/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 1 HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия К
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия 24 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РТР Планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РТР Россия
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",НТВ Мир
-http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",НТВ Стиль
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Вместе РФ HD
-http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК 1
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",IZ.RU HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия ТВ FHD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Дождь
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Дождь HD
-http://103.194.169.171:8282/Dozhdj/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МТВ
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятница!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятница HD
-https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Супер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Суббота! HD
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ HD
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ International
-http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",THT Exclusive
-http://89.28.25.122/hls/tnt_md.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Рен ТВ HD
-http://103.194.169.171:8282/Ren_TV_HD_RU_hi/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Рен ТВ International
-https://sc.id-tv.kz/RenTV_36_37.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС International
-https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
-https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",HTM HD
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",TEO TV HD
-http://teotv.ru:1935/live/site/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Крик ТВ
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВР 24
-https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Север HD
-https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Canal 2 HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/48329/hlsx/pl.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Canal 3 HD
-http://s.ipcast.xyz/~205ceb711830cb1db1dd6f2679970d2019b/26285/hlsx/pl.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТРК
-http://sochi-strk.ru:2015/STRK/mpegts
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",43 Канал
-http://sochi-strk.ru:2015/43Kanal/mpegts
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",С1 HD
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",С86 HD
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый Тульский
-http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый Ярославский
-http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый городской (Киров)
-http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый городской (Омск)
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Губерния Самарская
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Астрахань 24
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый республиканский
-http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Оплoт HD
-http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Оплoт 2 HD
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир (+4)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Царьград
-https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Эхо ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Новое Телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Дон 24
 http://vlg-live01-cdn.tv.ti.ru:80/dtv/id1197_REG_SG--vlg_don24/03/plst.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Ростов-папа HD
