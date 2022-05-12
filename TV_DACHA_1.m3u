@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Бобер
+https://sc.id-tv.kz/bober.m3u8.m3u
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кино ТВ FHD
 http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD
@@ -35,6 +37,28 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 http://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw20000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Вот ТВ HD
 http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Россия Культура
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый HD
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС 1080р
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Время
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВЦ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый РНК
@@ -223,20 +247,30 @@ http://radio.myocn.net:8080/;stream/1
 https://stream.orthodoxia.pl/stream192.mp3
 #EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио Doxologia
 https://rlive.doxologia.ro/stream.mp3
-#EXTINF:-1 group-title="КИНО",Дом Кино Премиум
-https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:-1 group-title="КИНО",Русский иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",РУССКИЙ ИЛЛЮЗИОН
 http://86.57.178.105:10823
-#EXTINF:-1 group-title="КИНО",Твое ТВ
-http://stream-norst.cf/tvoetv.m3u8
 #EXTINF:-1 group-title="КИНО",КИНО 24
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="КИНО",ВСЕ ТВ
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 group-title="КИНО",Дом Кино Премиум
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:-1 group-title="КИНО",TVOE TV HD
+http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО",Твоё ТВ
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="КИНО",Твое ТВ
+http://stream-norst.cf/tvoetv.m3u8
 #EXTINF:-1 group-title="КИНО",Твое ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КИНО",СТРК HD
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="КИНО",TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 group-title="КИНО",TVM Channel
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="КИНО",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 group-title="КИНО",Amedia Hit HD
@@ -1903,40 +1937,10 @@ http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_MAHACHK_DOMASHNY/
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHN_ZK/variant.m3u8
 #EXTINF:-1 group-title="Россия Геоблок",Домашний (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Россия",Русский иллюзион
-https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
-#EXTINF:-1 group-title="Россия",Русский детектив
-http://193.33.88.172:8080/rus-detective/index.m3u8
-#EXTINF:-1 group-title="Россия",Русский роман HD
-http://193.33.88.172:8080/russki_roman_hd/index.m3u8
-#EXTINF:-1 group-title="Россия",РОДНОЙ КАНАЛ
-https://n1.slavmir.tv/live/slavmir/playlist.m3u8
-#EXTINF:-1 group-title="Россия",РОДНОЕ КИНО
-http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",Наше любимое
-http://95.141.128.163:8004/play/a0mo
-#EXTINF:-1 group-title="Россия",Мир сериала
-http://83.172.32.98:8012/tv/mirseriala
-#EXTINF:-1 group-title="Россия",Твоё ТВ
-http://stream-norst.cf:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Россия",TVOE TV HD
-http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",Мосфильм Золотая Коллекция R
-http://109.200.130.124:7007/play/a018
-#EXTINF:-1 group-title="Россия",Мосфильм. Золотая коллекция
-http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",ТНТ HD
-http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия",ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
 #EXTINF:-1 group-title="Россия",ТНТ4 International
 https://sc.id-tv.kz:443/tnt4_34_35.m3u8
-#EXTINF:-1 group-title="Россия",СТС 1080р
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
-#EXTINF:-1 group-title="Россия",СТС International
-https://sc.id-tv.kz/STS_34_35.m3u8
-#EXTINF:-1 group-title="Россия",СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="Россия",Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 group-title="Россия",ЧЕ
@@ -1985,32 +1989,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 http://193.33.88.172:8080/nostalgia/index.m3u8
 #EXTINF:-1 group-title="Россия",ТВ 43
 http://sochi-strk.ru:2015/43Kanal/mpegts
-#EXTINF:-1 group-title="Россия",КИНО 24
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Россия",ВСЕ ТВ
-https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 group-title="Россия",D-TV6
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="Россия",РТР-Планета
-https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
-#EXTINF:-1 group-title="Россия",RTR-Planeta
-http://204.107.27.61/vr-streams/1738.high/playlist.m3u8
-#EXTINF:-1 group-title="Россия",TV Extra
-http://live-1.otcnet.ru:80/tvextra720b/index.m3u8.m3u
-#EXTINF:-1 group-title="Россия",TVM Channel
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Россия",Top Secret
-http://178.163.37.161:4022/udp/234.0.0.185:2000
-#EXTINF:-1 group-title="Россия",24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",360° Подмосковье HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="Россия",Бобер
-https://sc.id-tv.kz/bober.m3u8.m3u
-#EXTINF:-1 group-title="Россия",Время
-https://sc.id-tv.kz:443/Vremya_36_37.m3u8
-#EXTINF:-1 group-title="Россия",Дождь
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="Россия",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",Звезда
@@ -2019,20 +1999,8 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",КВН
 http://178.163.37.161:4022/udp/234.0.0.233:2000
-#EXTINF:-1 group-title="Россия",Красная линия СССР р
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1 group-title="Россия",Красная линия СССР
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1 group-title="Россия",ЛЕН ТВ 24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="Россия",МИР 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",МИР HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",МИР
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Москва Доверие
 http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
 #EXTINF:-1 group-title="Россия",НИКА ТВ
@@ -2041,12 +2009,6 @@ http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://140.238.127.147/streams/5.m3u8
 #EXTINF:-1 group-title="Россия",ОТР
 http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_OTR_VLGD/variant.m3u8
-#EXTINF:-1 group-title="Россия",Осторожно Модерн
-http://140.238.127.147/streams/2.m3u8.m3u
-#EXTINF:-1 group-title="Россия",Первый HD
-http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8
 #EXTINF:-1 group-title="Россия",Победа
 https://sc.id-tv.kz/Pobeda_34_35.m3u8.m3u
 #EXTINF:-1 group-title="Россия",Продвижение
@@ -2057,12 +2019,6 @@ https://sc.id-tv.kz:443/friday_34_35.m3u8
 http://185.184.234.181:81/udp/225.1.2.18:1234
 #EXTINF:-1 group-title="Россия",Россия 1
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Россия",Россия Культура Р
-http://185.184.234.181:81/udp/225.1.2.4:1234
-#EXTINF:-1 group-title="Россия",Россия Культура
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",Россия Культура
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 group-title="Россия",Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 #EXTINF:-1 group-title="Россия",Суббота! HD
