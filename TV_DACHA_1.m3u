@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Бобер
 https://sc.id-tv.kz/bober.m3u8.m3u
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кино ТВ FHD
@@ -49,13 +51,13 @@ https://sc.id-tv.kz/STS_34_35.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир (+4)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",МИР 24
+#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Время
 https://sc.id-tv.kz:443/Vremya_36_37.m3u8
@@ -111,8 +113,6 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС International
-https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ-3
@@ -147,8 +147,6 @@ http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3
 http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Первый городской (Омск)
 http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",СТС
@@ -181,10 +179,6 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир Premium HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Мир (+4)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Царьград
 https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
 #EXTINF:-1 group-title="РОССИЙСКИЕ ЦЕНТРАЛЬНЫЕ КАНАЛЫ",Красная линия
@@ -247,24 +241,32 @@ http://radio.myocn.net:8080/;stream/1
 https://stream.orthodoxia.pl/stream192.mp3
 #EXTINF:-1 group-title="ПРАВОСЛАВНОЕ РАДИО",Радио Doxologia
 https://rlive.doxologia.ro/stream.mp3
+#EXTINF:-1 group-title="КИНО",Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="КИНО",Русский иллюзион
 https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",РУССКИЙ ИЛЛЮЗИОН
 http://86.57.178.105:10823
 #EXTINF:-1 group-title="КИНО",КИНО 24
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="КИНО",ВСЕ ТВ
+#EXTINF:-1 group-title="КИНО",Арсенал
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:-1 group-title="КИНО",Ростов-папа HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="КИНО",43 Канал
+http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:-1 group-title="КИНО",Ростов-папа HD (Ростов-на-Дону)
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
+#EXTINF:-1 group-title="КИНО",A2 HD
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 group-title="КИНО",Дом Кино Премиум
 https://sc.id-tv.kz/domkino_hd.m3u8
 #EXTINF:-1 group-title="КИНО",TVOE TV HD
 http://stream-norst.cf:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Твоё ТВ
+#EXTINF:-1 group-title="КИНО",Твое ТВ HD
 http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КИНО",Твое ТВ
 http://stream-norst.cf/tvoetv.m3u8
-#EXTINF:-1 group-title="КИНО",Твое ТВ HD
-http://stream-norst.cf:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="КИНО",СТРК HD
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="КИНО",TV1000 Русское кино HD
@@ -285,8 +287,6 @@ http://hls.goodgame.ru/hls/5346.m3u8$OPT:http-user-agent=smartlabs
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1 group-title="КИНО",A1 HD
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 group-title="КИНО",A2 HD
-https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="КИНО",TV 1000 HD
@@ -467,8 +467,6 @@ http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
 http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Дон 24
 http://vlg-live01-cdn.tv.ti.ru:80/dtv/id1197_REG_SG--vlg_don24/03/plst.m3u8
-#EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Ростов-папа HD
-http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",Краснодар
 https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0.m3u8
 #EXTINF:-1 group-title="РЕГИОНЫ РОССИИ",НТС (Севастополь)
@@ -553,8 +551,6 @@ https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklis
 http://91.192.168.251:5050
 #EXTINF:-1 group-title="РАЗНЫЕ",IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8
-#EXTINF:-1 group-title="РАЗНЫЕ",43 Канал
-http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="РАЗНЫЕ",Красная Линия
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
 #EXTINF:-1 group-title="РАЗНЫЕ",Первый канал
@@ -801,8 +797,6 @@ https://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R02_MORDOVIY24/variant.m3u8
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 #EXTINF:-1 group-title="RU-Region",Дон 24 HD (Ростов-на-Дону)
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
-#EXTINF:-1 group-title="RU-Region",Ростов-папа HD (Ростов-на-Дону)
-http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_ROSTOVPAPA/variant.m3u8
 #EXTINF:-1 group-title="RU-Region",Эхо-ТВ (Рязань)
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RU-Region",Первый Ярославский HD (Ярославль)
@@ -1685,10 +1679,6 @@ https://cdnhls.goodgame.ru/hls/166446.m3u8
 https://v2.catcast.tv/content/38792/index.m3u8
 #EXTINF:-1 group-title="RU-Region",Fentezy HD
 http://autopilot.catcast.tv/content/38144/index.m3u8
-#EXTINF:-1 group-title="RU-Region",Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="RU-Region",СССР ТВ
-https://autopilot.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1 group-title="RU-Region",Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 group-title="RU-Region",ПРЕМЬЕРА
@@ -1703,8 +1693,6 @@ http://v2.catcast.me/content/37925/index.m3u8
 http://185.245.187.150:80/KinotvFHD/index.m3u8
 #EXTINF:-1 group-title="RU-Region",КинозаЛ
 https://hls.goodgame.ru/hls/73474.m3u8
-#EXTINF:-1 group-title="RU-Region",Арсенал
-http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="RU-Region",U!Premium ATV
 http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:-1 group-title="RU-Region",Armenia Comedy ATV
